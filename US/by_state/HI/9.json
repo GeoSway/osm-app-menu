@@ -1,0 +1,32 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "HI",
+    "state_name": "Hawaii",
+    "name": "Hawaii Kai",
+    "osm_type": "relation",
+    "osm_id": 10045916,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "HI",
+    "state_name": "Hawaii",
+    "name": "Kuliouou-Kalani Iki",
+    "osm_type": "relation",
+    "osm_id": 10142801,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

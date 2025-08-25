@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "NB",
+    "state_name": "New Brunswick",
+    "name": "New Brunswick",
+    "osm_type": "relation",
+    "osm_id": 68942,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q1965",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "NB",
+    "official_name": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "OK",
+    "state_name": "Oklahoma",
+    "name": "Oklahoma",
+    "osm_type": "relation",
+    "osm_id": 161645,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1649",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "OK",
+    "official_name": null
+  }
+]

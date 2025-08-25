@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "AK",
+    "state_name": "Alaska",
+    "name": "Alaska",
+    "osm_type": "relation",
+    "osm_id": 1116270,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q797",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "AK",
+    "official_name": null
+  }
+]

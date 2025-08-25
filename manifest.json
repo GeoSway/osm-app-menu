@@ -1,0 +1,34 @@
+{
+  "generated_at": "2025-08-24T23:04:15Z",
+  "generator": "GeoSway-OSM-AdminCatalog/1.1 (+https://yourdomain.example/osm)",
+  "countries": {
+    "US": {
+      "name": "United States",
+      "levels": [
+        "4",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "dir": "US",
+      "states_file": "US/states.json",
+      "manifest": "US/manifest.json"
+    },
+    "CA": {
+      "name": "Canada",
+      "levels": [
+        "4",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "dir": "CA",
+      "states_file": "CA/states.json",
+      "manifest": "CA/manifest.json"
+    }
+  }
+}

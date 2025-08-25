@@ -1,0 +1,6 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,RI,Rhode Island,Kent County,relation,392935,6,Counties/County-equivalents,Q54254,,,,
+US,RI,Rhode Island,Newport County,relation,404983,6,Counties/County-equivalents,Q54260,,,,
+US,RI,Rhode Island,Bristol County,relation,404984,6,Counties/County-equivalents,Q54262,,,,
+US,RI,Rhode Island,Providence County,relation,1840541,6,Counties/County-equivalents,Q54253,,,,
+US,RI,Rhode Island,South County,relation,2554903,6,Counties/County-equivalents,Q54258,,South County,,Washington County

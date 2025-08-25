@@ -1,0 +1,32 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "LA",
+    "state_name": "Louisiana",
+    "name": "Ward 1",
+    "osm_type": "way",
+    "osm_id": 1300293327,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "LA",
+    "state_name": "Louisiana",
+    "name": "Downtown Development District",
+    "osm_type": "relation",
+    "osm_id": 14459532,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

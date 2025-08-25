@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Québec",
+    "abbr": "QC",
+    "osm_type": "relation",
+    "osm_id": 61549,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-QC",
+    "wikidata": "Q176",
+    "fips": null
+  },
+  {
+    "name": "Ontario",
+    "abbr": "ON",
+    "osm_type": "relation",
+    "osm_id": 68841,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-ON",
+    "wikidata": "Q1904",
+    "fips": null
+  },
+  {
+    "name": "New Brunswick",
+    "abbr": "NB",
+    "osm_type": "relation",
+    "osm_id": 68942,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-NB",
+    "wikidata": "Q1965",
+    "fips": null
+  },
+  {
+    "name": "Nova Scotia",
+    "abbr": "NS",
+    "osm_type": "relation",
+    "osm_id": 390558,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-NS",
+    "wikidata": "Q1952",
+    "fips": null
+  },
+  {
+    "name": "ᓄᓇᕗᑦ Nunavut",
+    "abbr": "NU",
+    "osm_type": "relation",
+    "osm_id": 390840,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-NU",
+    "wikidata": "Q2023",
+    "fips": null
+  },
+  {
+    "name": "Manitoba",
+    "abbr": "MB",
+    "osm_type": "relation",
+    "osm_id": 390841,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-MB",
+    "wikidata": "Q1948",
+    "fips": null
+  },
+  {
+    "name": "British Columbia",
+    "abbr": "BC",
+    "osm_type": "relation",
+    "osm_id": 390867,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-BC",
+    "wikidata": "Q1973",
+    "fips": null
+  },
+  {
+    "name": "Prince Edward Island",
+    "abbr": "PE",
+    "osm_type": "relation",
+    "osm_id": 391115,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-PE",
+    "wikidata": "Q1978",
+    "fips": null
+  },
+  {
+    "name": "Saskatchewan",
+    "abbr": "SK",
+    "osm_type": "relation",
+    "osm_id": 391178,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-SK",
+    "wikidata": "Q1989",
+    "fips": null
+  },
+  {
+    "name": "Alberta",
+    "abbr": "AB",
+    "osm_type": "relation",
+    "osm_id": 391186,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-AB",
+    "wikidata": "Q1951",
+    "fips": null
+  },
+  {
+    "name": "Newfoundland and Labrador",
+    "abbr": "NL",
+    "osm_type": "relation",
+    "osm_id": 391196,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-NL",
+    "wikidata": "Q2003",
+    "fips": null
+  },
+  {
+    "name": "Northwest Territories",
+    "abbr": "NT",
+    "osm_type": "relation",
+    "osm_id": 391220,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-NT",
+    "wikidata": "Q2007",
+    "fips": null
+  },
+  {
+    "name": "Yukon",
+    "abbr": "YT",
+    "osm_type": "relation",
+    "osm_id": 391455,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "iso3166_2": "CA-YT",
+    "wikidata": "Q2009",
+    "fips": null
+  }
+]

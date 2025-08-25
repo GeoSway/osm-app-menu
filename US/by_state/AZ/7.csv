@@ -1,0 +1,17 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,AZ,Arizona,,way,729386579,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,El Mirage,relation,10090612,7,Townships/Boroughs/Districts,Q79434,,,,City of El Mirage
+US,AZ,Arizona,Shiprock Agency / Naatʼáanii Nééz Bił Hahoodzo biyiʼdi,relation,13695127,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Fort Defiance Agency / Tséhootsooí Bił Hahoodzo biyiʼdi,relation,13695508,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Chinle Agency,relation,13695517,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Gu Vo District,relation,13704778,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Hickiwan,relation,13704779,7,Townships/Boroughs/Districts,Q28222203,,,,
+US,AZ,Arizona,Sif Oidak District,relation,13704780,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Pisinemo District,relation,13708178,7,Townships/Boroughs/Districts,Q570305,,,,
+US,AZ,Arizona,Gu Achi District,relation,13708179,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Schuk Toak District,relation,13708180,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Sells District,relation,13708181,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Baboquivari District,relation,13708182,7,Townships/Boroughs/Districts,,,,,
+US,AZ,Arizona,Chukut Kuk District,relation,13708183,7,Townships/Boroughs/Districts,Q28220723,,,,
+US,AZ,Arizona,San Xavier District,relation,13708184,7,Townships/Boroughs/Districts,Q16899728,,,,
+US,AZ,Arizona,San Lucy District,relation,13708185,7,Townships/Boroughs/Districts,Q28912666,,,,

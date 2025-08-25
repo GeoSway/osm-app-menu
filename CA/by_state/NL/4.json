@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "NL",
+    "state_name": "Newfoundland and Labrador",
+    "name": "Newfoundland and Labrador",
+    "osm_type": "relation",
+    "osm_id": 391196,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q2003",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "NL",
+    "official_name": null
+  }
+]

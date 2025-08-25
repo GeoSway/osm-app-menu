@@ -1,0 +1,5 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,MP,Northern Mariana Islands,,way,43358504,6,Counties/County-equivalents,,,,,
+US,MP,Northern Mariana Islands,Tinian Municipality,relation,306005,6,Counties/County-equivalents,Q7808227,,,,
+US,MP,Northern Mariana Islands,Saipan Municipality,relation,306006,6,Counties/County-equivalents,Q9332790,,,,
+US,MP,Northern Mariana Islands,Northern Islands Municipality,relation,306007,6,Counties/County-equivalents,Q1608103,,,,

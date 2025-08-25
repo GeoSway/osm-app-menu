@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "PA",
+    "state_name": "Pennsylvania",
+    "name": "10th Ward",
+    "osm_type": "relation",
+    "osm_id": 19405024,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

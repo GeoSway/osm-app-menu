@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "MO",
+    "state_name": "Missouri",
+    "name": "Missouri",
+    "osm_type": "relation",
+    "osm_id": 161638,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1581",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "MO",
+    "official_name": null
+  }
+]

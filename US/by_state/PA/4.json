@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "PA",
+    "state_name": "Pennsylvania",
+    "name": "Pennsylvania",
+    "osm_type": "relation",
+    "osm_id": 162109,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1400",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "PA",
+    "official_name": null
+  }
+]

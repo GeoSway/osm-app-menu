@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "NS",
+    "state_name": "Nova Scotia",
+    "name": "Nova Scotia",
+    "osm_type": "relation",
+    "osm_id": 390558,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q1952",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "NS",
+    "official_name": null
+  }
+]

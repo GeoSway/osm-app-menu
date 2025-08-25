@@ -1,0 +1,5 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,NM,New Mexico,Socorro Historic Plaza,relation,8589627,10,Neighborhoods/Hamlets,,,,,
+US,NM,New Mexico,San Miguel Church District,relation,8589634,10,Neighborhoods/Hamlets,,,,,
+US,NM,New Mexico,Manzanares District,relation,8589639,10,Neighborhoods/Hamlets,,,,,
+US,NM,New Mexico,Church-McCutcheon District,relation,8589640,10,Neighborhoods/Hamlets,,,,,

@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "NH",
+    "state_name": "New Hampshire",
+    "name": "New Hampshire",
+    "osm_type": "relation",
+    "osm_id": 67213,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q759",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "NH",
+    "official_name": null
+  }
+]

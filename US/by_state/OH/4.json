@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "OH",
+    "state_name": "Ohio",
+    "name": "Ohio",
+    "osm_type": "relation",
+    "osm_id": 162061,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1397",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "OH",
+    "official_name": null
+  }
+]

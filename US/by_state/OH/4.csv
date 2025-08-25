@@ -1,0 +1,2 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,OH,Ohio,Ohio,relation,162061,4,States/DC/Territories,Q1397,,,OH,

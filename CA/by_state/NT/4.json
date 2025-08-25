@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "NT",
+    "state_name": "Northwest Territories",
+    "name": "Northwest Territories",
+    "osm_type": "relation",
+    "osm_id": 391220,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q2007",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "NT",
+    "official_name": null
+  }
+]

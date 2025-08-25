@@ -1,0 +1,62 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "Eastern Navajo Agency / Tʼiistsʼóóz Ńdeeshgizh Bił Hahoodzo biyiʼdi",
+    "osm_type": "relation",
+    "osm_id": 13694685,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "Shiprock Agency / Naatʼáanii Nééz Bił Hahoodzo biyiʼdi",
+    "osm_type": "relation",
+    "osm_id": 13695127,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "Fort Defiance Agency / Tséhootsooí Bił Hahoodzo biyiʼdi",
+    "osm_type": "relation",
+    "osm_id": 13695508,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "Chinle Agency",
+    "osm_type": "relation",
+    "osm_id": 13695517,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

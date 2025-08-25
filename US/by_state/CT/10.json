@@ -1,0 +1,32 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "CT",
+    "state_name": "Connecticut",
+    "name": "Greens Farms",
+    "osm_type": "relation",
+    "osm_id": 10185248,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "CT",
+    "state_name": "Connecticut",
+    "name": "Compo",
+    "osm_type": "relation",
+    "osm_id": 10185414,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "MP",
+    "state_name": "Northern Mariana Islands",
+    "name": "Northern Mariana Islands",
+    "osm_type": "relation",
+    "osm_id": 306004,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q16644",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "MP",
+    "official_name": null
+  }
+]

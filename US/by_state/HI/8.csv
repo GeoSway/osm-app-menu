@@ -1,0 +1,5 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,HI,Hawaii,,way,259159405,8,Cities/Towns/Villages/Municipalities,,,,,
+US,HI,Hawaii,,way,262492100,8,Cities/Towns/Villages/Municipalities,,,,,
+US,HI,Hawaii,East Kapolei,way,1383901074,8,Cities/Towns/Villages/Municipalities,Q106900217,,,,
+US,HI,Hawaii,Keaau,relation,119203,8,Cities/Towns/Villages/Municipalities,Q3316659,,,,

@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "UT",
+    "state_name": "Utah",
+    "name": "Utah",
+    "osm_type": "relation",
+    "osm_id": 161993,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q829",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "UT",
+    "official_name": null
+  }
+]

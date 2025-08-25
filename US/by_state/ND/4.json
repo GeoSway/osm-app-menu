@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "ND",
+    "state_name": "North Dakota",
+    "name": "North Dakota",
+    "osm_type": "relation",
+    "osm_id": 161653,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1207",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "ND",
+    "official_name": null
+  }
+]

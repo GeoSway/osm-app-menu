@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "MA",
+    "state_name": "Massachusetts",
+    "name": "Massachusetts",
+    "osm_type": "relation",
+    "osm_id": 61315,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q771",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "MA",
+    "official_name": null
+  }
+]

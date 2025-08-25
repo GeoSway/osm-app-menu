@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "MB",
+    "state_name": "Manitoba",
+    "name": "Manitoba",
+    "osm_type": "relation",
+    "osm_id": 390841,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q1948",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "MB",
+    "official_name": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "ON",
+    "state_name": "Ontario",
+    "name": "Ontario",
+    "osm_type": "relation",
+    "osm_id": 68841,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q1904",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "ON",
+    "official_name": null
+  }
+]

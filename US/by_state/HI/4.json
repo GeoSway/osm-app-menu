@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "HI",
+    "state_name": "Hawaii",
+    "name": "Hawaii",
+    "osm_type": "relation",
+    "osm_id": 166563,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q782",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "HI",
+    "official_name": null
+  }
+]

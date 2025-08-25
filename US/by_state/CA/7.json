@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "CA",
+    "state_name": "California",
+    "name": "Fresno Air Attack Base",
+    "osm_type": "relation",
+    "osm_id": 18587558,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "SD",
+    "state_name": "South Dakota",
+    "name": "South Dakota",
+    "osm_type": "relation",
+    "osm_id": 161652,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1211",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "SD",
+    "official_name": null
+  }
+]

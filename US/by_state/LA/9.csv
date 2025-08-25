@@ -1,0 +1,3 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,LA,Louisiana,Ward 1,way,1300293327,9,Wards/Districts,,,,,
+US,LA,Louisiana,Downtown Development District,relation,14459532,9,Wards/Districts,,,,,

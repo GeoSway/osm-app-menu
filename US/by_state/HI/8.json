@@ -1,0 +1,62 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "HI",
+    "state_name": "Hawaii",
+    "name": null,
+    "osm_type": "way",
+    "osm_id": 259159405,
+    "admin_level": "8",
+    "level_name": "Cities/Towns/Villages/Municipalities",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "HI",
+    "state_name": "Hawaii",
+    "name": null,
+    "osm_type": "way",
+    "osm_id": 262492100,
+    "admin_level": "8",
+    "level_name": "Cities/Towns/Villages/Municipalities",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "HI",
+    "state_name": "Hawaii",
+    "name": "East Kapolei",
+    "osm_type": "way",
+    "osm_id": 1383901074,
+    "admin_level": "8",
+    "level_name": "Cities/Towns/Villages/Municipalities",
+    "wikidata": "Q106900217",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "HI",
+    "state_name": "Hawaii",
+    "name": "Keaau",
+    "osm_type": "relation",
+    "osm_id": 119203,
+    "admin_level": "8",
+    "level_name": "Cities/Towns/Villages/Municipalities",
+    "wikidata": "Q3316659",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

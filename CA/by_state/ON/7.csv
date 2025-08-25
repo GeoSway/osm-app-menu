@@ -1,0 +1,3 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+CA,ON,Ontario,Tobermory,way,974158589,7,Subdivisions/Municipal Districts/Regional Municipalities,Q7811572,,,,Toberymory
+CA,ON,Ontario,District Municipality of Muskoka,relation,7070870,7,Subdivisions/Municipal Districts/Regional Municipalities,Q382508,,Muskoka District,,

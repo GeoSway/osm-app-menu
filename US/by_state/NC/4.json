@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "NC",
+    "state_name": "North Carolina",
+    "name": "North Carolina",
+    "osm_type": "relation",
+    "osm_id": 224045,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1454",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "NC",
+    "official_name": null
+  }
+]

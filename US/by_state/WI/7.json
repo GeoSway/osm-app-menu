@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "WI",
+    "state_name": "Wisconsin",
+    "name": null,
+    "osm_type": "way",
+    "osm_id": 1353092639,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

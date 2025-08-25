@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "RI",
+    "state_name": "Rhode Island",
+    "name": "Rhode Island",
+    "osm_type": "relation",
+    "osm_id": 392915,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1387",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "RI",
+    "official_name": null
+  }
+]

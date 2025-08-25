@@ -1,0 +1,32 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "AR",
+    "state_name": "Arkansas",
+    "name": "Big Rock Township",
+    "osm_type": "relation",
+    "osm_id": 18491821,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "AR",
+    "state_name": "Arkansas",
+    "name": "Hill Township",
+    "osm_type": "relation",
+    "osm_id": 18491822,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

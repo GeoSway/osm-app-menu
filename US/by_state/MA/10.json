@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "MA",
+    "state_name": "Massachusetts",
+    "name": "Florence",
+    "osm_type": "way",
+    "osm_id": 608006455,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": "Q5460527",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

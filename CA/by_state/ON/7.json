@@ -1,0 +1,32 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "ON",
+    "state_name": "Ontario",
+    "name": "Tobermory",
+    "osm_type": "way",
+    "osm_id": 974158589,
+    "admin_level": "7",
+    "level_name": "Subdivisions/Municipal Districts/Regional Municipalities",
+    "wikidata": "Q7811572",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": "Toberymory"
+  },
+  {
+    "country": "CA",
+    "state_abbr": "ON",
+    "state_name": "Ontario",
+    "name": "District Municipality of Muskoka",
+    "osm_type": "relation",
+    "osm_id": 7070870,
+    "admin_level": "7",
+    "level_name": "Subdivisions/Municipal Districts/Regional Municipalities",
+    "wikidata": "Q382508",
+    "fips": null,
+    "alt_name": "Muskoka District",
+    "short_name": null,
+    "official_name": null
+  }
+]

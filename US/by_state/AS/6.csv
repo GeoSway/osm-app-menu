@@ -1,0 +1,13 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,AS,American Samoa,,way,40999748,6,Counties/County-equivalents,,,,,
+US,AS,American Samoa,,way,40999757,6,Counties/County-equivalents,,,,,
+US,AS,American Samoa,,way,40999879,6,Counties/County-equivalents,,,,,
+US,AS,American Samoa,,way,926735121,6,Counties/County-equivalents,,,,,
+US,AS,American Samoa,,way,926735122,6,Counties/County-equivalents,,,,,
+US,AS,American Samoa,,way,926735125,6,Counties/County-equivalents,,,,,
+US,AS,American Samoa,,way,926735398,6,Counties/County-equivalents,,,,,
+US,AS,American Samoa,,way,1085814947,6,Counties/County-equivalents,,,,,
+US,AS,American Samoa,Manuʻa District,relation,7381453,6,Counties/County-equivalents,Q1247537,,,,
+US,AS,American Samoa,Western District,relation,7381454,6,Counties/County-equivalents,Q2437227,,,,
+US,AS,American Samoa,Eastern District,relation,7381455,6,Counties/County-equivalents,Q2625563,,,,
+US,AS,American Samoa,Swains Island,relation,8818673,6,Counties/County-equivalents,Q1128488,040,Olohega,,

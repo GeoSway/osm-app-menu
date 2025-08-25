@@ -1,0 +1,603 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,NY,New York,,way,37810548,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,37811435,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,6 feet,way,38517649,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,38530578,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,263433613,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Elmwood Village,way,327519550,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,461405255,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,463774596,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,463774618,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,470330523,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Elmwood Village,way,571465872,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,605622545,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,940452097,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1021833978,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Lincoln Avenue,way,1035482758,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1046366791,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1064489508,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1073321498,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1073423073,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1073460038,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1073462381,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1073464941,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1073647434,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1074664746,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1074664750,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1074666880,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1075132895,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1075796696,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1075852753,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1075866395,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1076224006,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1076463730,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1076465262,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1076467185,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1076470218,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1077551846,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1077850023,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,,way,1079645908,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Lincoln Avenue,way,1328242531,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Village of Munsey Park,relation,174364,8,Cities/Towns/Villages/Municipalities,Q3449249,,,,
+US,NY,New York,Village of Canajoharie,relation,174371,8,Cities/Towns/Villages/Municipalities,Q3460706,,,,Village of Canajoharie
+US,NY,New York,Village of Palatine Bridge,relation,174372,8,Cities/Towns/Villages/Municipalities,Q3452985,,,,Village of Palatine Bridge
+US,NY,New York,Village of Fultonville,relation,174373,8,Cities/Towns/Villages/Municipalities,Q3453118,,,,Village of Fultonville
+US,NY,New York,Village of Fonda,relation,174374,8,Cities/Towns/Villages/Municipalities,Q593663,,,,Village of Fonda
+US,NY,New York,Village of Fort Plain,relation,174375,8,Cities/Towns/Villages/Municipalities,Q3452871,,,,Village of Fort Plain
+US,NY,New York,Village of Nelliston,relation,174376,8,Cities/Towns/Villages/Municipalities,Q3452883,,,,Village of Nelliston
+US,NY,New York,Village of Athens,relation,174377,8,Cities/Towns/Villages/Municipalities,Q3460823,,,,Village of Athens
+US,NY,New York,Village of Catskill,relation,174378,8,Cities/Towns/Villages/Municipalities,Q2943009,,,,Village of Catskill
+US,NY,New York,Village of South Glens Falls,relation,174382,8,Cities/Towns/Villages/Municipalities,Q3452901,,,,Village of South Glens Falls
+US,NY,New York,Village of Waterford,relation,174384,8,Cities/Towns/Villages/Municipalities,Q3461408,,,,Village of Waterford
+US,NY,New York,Village of Hewlett Neck,relation,174392,8,Cities/Towns/Villages/Municipalities,Q3448881,,,,Village of Hewlett Neck
+US,NY,New York,Village of Woodsburgh,relation,174393,8,Cities/Towns/Villages/Municipalities,Q3448904,,,,Village of Woodsburgh
+US,NY,New York,Village of East Williston,relation,174394,8,Cities/Towns/Villages/Municipalities,Q3451936,,,,Village of East Williston
+US,NY,New York,Village of Williston Park,relation,174395,8,Cities/Towns/Villages/Municipalities,Q3448950,,,,Village of Williston Park
+US,NY,New York,Village of Westbury,relation,174396,8,Cities/Towns/Villages/Municipalities,Q282747,,,,Village of Westbury
+US,NY,New York,Village of Valley Stream,relation,174399,8,Cities/Towns/Villages/Municipalities,Q3476571,,,,Village of Valley Stream
+US,NY,New York,Village of Upper Brookville,relation,174401,8,Cities/Towns/Villages/Municipalities,Q3452011,,,,Village of Upper Brookville
+US,NY,New York,Village of Thomaston,relation,174403,8,Cities/Towns/Villages/Municipalities,Q3450901,,,,Village of Thomaston
+US,NY,New York,Village of Stewart Manor,relation,174404,8,Cities/Towns/Villages/Municipalities,Q3449128,,,,Village of Stewart Manor
+US,NY,New York,Village of South Floral Park,relation,174405,8,Cities/Towns/Villages/Municipalities,Q3448973,,,,Village of South Floral Park
+US,NY,New York,Village of Sea Cliff,relation,174406,8,Cities/Towns/Villages/Municipalities,Q3448869,,,,Village of Sea Cliff
+US,NY,New York,Village of Sands Point,relation,174408,8,Cities/Towns/Villages/Municipalities,Q3451876,,,,Village of Sands Point
+US,NY,New York,Village of Russell Gardens,relation,174409,8,Cities/Towns/Villages/Municipalities,Q3451905,,,,Village of Russell Gardens
+US,NY,New York,Village of Roslyn Harbor,relation,174411,8,Cities/Towns/Villages/Municipalities,Q2097473,,,,Village of Roslyn Harbor
+US,NY,New York,Village of Roslyn Estates,relation,174412,8,Cities/Towns/Villages/Municipalities,Q3451886,,,,
+US,NY,New York,Village of Roslyn,relation,174413,8,Cities/Towns/Villages/Municipalities,Q2039075,,,,
+US,NY,New York,Village of Rockville Centre,relation,174422,8,Cities/Towns/Villages/Municipalities,Q961808,,,,Village of Rockville Centre
+US,NY,New York,Village of Port Washington North,relation,174423,8,Cities/Towns/Villages/Municipalities,Q3449237,,,,Village of Port Washington North
+US,NY,New York,Village of Manorhaven,relation,174424,8,Cities/Towns/Villages/Municipalities,Q3449072,,,,Village of Manorhaven
+US,NY,New York,Village of Plandome Manor,relation,174427,8,Cities/Towns/Villages/Municipalities,Q3451896,,,,Village of Plandome Manor
+US,NY,New York,Village of Plandome,relation,174428,8,Cities/Towns/Villages/Municipalities,Q2716626,,,,Village of Plandome
+US,NY,New York,Village of Plandome Heights,relation,174429,8,Cities/Towns/Villages/Municipalities,Q427338,,,,Village of Plandome Heights
+US,NY,New York,Village of Flower Hill,relation,174430,8,Cities/Towns/Villages/Municipalities,Q3451947,,,,Incorporated Village of Flower Hill
+US,NY,New York,Village of Oyster Bay Cove,relation,174433,8,Cities/Towns/Villages/Municipalities,Q3448939,,,,Village of Oyster Bay Cove
+US,NY,New York,Village of Cove Neck,relation,174434,8,Cities/Towns/Villages/Municipalities,Q3448984,,,,Village of Cove Neck
+US,NY,New York,Village of Brookville,relation,174435,8,Cities/Towns/Villages/Municipalities,Q3449260,,,,Village of Brookville
+US,NY,New York,Village of Old Westbury,relation,174436,8,Cities/Towns/Villages/Municipalities,Q2710615,,,,Village of Old Westbury
+US,NY,New York,Village of Old Brookville,relation,174437,8,Cities/Towns/Villages/Municipalities,Q3451958,,,,Village of Old Brookville
+US,NY,New York,Village of East Hills,relation,174438,8,Cities/Towns/Villages/Municipalities,Q3449095,,,,
+US,NY,New York,Village of North Hills,relation,174441,8,Cities/Towns/Villages/Municipalities,Q3448834,,,,
+US,NY,New York,Village of New Hyde Park,relation,174442,8,Cities/Towns/Villages/Municipalities,Q3451856,,,,Village of New Hyde Park
+US,NY,New York,Village of Muttontown,relation,174443,8,Cities/Towns/Villages/Municipalities,Q3451968,,,,Village of Muttontown
+US,NY,New York,Village of Mineola,relation,174445,8,Cities/Towns/Villages/Municipalities,Q2349502,,,,Village of Mineola
+US,NY,New York,Village of Mill Neck,relation,174446,8,Cities/Towns/Villages/Municipalities,Q3448963,,,,Village of Mill Neck
+US,NY,New York,Village of Matinecock,relation,174448,8,Cities/Towns/Villages/Municipalities,Q3452048,,,,Village of Matinecock
+US,NY,New York,Village of Malverne,relation,174451,8,Cities/Towns/Villages/Municipalities,Q3449083,,,,Village of Malverne
+US,NY,New York,Village of Lynbrook,relation,174452,8,Cities/Towns/Villages/Municipalities,Q1878794,,,,Village of Lynbrook
+US,NY,New York,Village of Lawrence,relation,174455,8,Cities/Towns/Villages/Municipalities,Q3477005,,,,Village of Lawrence
+US,NY,New York,Village of Cedarhurst,relation,174456,8,Cities/Towns/Villages/Municipalities,Q1052557,,,,Village of Cedarhurst
+US,NY,New York,Village of Laurel Hollow,relation,174458,8,Cities/Towns/Villages/Municipalities,Q3448994,,,,Village of Laurel Hollow
+US,NY,New York,Village of Lattingtown,relation,174459,8,Cities/Towns/Villages/Municipalities,Q3045872,,,,Village of Lattingtown
+US,NY,New York,Village of Lake Success,relation,174460,8,Cities/Towns/Villages/Municipalities,Q302894,,,,
+US,NY,New York,Village of Kings Point,relation,174461,8,Cities/Towns/Villages/Municipalities,Q3449107,,,,Village of Kings Point
+US,NY,New York,Village of Kensington,relation,174462,8,Cities/Towns/Villages/Municipalities,Q3448915,,,,Village of Kensington
+US,NY,New York,Village of Island Park,relation,174465,8,Cities/Towns/Villages/Municipalities,Q3448891,,,,
+US,NY,New York,Village of Hewlett Bay Park,relation,174466,8,Cities/Towns/Villages/Municipalities,Q588305,,,,Village of Hewlett Bay Park
+US,NY,New York,Village of Hewlett Harbor,relation,174468,8,Cities/Towns/Villages/Municipalities,Q3451824,,,,Village of Hewlett Harbor
+US,NY,New York,Village of Hempstead,relation,174472,8,Cities/Towns/Villages/Municipalities,Q3358175,,,,The Incorporated Village of Hempstead
+US,NY,New York,Village of Great Neck Plaza,relation,174473,8,Cities/Towns/Villages/Municipalities,Q3477098,,,,Village of Great Neck Plaza
+US,NY,New York,Village of Great Neck Estates,relation,174477,8,Cities/Towns/Villages/Municipalities,Q3448855,,,,Village of Great Neck Estates
+US,NY,New York,Village of Great Neck,relation,174479,8,Cities/Towns/Villages/Municipalities,Q1378786,,,,Village of Great Neck
+US,NY,New York,Village of Garden City,relation,174481,8,Cities/Towns/Villages/Municipalities,Q739452,,,,Village of Garden City
+US,NY,New York,Village of Freeport,relation,174482,8,Cities/Towns/Villages/Municipalities,Q1323073,,,,The Incorporated Village of Freeport
+US,NY,New York,Village of Floral Park,relation,174483,8,Cities/Towns/Villages/Municipalities,Q991627,,,,Village of Floral Park
+US,NY,New York,Village of Bellerose,relation,174484,8,Cities/Towns/Villages/Municipalities,Q3451916,,,,Incorporated Village of Bellerose
+US,NY,New York,Village of East Rockaway,relation,174486,8,Cities/Towns/Villages/Municipalities,Q3451866,,,,Village of East Rockaway
+US,NY,New York,Village of Centre Island,relation,174487,8,Cities/Towns/Villages/Municipalities,Q3448926,,,,Village of Centre Island
+US,NY,New York,Village of Bayville,relation,174488,8,Cities/Towns/Villages/Municipalities,Q3242156,,,,Village of Bayville
+US,NY,New York,Village of Baxter Estates,relation,174490,8,Cities/Towns/Villages/Municipalities,Q3448844,,,,Village of Baxter Estates
+US,NY,New York,Village of Atlantic Beach,relation,174492,8,Cities/Towns/Villages/Municipalities,Q1190594,,,,Village of Atlantic Beach
+US,NY,New York,Village of Tuckahoe,relation,174493,8,Cities/Towns/Villages/Municipalities,Q3459934,,,,Village of Tuckahoe
+US,NY,New York,Village of Bronxville,relation,174496,8,Cities/Towns/Villages/Municipalities,Q928168,,,,Village of Bronxville
+US,NY,New York,Village of Tarrytown,relation,174498,8,Cities/Towns/Villages/Municipalities,Q1020341,,,,
+US,NY,New York,Village of Sleepy Hollow,relation,174499,8,Cities/Towns/Villages/Municipalities,Q1025065,,,,North Tarrytown
+US,NY,New York,Village of Port Chester,relation,174869,8,Cities/Towns/Villages/Municipalities,Q2037513,,,,Village of Port Chester
+US,NY,New York,Village of Pleasantville,relation,174875,8,Cities/Towns/Villages/Municipalities,Q2430755,,,,Village of Pleasantville
+US,NY,New York,Village of Pelham,relation,174876,8,Cities/Towns/Villages/Municipalities,Q3461993,,,,Village of Pelham
+US,NY,New York,Village of Pelham Manor,relation,174877,8,Cities/Towns/Villages/Municipalities,Q3452762,,,,Village of Pelham Manor
+US,NY,New York,Village of Ossining,relation,174882,8,Cities/Towns/Villages/Municipalities,Q2001670,,,,Village of Ossining
+US,NY,New York,Village of Larchmont,relation,174890,8,Cities/Towns/Villages/Municipalities,Q256477,,,,Village of Larchmont
+US,NY,New York,Village of Irvington,relation,174891,8,Cities/Towns/Villages/Municipalities,Q2640064,,Irvington-on-Hudson,,
+US,NY,New York,Village of Hastings-on-Hudson,relation,174892,8,Cities/Towns/Villages/Municipalities,Q3248527,,,,Village of Hastings-on-Hudson
+US,NY,New York,Village of Dobbs Ferry,relation,174893,8,Cities/Towns/Villages/Municipalities,Q1233173,,,,Village of Dobbs Ferry
+US,NY,New York,Village of Elmsford,relation,174894,8,Cities/Towns/Villages/Municipalities,Q1019259,,,,Village of Elmsford
+US,NY,New York,Village of Croton-on-Hudson,relation,174895,8,Cities/Towns/Villages/Municipalities,Q2876630,,,Croton,Village of Croton-on-Hudson
+US,NY,New York,Village of Buchanan,relation,174900,8,Cities/Towns/Villages/Municipalities,Q997860,,,,Village of Buchanan
+US,NY,New York,Village of Briarcliff Manor,relation,174901,8,Cities/Towns/Villages/Municipalities,Q3452629,,,,Village of Briarcliff Manor
+US,NY,New York,Village of Ardsley,relation,174903,8,Cities/Towns/Villages/Municipalities,Q3458180,,,,Village of Ardsley
+US,NY,New York,Village of Valatie,relation,174908,8,Cities/Towns/Villages/Municipalities,Q3458039,,,,Village of Valatie
+US,NY,New York,Village of Kinderhook,relation,174909,8,Cities/Towns/Villages/Municipalities,Q3478629,,,,Village of Kinderhook
+US,NY,New York,Village of East Syracuse,relation,174911,8,Cities/Towns/Villages/Municipalities,Q3453158,,,,Village of East Syracuse
+US,NY,New York,Village of Liverpool,relation,174912,8,Cities/Towns/Villages/Municipalities,Q3475914,,,,Village of Liverpool
+US,NY,New York,Village of Solvay,relation,174913,8,Cities/Towns/Villages/Municipalities,Q2538840,,,,Village of Solvay
+US,NY,New York,Village of Mohawk,relation,174918,8,Cities/Towns/Villages/Municipalities,Q431810,,,,Village of Mohawk
+US,NY,New York,Village of Allegany / ohi꞉yoʾ,relation,174927,8,Cities/Towns/Villages/Municipalities,Q3459761,,,,Village of Allegany
+US,NY,New York,Village of Johnson City,relation,174932,8,Cities/Towns/Villages/Municipalities,Q3452979,,,,Village of Johnson City
+US,NY,New York,Village of Port Dickinson,relation,174934,8,Cities/Towns/Villages/Municipalities,Q3452586,,,,Village of Port Dickinson
+US,NY,New York,Village of Endicott,relation,174937,8,Cities/Towns/Villages/Municipalities,Q3459600,,,,Village of Endicott
+US,NY,New York,Village of Lakewood,relation,174938,8,Cities/Towns/Villages/Municipalities,Q602499,,,,Village of Lakewood
+US,NY,New York,Village of Celoron,relation,174941,8,Cities/Towns/Villages/Municipalities,Q3452877,,,,Village of Celoron
+US,NY,New York,Village of Falconer,relation,174943,8,Cities/Towns/Villages/Municipalities,Q3452786,,,,Village of Falconer
+US,NY,New York,Village of Fredonia,relation,174944,8,Cities/Towns/Villages/Municipalities,Q3461541,,,,Village of Fredonia
+US,NY,New York,Village of Horseheads,relation,174949,8,Cities/Towns/Villages/Municipalities,Q3461953,,,,Village of Horseheads
+US,NY,New York,Village of Wampsville,relation,174954,8,Cities/Towns/Villages/Municipalities,Q965657,,,,Village of Wampsville
+US,NY,New York,Village of Oneida Castle,relation,174962,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Village of Richburg,relation,174965,8,Cities/Towns/Villages/Municipalities,Q3452182,,,,Village of Richburg
+US,NY,New York,Village of Bolivar,relation,174966,8,Cities/Towns/Villages/Municipalities,Q3460804,,,,Village of Bolivar
+US,NY,New York,Village of Victory,relation,174967,8,Cities/Towns/Villages/Municipalities,Q3460538,,,,Village of Victory
+US,NY,New York,Village of Schuylerville,relation,174968,8,Cities/Towns/Villages/Municipalities,Q3458172,,,,Village of Schuylerville
+US,NY,New York,City of Ithaca,relation,174979,8,Cities/Towns/Villages/Municipalities,Q217346,,,,City of Ithaca
+US,NY,New York,Village of Cayuga Heights,relation,174983,8,Cities/Towns/Villages/Municipalities,Q3453199,,,,Village of Cayuga Heights
+US,NY,New York,Village of West Carthage,relation,174984,8,Cities/Towns/Villages/Municipalities,Q3452860,,,,Village of West Carthage
+US,NY,New York,Village of Carthage,relation,174985,8,Cities/Towns/Villages/Municipalities,Q533728,,,,Village of Carthage
+US,NY,New York,Village of Glen Park,relation,174986,8,Cities/Towns/Villages/Municipalities,Q3452936,,,,Village of Glen Park
+US,NY,New York,Village of Brownville,relation,174987,8,Cities/Towns/Villages/Municipalities,Q3461836,,,,Village of Brownville
+US,NY,New York,Village of Deferiet,relation,174988,8,Cities/Towns/Villages/Municipalities,Q3453169,,,,Village of Deferiet
+US,NY,New York,Village of Black River,relation,174989,8,Cities/Towns/Villages/Municipalities,Q3452672,,,,Village of Black River
+US,NY,New York,Village of Sandy Creek,relation,174994,8,Cities/Towns/Villages/Municipalities,Q3459843,,,,Village of Sandy Creek
+US,NY,New York,Village of Lacona,relation,174995,8,Cities/Towns/Villages/Municipalities,Q387508,,,,Village of Lacona
+US,NY,New York,Village of Cold Spring,relation,175002,8,Cities/Towns/Villages/Municipalities,Q1016615,,,,Village of Cold Spring
+US,NY,New York,Village of Nelsonville,relation,175003,8,Cities/Towns/Villages/Municipalities,Q3452708,,,,Village of Nelsonville
+US,NY,New York,Village of Ellenville,relation,175004,8,Cities/Towns/Villages/Municipalities,Q3453189,,,,Village of Ellenville
+US,NY,New York,Village of Saugerties,relation,175026,8,Cities/Towns/Villages/Municipalities,Q3461248,,,,Village of Saugerties
+US,NY,New York,Village of Blasdell,relation,175027,8,Cities/Towns/Villages/Municipalities,Q3452833,,,,Village of Blasdell
+US,NY,New York,Village of Kenmore,relation,175029,8,Cities/Towns/Villages/Municipalities,Q3452755,,,,Village of Kenmore
+US,NY,New York,Village of Sloan,relation,175030,8,Cities/Towns/Villages/Municipalities,Q3458127,,,,Village of Sloan
+US,NY,New York,Village of Lancaster,relation,175037,8,Cities/Towns/Villages/Municipalities,Q609191,,,,
+US,NY,New York,Village of Depew,relation,175038,8,Cities/Towns/Villages/Municipalities,Q3452462,,,,Village of Depew
+US,NY,New York,Village of Williamsville,relation,175054,8,Cities/Towns/Villages/Municipalities,Q1506416,,,,Village of Williamsville
+US,NY,New York,Village of Manchester,relation,175449,8,Cities/Towns/Villages/Municipalities,Q3460678,,,,Village of Manchester
+US,NY,New York,Village of Shortsville,relation,175450,8,Cities/Towns/Villages/Municipalities,Q3453100,,,,Village of Shortsville
+US,NY,New York,Village of Cornwall-on-Hudson,relation,175454,8,Cities/Towns/Villages/Municipalities,Q3453220,,,,Village of Cornwall-on-Hudson
+US,NY,New York,Village of Harriman,relation,175455,8,Cities/Towns/Villages/Municipalities,Q1586185,,,,Village of Harriman
+US,NY,New York,Village of Monroe,relation,175456,8,Cities/Towns/Villages/Municipalities,Q2916618,,,,
+US,NY,New York,Village of Highland Falls,relation,175461,8,Cities/Towns/Villages/Municipalities,Q1020598,,,,Village of Highland Falls
+US,NY,New York,Village of Kiryas Joel,relation,175464,8,Cities/Towns/Villages/Municipalities,Q913420,,,,
+US,NY,New York,Village of Washingtonville,relation,175471,8,Cities/Towns/Villages/Municipalities,Q3451795,,,,Village of Washingtonville
+US,NY,New York,Village of South Blooming Grove,relation,175472,8,Cities/Towns/Villages/Municipalities,Q7566337,,,,Village of South Blooming Grove
+US,NY,New York,Village of Woodbury,relation,175473,8,Cities/Towns/Villages/Municipalities,Q3472130,,,,
+US,NY,New York,Village of Scotia,relation,175476,8,Cities/Towns/Villages/Municipalities,Q1020602,,,,Village of Scotia
+US,NY,New York,Village of Delanson,relation,175482,8,Cities/Towns/Villages/Municipalities,Q3458165,,,,Village of Delanson
+US,NY,New York,Village of New Hartford,relation,175485,8,Cities/Towns/Villages/Municipalities,Q3460891,,,,Village of New Hartford
+US,NY,New York,Village of New York Mills,relation,175486,8,Cities/Towns/Villages/Municipalities,Q3452597,,,,Village of New York Mills
+US,NY,New York,Village of Yorkville,relation,175488,8,Cities/Towns/Villages/Municipalities,Q3461691,,,,Village of Yorkville
+US,NY,New York,Village of Whitesboro,relation,175489,8,Cities/Towns/Villages/Municipalities,Q515404,,,,Village of Whitesboro
+US,NY,New York,Village of South Corning,relation,175490,8,Cities/Towns/Villages/Municipalities,Q3452745,,,,Village of South Corning
+US,NY,New York,Village of North Hornell,relation,175492,8,Cities/Towns/Villages/Municipalities,Q254590,,,,Village of North Hornell
+US,NY,New York,Painted Post,relation,175495,8,Cities/Towns/Villages/Municipalities,Q3452798,,,,
+US,NY,New York,Village of Riverside,relation,175496,8,Cities/Towns/Villages/Municipalities,Q2270280,,,,Village of Riverside
+US,NY,New York,Village of Amityville,relation,175498,8,Cities/Towns/Villages/Municipalities,Q472509,,,,Village of Amityville
+US,NY,New York,Village of Babylon,relation,175499,8,Cities/Towns/Villages/Municipalities,Q3461796,,,,
+US,NY,New York,Village of Belle Terre,relation,175500,8,Cities/Towns/Villages/Municipalities,Q3452543,,,,Village of Belle Terre
+US,NY,New York,Village of Bellport,relation,175504,8,Cities/Towns/Villages/Municipalities,Q2894994,,,,Village of Bellport
+US,NY,New York,Village of Brightwaters,relation,175505,8,Cities/Towns/Villages/Municipalities,Q3452689,,,,Village of Brightwaters
+US,NY,New York,Village of Dering Harbor,relation,175508,8,Cities/Towns/Villages/Municipalities,Q3452608,,,,Village of Dering Harbor
+US,NY,New York,Village of East Hampton,relation,175509,8,Cities/Towns/Villages/Municipalities,Q3826265,,,,
+US,NY,New York,Village of Greenport,relation,175510,8,Cities/Towns/Villages/Municipalities,Q94652,,,,Village of Greenport
+US,NY,New York,Village of Head of the Harbor,relation,175511,8,Cities/Towns/Villages/Municipalities,Q1019293,,,,Village of Head of the Harbor
+US,NY,New York,Village of Huntington Bay,relation,175514,8,Cities/Towns/Villages/Municipalities,Q3452524,,,,Village of Huntington Bay
+US,NY,New York,Village of Islandia,relation,175515,8,Cities/Towns/Villages/Municipalities,Q3452395,,,,Village of Islandia
+US,NY,New York,Village of Lake Grove,relation,175517,8,Cities/Towns/Villages/Municipalities,Q1442569,,,,Village of Lake Grove
+US,NY,New York,Village of Lindenhurst,relation,175520,8,Cities/Towns/Villages/Municipalities,Q2336904,,,,Village of Lindenhurst
+US,NY,New York,Village of Lloyd Harbor,relation,175521,8,Cities/Towns/Villages/Municipalities,Q3452992,,,,Village of Lloyd Harbor
+US,NY,New York,Village of Nissequogue,relation,175522,8,Cities/Towns/Villages/Municipalities,Q1019266,,,,Village of Nissequogue
+US,NY,New York,Village of North Haven,relation,175523,8,Cities/Towns/Villages/Municipalities,Q3458148,,,,Village of North Haven
+US,NY,New York,Village of Northport,relation,175524,8,Cities/Towns/Villages/Municipalities,Q3452681,,,,Village of Northport
+US,NY,New York,Village of Ocean Beach,relation,175526,8,Cities/Towns/Villages/Municipalities,Q3458137,,,,Village of Ocean Beach
+US,NY,New York,Village of Old Field,relation,175527,8,Cities/Towns/Villages/Municipalities,Q1016789,,,,Village of Old Field
+US,NY,New York,Village of Patchogue,relation,175530,8,Cities/Towns/Villages/Municipalities,Q580140,,,,Village of Patchogue
+US,NY,New York,Village of Poquott,relation,175531,8,Cities/Towns/Villages/Municipalities,Q370133,,,,Village of Poquott
+US,NY,New York,Village of Port Jefferson,relation,175532,8,Cities/Towns/Villages/Municipalities,Q2104746,,,,Village of Port Jefferson
+US,NY,New York,Village of Quogue,relation,175533,8,Cities/Towns/Villages/Municipalities,Q3450739,,,,Village of Quogue
+US,NY,New York,Village of Sag Harbor,relation,175534,8,Cities/Towns/Villages/Municipalities,Q3087814,,,,Village of Sag Harbor
+US,NY,New York,Village of Saltaire,relation,175535,8,Cities/Towns/Villages/Municipalities,Q1014190,,,,Village of Saltaire
+US,NY,New York,Village of Shoreham,relation,175536,8,Cities/Towns/Villages/Municipalities,Q3453037,,,,Village of Shoreham
+US,NY,New York,Village of Southampton,relation,175537,8,Cities/Towns/Villages/Municipalities,Q2631643,,,,
+US,NY,New York,Village of the Branch,relation,175539,8,Cities/Towns/Villages/Municipalities,Q3452826,,,,
+US,NY,New York,Village of Westhampton Beach,relation,175541,8,Cities/Towns/Villages/Municipalities,Q3453197,,,,Incorporated Village of Westhampton Beach
+US,NY,New York,Village of Sagaponack,relation,175542,8,Cities/Towns/Villages/Municipalities,Q3460147,,,,Village of Sagaponack
+US,NY,New York,Village of Menands,relation,175548,8,Cities/Towns/Villages/Municipalities,Q3476489,,,,Village of Menands
+US,NY,New York,Village of Ravena,relation,175552,8,Cities/Towns/Villages/Municipalities,Q3458156,,,,Village of Ravena
+US,NY,New York,Village of Airmont,relation,175555,8,Cities/Towns/Villages/Municipalities,Q2210910,,,,Village of Airmont
+US,NY,New York,Village of Chestnut Ridge,relation,175556,8,Cities/Towns/Villages/Municipalities,Q795395,,,,Village of Chestnut Ridge
+US,NY,New York,Village of Grand View-on-Hudson,relation,175557,8,Cities/Towns/Villages/Municipalities,Q2837895,,,,Village of Grand View-on-Hudson
+US,NY,New York,Village of Haverstraw,relation,175559,8,Cities/Towns/Villages/Municipalities,Q2891324,,,,Village of Haverstraw
+US,NY,New York,Village of Hillburn,relation,175560,8,Cities/Towns/Villages/Municipalities,Q3452966,,,,Village of Hillburn
+US,NY,New York,Village of Suffern,relation,175561,8,Cities/Towns/Villages/Municipalities,Q3273919,,,,Village of Suffern
+US,NY,New York,Village of Montebello,relation,175562,8,Cities/Towns/Villages/Municipalities,Q3453075,,,,Village of Montebello
+US,NY,New York,Village of Wesley Hills,relation,175564,8,Cities/Towns/Villages/Municipalities,Q3452889,,,,Village of Wesley Hills
+US,NY,New York,Village of New Hempstead,relation,175566,8,Cities/Towns/Villages/Municipalities,Q3452737,,,,Village of New Hempstead
+US,NY,New York,Village of New Square,relation,175567,8,Cities/Towns/Villages/Municipalities,Q2917479,,,,Village of New Square
+US,NY,New York,Village of Nyack,relation,175568,8,Cities/Towns/Villages/Municipalities,Q1816652,,,,Village of Nyack
+US,NY,New York,Village of Upper Nyack,relation,175569,8,Cities/Towns/Villages/Municipalities,Q3452792,,,,Village of Upper Nyack
+US,NY,New York,Village of Piermont,relation,175570,8,Cities/Towns/Villages/Municipalities,Q3452405,,,,Village of Piermont
+US,NY,New York,Village of Pomona,relation,175571,8,Cities/Towns/Villages/Municipalities,Q2990298,,,,Village of Pomona
+US,NY,New York,Village of West Haverstraw,relation,175573,8,Cities/Towns/Villages/Municipalities,Q3273927,,,,Village of West Haverstraw
+US,NY,New York,Riverhead,relation,175687,8,Cities/Towns/Villages/Municipalities,Q1770518,,,,
+US,NY,New York,Brookhaven,relation,175701,8,Cities/Towns/Villages/Municipalities,Q550032,,,,
+US,NY,New York,Village of Rye Brook,relation,175808,8,Cities/Towns/Villages/Municipalities,Q3453021,,,,Village of Rye Brook
+US,NY,New York,Village of Manlius,relation,175810,8,Cities/Towns/Villages/Municipalities,Q3460079,,,,Village of Manlius
+US,NY,New York,Village of Herkimer,relation,175811,8,Cities/Towns/Villages/Municipalities,Q3134036,,,,
+US,NY,New York,Village of Millerton,relation,175812,8,Cities/Towns/Villages/Municipalities,Q3242173,,,,Village of Millerton
+US,NY,New York,Village of Brockport,relation,175813,8,Cities/Towns/Villages/Municipalities,Q3473405,,,,Village of Brockport
+US,NY,New York,Village of Arcade,relation,175816,8,Cities/Towns/Villages/Municipalities,Q3311552,,,,Village of Arcade
+US,NY,New York,Village of Speculator,relation,175828,8,Cities/Towns/Villages/Municipalities,Q951712,,,,Village of Speculator
+US,NY,New York,Village of Ames,relation,175829,8,Cities/Towns/Villages/Municipalities,Q2876129,,,,Village of Ames
+US,NY,New York,Village of Hagaman,relation,175830,8,Cities/Towns/Villages/Municipalities,Q3453064,,,,Village of Hagaman
+US,NY,New York,Village of Saint Johnsville,relation,175831,8,Cities/Towns/Villages/Municipalities,Q2228903,,,,Village of Saint Johnsville
+US,NY,New York,Village of Coxsackie,relation,175832,8,Cities/Towns/Villages/Municipalities,Q3460728,,,,Village of Coxsackie
+US,NY,New York,Village of Hunter,relation,175833,8,Cities/Towns/Villages/Municipalities,Q2879796,,,,Village of Hunter
+US,NY,New York,Village of Tannersville,relation,175834,8,Cities/Towns/Villages/Municipalities,Q3459786,,,,Village of Tannersville
+US,NY,New York,Village of Lake George,relation,175835,8,Cities/Towns/Villages/Municipalities,Q2980661,,,,Lake George
+US,NY,New York,Village of Rushville,relation,175836,8,Cities/Towns/Villages/Municipalities,Q3458091,,,,Village of Rushville
+US,NY,New York,Village of Dresden,relation,175837,8,Cities/Towns/Villages/Municipalities,Q1766514,,,,Village of Dresden
+US,NY,New York,Village of Dundee,relation,175838,8,Cities/Towns/Villages/Municipalities,Q3450911,,,,Village of Dundee
+US,NY,New York,Village of Penn Yan,relation,175839,8,Cities/Towns/Villages/Municipalities,Q741594,,,,Village of Penn Yan
+US,NY,New York,Village of Lake Placid,relation,175841,8,Cities/Towns/Villages/Municipalities,Q192700,,,,Lake Placid
+US,NY,New York,Village of Valley Falls,relation,175842,8,Cities/Towns/Villages/Municipalities,Q1898631,,,,Village of Valley Falls
+US,NY,New York,Village of Schaghticoke,relation,175843,8,Cities/Towns/Villages/Municipalities,Q1011399,,,,Village of Schaghticoke
+US,NY,New York,Village of Nassau,relation,175844,8,Cities/Towns/Villages/Municipalities,Q3461963,,,,
+US,NY,New York,Village of Hoosick Falls,relation,175845,8,Cities/Towns/Villages/Municipalities,Q1004012,,,,Village of Hoosick Falls
+US,NY,New York,Village of East Nassau,relation,175846,8,Cities/Towns/Villages/Municipalities,Q3458103,,,,
+US,NY,New York,Village of Castleton-on-Hudson,relation,175847,8,Cities/Towns/Villages/Municipalities,Q3458130,,,,Village of Castleton-on-Hudson
+US,NY,New York,Village of Saddle Rock,relation,175848,8,Cities/Towns/Villages/Municipalities,Q3452038,,,,Village of Saddle Rock
+US,NY,New York,Village of Chatham,relation,175849,8,Cities/Towns/Villages/Municipalities,Q1000105,,,,
+US,NY,New York,Village of Philmont,relation,175850,8,Cities/Towns/Villages/Municipalities,Q3461467,,,,Village of Philmont
+US,NY,New York,Village of Baldwinsville,relation,175851,8,Cities/Towns/Villages/Municipalities,Q25815,,,,Village of Baldwinsville
+US,NY,New York,Village of Camillus,relation,175852,8,Cities/Towns/Villages/Municipalities,Q3461632,,,,Village of Camillus
+US,NY,New York,Village of Elbridge,relation,175853,8,Cities/Towns/Villages/Municipalities,Q3460741,,,,Village of Elbridge
+US,NY,New York,Village of Fabius,relation,175854,8,Cities/Towns/Villages/Municipalities,Q3461136,,,,Village of Fabius
+US,NY,New York,Village of Fayetteville,relation,175855,8,Cities/Towns/Villages/Municipalities,Q3461710,,,,Village of Fayetteville
+US,NY,New York,Village of Jordan,relation,175856,8,Cities/Towns/Villages/Municipalities,Q3452815,,,,Village of Jordan
+US,NY,New York,Village of Marcellus,relation,175857,8,Cities/Towns/Villages/Municipalities,Q6756453,,,,Village of Marcellus
+US,NY,New York,Village of Minoa,relation,175859,8,Cities/Towns/Villages/Municipalities,Q3473431,,,,Village of Minoa
+US,NY,New York,Village of North Syracuse,relation,175860,8,Cities/Towns/Villages/Municipalities,Q3452997,,,,Village of North Syracuse
+US,NY,New York,Village of Skaneateles,relation,175861,8,Cities/Towns/Villages/Municipalities,Q7533924,,,,Village of Skaneateles
+US,NY,New York,Village of Tully,relation,175862,8,Cities/Towns/Villages/Municipalities,Q3461918,,,,Village of Tully
+US,NY,New York,Village of Cold Brook,relation,175863,8,Cities/Towns/Villages/Municipalities,Q3459922,,,,Village of Cold Brook
+US,NY,New York,Village of Frankfort,relation,175864,8,Cities/Towns/Villages/Municipalities,Q3461196,,,,Village of Frankfort
+US,NY,New York,Village of Ilion,relation,175865,8,Cities/Towns/Villages/Municipalities,Q2710605,,,,Village of Ilion
+US,NY,New York,Village of Middleville,relation,175867,8,Cities/Towns/Villages/Municipalities,Q3458197,,,,Village of Middleville
+US,NY,New York,Village of Newport,relation,175868,8,Cities/Towns/Villages/Municipalities,Q3460658,,,,Village of Newport
+US,NY,New York,Village of Poland,relation,175869,8,Cities/Towns/Villages/Municipalities,Q7208887,,,,Village of Poland
+US,NY,New York,Village of West Winfield,relation,175870,8,Cities/Towns/Villages/Municipalities,Q3458021,,,,Village of West Winfield
+US,NY,New York,Waverly,relation,175871,8,Cities/Towns/Villages/Municipalities,Q3460878,,,,
+US,NY,New York,Village of Spencer,relation,175872,8,Cities/Towns/Villages/Municipalities,Q522130,,,,Village of Spencer
+US,NY,New York,Village of Nichols,relation,175874,8,Cities/Towns/Villages/Municipalities,Q2452723,,,,Village of Nichols
+US,NY,New York,Village of Newark Valley,relation,175875,8,Cities/Towns/Villages/Municipalities,Q3461149,,,,Village of Newark Valley
+US,NY,New York,Village of Candor,relation,175876,8,Cities/Towns/Villages/Municipalities,Q3459803,,,,Village of Candor
+US,NY,New York,Village of South Dayton,relation,175877,8,Cities/Towns/Villages/Municipalities,Q3452926,,,,Village of South Dayton
+US,NY,New York,Village of Portville,relation,175880,8,Cities/Towns/Villages/Municipalities,Q3461621,,,,Village of Portville
+US,NY,New York,Village of Little Valley,relation,175882,8,Cities/Towns/Villages/Municipalities,Q3111105,,,,Village of Little Valley
+US,NY,New York,Village of Ellicottville,relation,175885,8,Cities/Towns/Villages/Municipalities,Q3460698,,,,Village of Ellicottville
+US,NY,New York,Village of Delevan,relation,175886,8,Cities/Towns/Villages/Municipalities,Q3453185,,,,Village of Delevan
+US,NY,New York,Cattaraugus,relation,175887,8,Cities/Towns/Villages/Municipalities,Q3475930,,,,
+US,NY,New York,Village of Gowanda,relation,175888,8,Cities/Towns/Villages/Municipalities,Q3452897,,,,Village of Gowanda
+US,NY,New York,Village of Whitehall,relation,175889,8,Cities/Towns/Villages/Municipalities,Q3461864,,,,Village of Whitehall
+US,NY,New York,Village of Hudson Falls,relation,175891,8,Cities/Towns/Villages/Municipalities,Q3458074,,,,Village of Hudson Falls
+US,NY,New York,Village of Greenwich,relation,175892,8,Cities/Towns/Villages/Municipalities,Q3452216,,,,Village of Greenwich
+US,NY,New York,Village of Granville,relation,175893,8,Cities/Towns/Villages/Municipalities,Q3461930,,,,Village of Granville
+US,NY,New York,Village of Fort Edward,relation,175895,8,Cities/Towns/Villages/Municipalities,Q592240,,,,Village of Fort Edward
+US,NY,New York,Village of Fort Ann,relation,175896,8,Cities/Towns/Villages/Municipalities,Q3461111,,,,Village of Fort Ann
+US,NY,New York,Village of Cambridge,relation,175903,8,Cities/Towns/Villages/Municipalities,Q984573,,,,Village of Cambridge
+US,NY,New York,Village of Argyle,relation,175904,8,Cities/Towns/Villages/Municipalities,Q3461130,,,,Village of Argyle
+US,NY,New York,Village of Lisle,relation,175906,8,Cities/Towns/Villages/Municipalities,Q3460770,,,,Village of Lisle
+US,NY,New York,Village of Whitney Point,relation,175907,8,Cities/Towns/Villages/Municipalities,Q950778,,,,Village of Whitney Point
+US,NY,New York,Village of Windsor,relation,175908,8,Cities/Towns/Villages/Municipalities,Q3461044,,,,Village of Windsor
+US,NY,New York,Village of Westfield,relation,175909,8,Cities/Towns/Villages/Municipalities,Q3461147,,,,Village of Westfield
+US,NY,New York,Village of Sinclairville,relation,175910,8,Cities/Towns/Villages/Municipalities,Q3458085,,,,Village of Sinclairville
+US,NY,New York,Village of Silver Creek,relation,175911,8,Cities/Towns/Villages/Municipalities,Q2668965,,,,Village of Silver Creek
+US,NY,New York,Village of Sherman,relation,175912,8,Cities/Towns/Villages/Municipalities,Q3460645,,,,Village of Sherman
+US,NY,New York,Village of Panama,relation,175913,8,Cities/Towns/Villages/Municipalities,Q3458118,,,,Village of Panama
+US,NY,New York,Village of Mayville,relation,175914,8,Cities/Towns/Villages/Municipalities,Q745141,,,,Village of Mayville
+US,NY,New York,Forestville,relation,175915,8,Cities/Towns/Villages/Municipalities,Q956542,,,,
+US,NY,New York,Cherry Creek,relation,175916,8,Cities/Towns/Villages/Municipalities,Q3459847,,,,
+US,NY,New York,Village of Cassadaga,relation,175917,8,Cities/Towns/Villages/Municipalities,Q3452204,,,,Village of Cassadaga
+US,NY,New York,Village of Brocton,relation,175919,8,Cities/Towns/Villages/Municipalities,Q3452483,,,,Village of Brocton
+US,NY,New York,Village of Bemus Point,relation,175920,8,Cities/Towns/Villages/Municipalities,Q3453054,,,,Village of Bemus Point
+US,NY,New York,Village of Elmira Heights,relation,175921,8,Cities/Towns/Villages/Municipalities,Q3452513,,,,Village of Elmira Heights
+US,NY,New York,Village of Millport,relation,175922,8,Cities/Towns/Villages/Municipalities,Q3452503,,,,Village of Millport
+US,NY,New York,Village of Wellsburg,relation,175925,8,Cities/Towns/Villages/Municipalities,Q3452908,,,,Village of Wellsburg
+US,NY,New York,Village of Castorland,relation,175926,8,Cities/Towns/Villages/Municipalities,Q3335421,,,,Village of Castorland
+US,NY,New York,Village of Constableville,relation,175927,8,Cities/Towns/Villages/Municipalities,Q3461589,,,,Village of Constableville
+US,NY,New York,Village of Copenhagen,relation,175928,8,Cities/Towns/Villages/Municipalities,Q3459904,,,,Village of Copenhagen
+US,NY,New York,Village of Croghan,relation,175929,8,Cities/Towns/Villages/Municipalities,Q3826307,,,,Village of Croghan
+US,NY,New York,Harrisville,relation,175930,8,Cities/Towns/Villages/Municipalities,Q3461555,,,,
+US,NY,New York,Village of Lowville,relation,175932,8,Cities/Towns/Villages/Municipalities,Q3111093,,,,Village of Lowville
+US,NY,New York,Village of Lyons Falls,relation,175933,8,Cities/Towns/Villages/Municipalities,Q3461494,,,,Village of Lyons Falls
+US,NY,New York,Village of Port Leyden,relation,175934,8,Cities/Towns/Villages/Municipalities,Q3452652,,,,Village of Port Leyden
+US,NY,New York,Village of Turin,relation,175935,8,Cities/Towns/Villages/Municipalities,Q3452617,,,,Village of Turin
+US,NY,New York,Village of Fishkill,relation,175937,8,Cities/Towns/Villages/Municipalities,Q2533908,,,,Village of Fishkill
+US,NY,New York,Village of Millbrook,relation,175938,8,Cities/Towns/Villages/Municipalities,Q3178628,,,,Village of Millbrook
+US,NY,New York,Village of Pawling,relation,175940,8,Cities/Towns/Villages/Municipalities,Q1020213,,,,Village of Pawling
+US,NY,New York,Village of Red Hook,relation,175941,8,Cities/Towns/Villages/Municipalities,Q1020238,,,,Village of Red Hook
+US,NY,New York,Village of Rhinebeck,relation,175942,8,Cities/Towns/Villages/Municipalities,Q3241019,,,,Village of Rhinebeck
+US,NY,New York,Village of Tivoli,relation,175945,8,Cities/Towns/Villages/Municipalities,Q2305704,,,,Village of Tivoli
+US,NY,New York,Village of Wappingers Falls,relation,175946,8,Cities/Towns/Villages/Municipalities,Q1030215,,,,Village of Wappingers Falls
+US,NY,New York,Village of Canastota,relation,175947,8,Cities/Towns/Villages/Municipalities,Q3458188,,,,Village of Canastota
+US,NY,New York,Village of Cazenovia,relation,175948,8,Cities/Towns/Villages/Municipalities,Q3461431,,,,
+US,NY,New York,Village of Chittenango,relation,175950,8,Cities/Towns/Villages/Municipalities,Q2533923,,,,Village of Chittenango
+US,NY,New York,Village of DeRuyter,relation,175951,8,Cities/Towns/Villages/Municipalities,Q3461872,,,,Village of DeRuyter
+US,NY,New York,Village of Hamilton,relation,175952,8,Cities/Towns/Villages/Municipalities,Q3460721,,,,Village of Hamilton
+US,NY,New York,Village of Madison,relation,175953,8,Cities/Towns/Villages/Municipalities,Q3472565,,,,Village of Madison
+US,NY,New York,Village of Morrisville,relation,175954,8,Cities/Towns/Villages/Municipalities,Q3453180,,,,Village of Morrisville
+US,NY,New York,Village of Munnsville,relation,175955,8,Cities/Towns/Villages/Municipalities,Q3452802,,,,Village of Munnsville
+US,NY,New York,Village of Almond,relation,175956,8,Cities/Towns/Villages/Municipalities,Q3460126,,,,Village of Almond
+US,NY,New York,Village of Alfred,relation,175957,8,Cities/Towns/Villages/Municipalities,Q3460852,,,,Village of Alfred
+US,NY,New York,Village of Andover,relation,175958,8,Cities/Towns/Villages/Municipalities,Q3460917,,,,Village of Andover
+US,NY,New York,Village of Angelica,relation,175959,8,Cities/Towns/Villages/Municipalities,Q3460926,,,,Village of Angelica
+US,NY,New York,Village of Belmont,relation,175960,8,Cities/Towns/Villages/Municipalities,Q2557385,,,,Village of Belmont
+US,NY,New York,Village of Canaseraga,relation,175961,8,Cities/Towns/Villages/Municipalities,Q3452533,,,,Village of Canaseraga
+US,NY,New York,Village of Cuba,relation,175962,8,Cities/Towns/Villages/Municipalities,Q3460784,,,,Village of Cuba
+US,NY,New York,Village of Wellsville,relation,175963,8,Cities/Towns/Villages/Municipalities,Q3461344,,,,Village of Wellsville
+US,NY,New York,Village of Waddington,relation,175964,8,Cities/Towns/Villages/Municipalities,Q3461654,,,,Village of Waddington
+US,NY,New York,Village of Richville,relation,175965,8,Cities/Towns/Villages/Municipalities,Q3452553,,,,Village of Richville
+US,NY,New York,Village of Rensselaer Falls,relation,175966,8,Cities/Towns/Villages/Municipalities,Q3452774,,,,Village of Rensselaer Falls
+US,NY,New York,Village of Potsdam,relation,175967,8,Cities/Towns/Villages/Municipalities,Q3477816,,,,Village of Potsdam
+US,NY,New York,Village of Norwood,relation,175969,8,Cities/Towns/Villages/Municipalities,Q3452493,,,,Village of Norwood
+US,NY,New York,Village of Massena,relation,175971,8,Cities/Towns/Villages/Municipalities,Q3306151,,,,Village of Massena
+US,NY,New York,Village of Heuvelton,relation,175972,8,Cities/Towns/Villages/Municipalities,Q3473262,,,,Village of Heuvelton
+US,NY,New York,Hermon,relation,175973,8,Cities/Towns/Villages/Municipalities,Q5742007,,,,
+US,NY,New York,Village of Hammond,relation,175974,8,Cities/Towns/Villages/Municipalities,Q3460800,,,,Village of Hammond
+US,NY,New York,Village of Gouverneur,relation,175975,8,Cities/Towns/Villages/Municipalities,Q3461815,,,,Village of Gouverneur
+US,NY,New York,Village of Canton,relation,175977,8,Cities/Towns/Villages/Municipalities,Q2936647,,,,Village of Canton
+US,NY,New York,Village of Stillwater,relation,175978,8,Cities/Towns/Villages/Municipalities,Q3461402,,,,
+US,NY,New York,Village of Round Lake,relation,175979,8,Cities/Towns/Villages/Municipalities,Q3452931,,,,Village of Round Lake
+US,NY,New York,Village of Galway,relation,175981,8,Cities/Towns/Villages/Municipalities,Q5519467,,,,Village of Galway
+US,NY,New York,Village of Corinth,relation,175982,8,Cities/Towns/Villages/Municipalities,Q953048,,,,Village of Corinth
+US,NY,New York,Village of Sharon Springs,relation,175983,8,Cities/Towns/Villages/Municipalities,Q3452989,,,,Village of Sharon Springs
+US,NY,New York,Village of Schoharie,relation,175984,8,Cities/Towns/Villages/Municipalities,Q920781,,,,Village of Schoharie
+US,NY,New York,Village of Richmondville,relation,175985,8,Cities/Towns/Villages/Municipalities,Q521486,,,,Village of Richmondville
+US,NY,New York,Village of Middleburgh,relation,175986,8,Cities/Towns/Villages/Municipalities,Q524354,,,,Village of Middleburgh
+US,NY,New York,Village of Esperance,relation,175987,8,Cities/Towns/Villages/Municipalities,Q939042,,,,Village of Esperance
+US,NY,New York,Village of Cobleskill,relation,175988,8,Cities/Towns/Villages/Municipalities,Q3462021,,,,Village of Cobleskill
+US,NY,New York,Village of Trumansburg,relation,175989,8,Cities/Towns/Villages/Municipalities,Q3452563,,,,
+US,NY,New York,Village of Groton,relation,175990,8,Cities/Towns/Villages/Municipalities,Q3462099,,,,
+US,NY,New York,Village of Freeville,relation,175991,8,Cities/Towns/Villages/Municipalities,Q977219,,,,Village of Freeville
+US,NY,New York,Village of Dryden,relation,175992,8,Cities/Towns/Villages/Municipalities,Q3461934,,,,Village of Dryden
+US,NY,New York,Village of Theresa,relation,175994,8,Cities/Towns/Villages/Municipalities,Q3460030,,,,Village of Theresa
+US,NY,New York,Village of Sackets Harbor,relation,175995,8,Cities/Towns/Villages/Municipalities,Q1973465,,,,Village of Sackets Harbor
+US,NY,New York,Village of Philadelphia,relation,175996,8,Cities/Towns/Villages/Municipalities,Q3462019,,,,Village of Philadelphia
+US,NY,New York,Village of Mannsville,relation,175997,8,Cities/Towns/Villages/Municipalities,Q3451748,,,,Village of Mannsville
+US,NY,New York,Village of Evans Mills,relation,175999,8,Cities/Towns/Villages/Municipalities,Q3458095,,,,Village of Evans Mills
+US,NY,New York,Village of Ellisburg,relation,176000,8,Cities/Towns/Villages/Municipalities,Q3460713,,,,Village of Ellisburg
+US,NY,New York,Village of Dexter,relation,176001,8,Cities/Towns/Villages/Municipalities,Q3452952,,,,Village of Dexter
+US,NY,New York,Village of Clayton,relation,176002,8,Cities/Towns/Villages/Municipalities,Q3460910,,,,Village of Clayton
+US,NY,New York,Village of Chaumont,relation,176003,8,Cities/Towns/Villages/Municipalities,Q992499,,,,Village of Chaumont
+US,NY,New York,Village of Cape Vincent,relation,176004,8,Cities/Towns/Villages/Municipalities,Q3460792,,,,Village of Cape Vincent
+US,NY,New York,Village of Antwerp,relation,176005,8,Cities/Towns/Villages/Municipalities,Q3461334,,,,Village of Antwerp
+US,NY,New York,Village of Alexandria Bay,relation,176006,8,Cities/Towns/Villages/Municipalities,Q2166832,,,,Village of Alexandria Bay
+US,NY,New York,Village of Adams,relation,176007,8,Cities/Towns/Villages/Municipalities,Q3461972,,,,Village of Adams
+US,NY,New York,Village of Wurtsboro,relation,176008,8,Cities/Towns/Villages/Municipalities,Q3453005,,,,Village of Wurtsboro
+US,NY,New York,Village of Woodridge,relation,176009,8,Cities/Towns/Villages/Municipalities,Q3475574,,,,Village of Woodridge
+US,NY,New York,Village of Monticello,relation,176010,8,Cities/Towns/Villages/Municipalities,Q432255,,,,
+US,NY,New York,Village of Liberty,relation,176011,8,Cities/Towns/Villages/Municipalities,Q3825966,,,,Village of Liberty
+US,NY,New York,Village of Jeffersonville,relation,176012,8,Cities/Towns/Villages/Municipalities,Q3453123,,,,Village of Jeffersonville
+US,NY,New York,Village of Bloomingburg,relation,176013,8,Cities/Towns/Villages/Municipalities,Q3461457,,,,Village of Bloomingburg
+US,NY,New York,Village of Homer,relation,176014,8,Cities/Towns/Villages/Municipalities,Q3461232,,,,Village of Homer
+US,NY,New York,Village of McGraw,relation,176015,8,Cities/Towns/Villages/Municipalities,Q3462139,,,,Village of McGraw
+US,NY,New York,Village of Marathon,relation,176016,8,Cities/Towns/Villages/Municipalities,Q3461302,,,,Village of Marathon
+US,NY,New York,Village of Central Square,relation,176018,8,Cities/Towns/Villages/Municipalities,Q3459830,,,,Village of Central Square
+US,NY,New York,Village of Cleveland,relation,176019,8,Cities/Towns/Villages/Municipalities,Q3452838,,,,Village of Cleveland
+US,NY,New York,Village of Hannibal,relation,176021,8,Cities/Towns/Villages/Municipalities,Q3460753,,,,Village of Hannibal
+US,NY,New York,Village of Mexico,relation,176022,8,Cities/Towns/Villages/Municipalities,Q3460612,,,,Village of Mexico
+US,NY,New York,Village of Parish,relation,176023,8,Cities/Towns/Villages/Municipalities,Q3460668,,,,Village of Parish
+US,NY,New York,Village of Phoenix,relation,176024,8,Cities/Towns/Villages/Municipalities,Q3458062,,,,Village of Phoenix
+US,NY,New York,Village of Pulaski,relation,176025,8,Cities/Towns/Villages/Municipalities,Q1020592,,,,Village of Pulaski
+US,NY,New York,Village of Richfield Springs,relation,176026,8,Cities/Towns/Villages/Municipalities,Q3452810,,,,Village of Richfield Springs
+US,NY,New York,Village of Cherry Valley,relation,176027,8,Cities/Towns/Villages/Municipalities,Q2885420,,,,Village of Cherry Valley
+US,NY,New York,Village of Cooperstown,relation,176028,8,Cities/Towns/Villages/Municipalities,Q1025016,,,,Village of Cooperstown
+US,NY,New York,Village of Gilbertsville,relation,176029,8,Cities/Towns/Villages/Municipalities,Q3452429,,,,Village of Gilbertsville
+US,NY,New York,Village of Laurens,relation,176030,8,Cities/Towns/Villages/Municipalities,Q3461791,,,,Village of Laurens
+US,NY,New York,Village of Milford,relation,176031,8,Cities/Towns/Villages/Municipalities,Q3460682,,,,Village of Milford
+US,NY,New York,Village of Morris,relation,176032,8,Cities/Towns/Villages/Municipalities,Q2841852,,,,Village of Morris
+US,NY,New York,Village of Otego,relation,176033,8,Cities/Towns/Villages/Municipalities,Q3452781,,,,Village of Otego
+US,NY,New York,Village of Unadilla,relation,176034,8,Cities/Towns/Villages/Municipalities,Q3462066,,,,Village of Unadilla
+US,NY,New York,Village of Brewster,relation,176035,8,Cities/Towns/Villages/Municipalities,Q911442,,,,Village of Brewster
+US,NY,New York,Village of New Paltz,relation,176036,8,Cities/Towns/Villages/Municipalities,Q3138833,,,,Village of New Paltz
+US,NY,New York,Village of Akron,relation,176037,8,Cities/Towns/Villages/Municipalities,Q2538400,,,Akron,Village of Akron
+US,NY,New York,Village of Alden,relation,176038,8,Cities/Towns/Villages/Municipalities,Q970933,,,,
+US,NY,New York,Village of Angola,relation,176039,8,Cities/Towns/Villages/Municipalities,Q1843821,,,,Village of Angola
+US,NY,New York,East Aurora,relation,176040,8,Cities/Towns/Villages/Municipalities,Q1019210,,,,
+US,NY,New York,Village of Farnham,relation,176041,8,Cities/Towns/Villages/Municipalities,Q3452698,,,,Village of Farnham
+US,NY,New York,Village of Hamburg,relation,176042,8,Cities/Towns/Villages/Municipalities,Q3460777,,,,Village of Hamburg
+US,NY,New York,Village of North Collins,relation,176043,8,Cities/Towns/Villages/Municipalities,Q3461601,,,,Village of North Collins
+US,NY,New York,Village of Orchard Park,relation,176044,8,Cities/Towns/Villages/Municipalities,Q3461757,,,,Village of Orchard Park
+US,NY,New York,Village of Springville,relation,176045,8,Cities/Towns/Villages/Municipalities,Q3453137,,,,Village of Springville
+US,NY,New York,Village of Aurora,relation,176047,8,Cities/Towns/Villages/Municipalities,Q3460948,,,,Village of Aurora
+US,NY,New York,Village of Cato,relation,176048,8,Cities/Towns/Villages/Municipalities,Q3461443,,,,Village of Cato
+US,NY,New York,Village of Cayuga,relation,176049,8,Cities/Towns/Villages/Municipalities,Q1020585,,,,Village of Cayuga
+US,NY,New York,Village of Fair Haven,relation,176050,8,Cities/Towns/Villages/Municipalities,Q3452851,,,,Village of Fair Haven
+US,NY,New York,Village of Meridian,relation,176051,8,Cities/Towns/Villages/Municipalities,Q927886,,,,Village of Meridian
+US,NY,New York,Village of Moravia,relation,176052,8,Cities/Towns/Villages/Municipalities,Q3476346,,,,Village of Moravia
+US,NY,New York,Village of Port Byron,relation,176053,8,Cities/Towns/Villages/Municipalities,Q3452450,,,,Village of Port Byron
+US,NY,New York,Village of Union Springs,relation,176054,8,Cities/Towns/Villages/Municipalities,Q3453096,,,,Village of Union Springs
+US,NY,New York,Village of Weedsport,relation,176055,8,Cities/Towns/Villages/Municipalities,Q3452795,,,,Village of Weedsport
+US,NY,New York,Village of Bloomfield,relation,176056,8,Cities/Towns/Villages/Municipalities,Q3452732,,,,Village of Bloomfield
+US,NY,New York,Village of Clifton Springs,relation,176058,8,Cities/Towns/Villages/Municipalities,Q3453183,,,,Village of Clifton Springs
+US,NY,New York,Village of Naples,relation,176060,8,Cities/Towns/Villages/Municipalities,Q3460629,,,,Village of Naples
+US,NY,New York,Village of Phelps,relation,176061,8,Cities/Towns/Villages/Municipalities,Q3462006,,,,Village of Phelps
+US,NY,New York,Village of Victor,relation,176062,8,Cities/Towns/Villages/Municipalities,Q3460548,,,,Village of Victor
+US,NY,New York,Village of Churchville,relation,176063,8,Cities/Towns/Villages/Municipalities,Q538814,,,,Village of Churchville
+US,NY,New York,Village of Fairport,relation,176065,8,Cities/Towns/Villages/Municipalities,Q1323063,,,,Village of Fairport
+US,NY,New York,Village of Hilton,relation,176066,8,Cities/Towns/Villages/Municipalities,Q2890404,,,,Village of Hilton
+US,NY,New York,Village of Honeoye Falls,relation,176067,8,Cities/Towns/Villages/Municipalities,Q517641,,,,Village of Honeoye Falls
+US,NY,New York,Village of Pittsford,relation,176068,8,Cities/Towns/Villages/Municipalities,Q7199499,,,,Village of Pittsford
+US,NY,New York,Village of Scottsville,relation,176070,8,Cities/Towns/Villages/Municipalities,Q265827,,,,Village of Scottsville
+US,NY,New York,Village of Spencerport,relation,176071,8,Cities/Towns/Villages/Municipalities,Q3461532,,,,Village of Spencerport
+US,NY,New York,Village of Chester,relation,176073,8,Cities/Towns/Villages/Municipalities,Q5093443,,,,
+US,NY,New York,Village of Florida,relation,176074,8,Cities/Towns/Villages/Municipalities,Q2575793,,,,Village of Florida
+US,NY,New York,Village of Goshen,relation,176075,8,Cities/Towns/Villages/Municipalities,Q3111420,,,,Village of Goshen
+US,NY,New York,Village of Greenwood Lake,relation,176076,8,Cities/Towns/Villages/Municipalities,Q1019849,,,,Village of Greenwood Lake
+US,NY,New York,Village of Maybrook,relation,176077,8,Cities/Towns/Villages/Municipalities,Q3461449,,,,Village of Maybrook
+US,NY,New York,Village of Montgomery,relation,176078,8,Cities/Towns/Villages/Municipalities,Q11133498,,,,
+US,NY,New York,Village of Otisville,relation,176079,8,Cities/Towns/Villages/Municipalities,Q3452947,,,,Village of Otisville
+US,NY,New York,Village of Tuxedo Park,relation,176082,8,Cities/Towns/Villages/Municipalities,Q3273900,,,,Village of Tuxedo Park
+US,NY,New York,Village of Unionville,relation,176083,8,Cities/Towns/Villages/Municipalities,Q3461330,,,,Village of Unionville
+US,NY,New York,Village of Walden,relation,176084,8,Cities/Towns/Villages/Municipalities,Q3473325,,,,Village of Walden
+US,NY,New York,Village of Warwick,relation,176086,8,Cities/Towns/Villages/Municipalities,Q3306413,,,,Village of Warwick
+US,NY,New York,Village of Interlaken,relation,176087,8,Cities/Towns/Villages/Municipalities,Q3452440,,,,Village of Interlaken
+US,NY,New York,Village of Lodi,relation,176088,8,Cities/Towns/Villages/Municipalities,Q3460687,,,,Village of Lodi
+US,NY,New York,Village of Ovid,relation,176089,8,Cities/Towns/Villages/Municipalities,Q3183188,,,,Village of Ovid
+US,NY,New York,Village of Waterloo,relation,176091,8,Cities/Towns/Villages/Municipalities,Q3183159,,,,Village of Waterloo
+US,NY,New York,Village of Clyde,relation,176092,8,Cities/Towns/Villages/Municipalities,Q3452843,,,,Village of Clyde
+US,NY,New York,Village of Newark,relation,176096,8,Cities/Towns/Villages/Municipalities,Q1983435,,,,Village of Newark
+US,NY,New York,Village of Palmyra,relation,176097,8,Cities/Towns/Villages/Municipalities,Q2270605,,,,Palmyra
+US,NY,New York,Village of Red Creek,relation,176098,8,Cities/Towns/Villages/Municipalities,Q3452662,,,,Village of Red Creek
+US,NY,New York,Village of Sodus,relation,176100,8,Cities/Towns/Villages/Municipalities,Q3461168,,,,
+US,NY,New York,Village of Sodus Point,relation,176101,8,Cities/Towns/Villages/Municipalities,Q3458111,,,,Village of Sodus Point
+US,NY,New York,Village of Wolcott,relation,176102,8,Cities/Towns/Villages/Municipalities,Q3460836,,,,Village of Wolcott
+US,NY,New York,Village of Avon,relation,176103,8,Cities/Towns/Villages/Municipalities,Q3461311,,,,Village of Avon
+US,NY,New York,Village of Caledonia,relation,176104,8,Cities/Towns/Villages/Municipalities,Q5019376,,,,
+US,NY,New York,Village of Dansville,relation,176106,8,Cities/Towns/Villages/Municipalities,Q3461681,,,,Village of Dansville
+US,NY,New York,Village of Geneseo,relation,176107,8,Cities/Towns/Villages/Municipalities,Q12058441,,,,Village of Geneseo
+US,NY,New York,Village of Leicester,relation,176108,8,Cities/Towns/Villages/Municipalities,Q3461064,,,,Village of Moscow
+US,NY,New York,Village of Lima,relation,176109,8,Cities/Towns/Villages/Municipalities,Q3461057,,,,Village of Lima
+US,NY,New York,Village of Livonia,relation,176110,8,Cities/Towns/Villages/Municipalities,Q934040,,,,Village of Livonia
+US,NY,New York,Village of Mount Morris,relation,176111,8,Cities/Towns/Villages/Municipalities,Q3461886,,,,Village of Mount Morris
+US,NY,New York,Village of Nunda,relation,176112,8,Cities/Towns/Villages/Municipalities,Q7069788,,,,
+US,NY,New York,Village of Walton,relation,176113,8,Cities/Towns/Villages/Municipalities,Q3453029,,,,Village of Walton
+US,NY,New York,Village of Stamford,relation,176114,8,Cities/Towns/Villages/Municipalities,Q941325,,,,
+US,NY,New York,Village of Sidney,relation,176116,8,Cities/Towns/Villages/Municipalities,Q3460542,,,,Village of Sidney
+US,NY,New York,Village of Margaretville,relation,176117,8,Cities/Towns/Villages/Municipalities,Q1004016,,,,Village of Margaretville
+US,NY,New York,Village of Hobart,relation,176119,8,Cities/Towns/Villages/Municipalities,Q3453086,,,,Village of Hobart
+US,NY,New York,Village of Hancock,relation,176120,8,Cities/Towns/Villages/Municipalities,Q3460760,,,,Village of Hancock
+US,NY,New York,Village of Franklin,relation,176121,8,Cities/Towns/Villages/Municipalities,Q3453224,,,,Village of Franklin
+US,NY,New York,Village of Fleischmanns,relation,176122,8,Cities/Towns/Villages/Municipalities,Q3473246,,,,Village of Fleischmanns
+US,NY,New York,Village of Deposit,relation,176125,8,Cities/Towns/Villages/Municipalities,Q3460735,,,,Village of Deposit
+US,NY,New York,Village of Delhi,relation,176126,8,Cities/Towns/Villages/Municipalities,Q3021594,,,,Village of Delhi
+US,NY,New York,Village of Barker,relation,176127,8,Cities/Towns/Villages/Municipalities,Q3459780,,,,Village of Barker
+US,NY,New York,Village of Lewiston,relation,176128,8,Cities/Towns/Villages/Municipalities,Q2532289,,,,
+US,NY,New York,Village of Middleport,relation,176130,8,Cities/Towns/Villages/Municipalities,Q6841834,,,,Village of Middleport
+US,NY,New York,Village of Wilson,relation,176132,8,Cities/Towns/Villages/Municipalities,Q3452818,,,,
+US,NY,New York,Village of Youngstown,relation,176135,8,Cities/Towns/Villages/Municipalities,Q960040,,,,Village of Youngstown
+US,NY,New York,Village of Boonville,relation,176137,8,Cities/Towns/Villages/Municipalities,Q4943724,,,,Village of Boonville
+US,NY,New York,Village of Camden,relation,176143,8,Cities/Towns/Villages/Municipalities,Q3461914,,,,Village of Camden
+US,NY,New York,Village of Clayville,relation,176144,8,Cities/Towns/Villages/Municipalities,Q3452578,,,,Village of Clayville
+US,NY,New York,Village of Clinton,relation,176145,8,Cities/Towns/Villages/Municipalities,Q1021657,,,,Village of Clinton
+US,NY,New York,Village of Holland Patent,relation,176146,8,Cities/Towns/Villages/Municipalities,Q3452960,,,,Village of Holland Patent
+US,NY,New York,Village of Oriskany,relation,176147,8,Cities/Towns/Villages/Municipalities,Q2030937,,,,Village of Oriskany
+US,NY,New York,Village of Oriskany Falls,relation,176148,8,Cities/Towns/Villages/Municipalities,Q431883,,,,Village of Oriskany Falls
+US,NY,New York,Village of Remsen,relation,176150,8,Cities/Towns/Villages/Municipalities,Q3396573,,,,
+US,NY,New York,Village of Sylvan Beach,relation,176152,8,Cities/Towns/Villages/Municipalities,Q3451784,,,,Village of Sylvan Beach
+US,NY,New York,Village of Vernon,relation,176153,8,Cities/Towns/Villages/Municipalities,Q3460651,,,,Village of Vernon
+US,NY,New York,Village of Waterville,relation,176154,8,Cities/Towns/Villages/Municipalities,Q3452971,,,,Village of Waterville
+US,NY,New York,Village of Albion,relation,176155,8,Cities/Towns/Villages/Municipalities,Q2831925,,,,Village of Albion
+US,NY,New York,Village of Holley,relation,176156,8,Cities/Towns/Villages/Municipalities,Q927382,,,,Village of Holley
+US,NY,New York,Village of Lyndonville,relation,176157,8,Cities/Towns/Villages/Municipalities,Q3459814,,,,Village of Lyndonville
+US,NY,New York,Village of Medina,relation,176158,8,Cities/Towns/Villages/Municipalities,Q3470455,,,,Village of Medina
+US,NY,New York,Burdett,relation,176159,8,Cities/Towns/Villages/Municipalities,Q3453131,,,,
+US,NY,New York,Montour Falls,relation,176160,8,Cities/Towns/Villages/Municipalities,Q947730,,,,
+US,NY,New York,Odessa,relation,176161,8,Cities/Towns/Villages/Municipalities,Q3453046,,,,
+US,NY,New York,Watkins Glen,relation,176162,8,Cities/Towns/Villages/Municipalities,Q2738851,,,,
+US,NY,New York,Village of Addison,relation,176163,8,Cities/Towns/Villages/Municipalities,Q3460811,,,,Village of Addison
+US,NY,New York,Village of Arkport,relation,176164,8,Cities/Towns/Villages/Municipalities,Q3453003,,,,Village of Arkport
+US,NY,New York,Village of Avoca,relation,176166,8,Cities/Towns/Villages/Municipalities,Q3461030,,,,Village of Avoca
+US,NY,New York,Village of Bath,relation,176167,8,Cities/Towns/Villages/Municipalities,Q2891223,,,,Village of Bath
+US,NY,New York,Village of Canisteo,relation,176168,8,Cities/Towns/Villages/Municipalities,Q3460747,,,,Village of Canisteo
+US,NY,New York,Village of Cohocton,relation,176169,8,Cities/Towns/Villages/Municipalities,Q3461960,,,,Village of Cohocton
+US,NY,New York,Village of Hammondsport,relation,176170,8,Cities/Towns/Villages/Municipalities,Q1011907,,,,Village of Hammondsport
+US,NY,New York,Village of Savona,relation,176171,8,Cities/Towns/Villages/Municipalities,Q2737044,,,,Village of Savona
+US,NY,New York,Village of Wayland,relation,176172,8,Cities/Towns/Villages/Municipalities,Q3460843,,,,Village of Wayland
+US,NY,New York,Village of Asharoken,relation,176173,8,Cities/Towns/Villages/Municipalities,Q3459881,,,,Village of Asharoken
+US,NY,New York,Village of West Hampton Dunes,relation,176174,8,Cities/Towns/Villages/Municipalities,Q3458150,,,,Village of West Hampton Dunes
+US,NY,New York,Village of Champlain,relation,176177,8,Cities/Towns/Villages/Municipalities,Q692297,,,,
+US,NY,New York,Village of Dannemora,relation,176178,8,Cities/Towns/Villages/Municipalities,Q3461276,,,,Village of Dannemora
+US,NY,New York,Village of Rouses Point,relation,176180,8,Cities/Towns/Villages/Municipalities,Q3123210,,,,Village of Rouses Point
+US,NY,New York,Village of Earlville,relation,176181,8,Cities/Towns/Villages/Municipalities,Q3453106,,,,Village of Earlville
+US,NY,New York,Village of Afton,relation,176182,8,Cities/Towns/Villages/Municipalities,Q614477,,,,Village of Afton
+US,NY,New York,Village of Bainbridge,relation,176183,8,Cities/Towns/Villages/Municipalities,Q3461688,,,,Village of Bainbridge
+US,NY,New York,Village of Greene,relation,176184,8,Cities/Towns/Villages/Municipalities,Q3461035,,,,Village of Greene
+US,NY,New York,Village of New Berlin,relation,176185,8,Cities/Towns/Villages/Municipalities,Q3461896,,,,Village of New Berlin
+US,NY,New York,Village of Oxford,relation,176187,8,Cities/Towns/Villages/Municipalities,Q3461644,,,,Village of Oxford
+US,NY,New York,Village of Sherburne,relation,176188,8,Cities/Towns/Villages/Municipalities,Q3461866,,,,Village of Sherburne
+US,NY,New York,Village of Smyrna,relation,176189,8,Cities/Towns/Villages/Municipalities,Q3462048,,,,Village of Smyrna
+US,NY,New York,Village of Altamont,relation,176190,8,Cities/Towns/Villages/Municipalities,Q3164563,,,,Village of Altamont
+US,NY,New York,Village of Colonie,relation,176191,8,Cities/Towns/Villages/Municipalities,Q3710737,,,,Village of Colonie
+US,NY,New York,Village of Voorheesville,relation,176193,8,Cities/Towns/Villages/Municipalities,Q3458098,,,,Village of Voorheesville
+US,NY,New York,Village of Attica,relation,176194,8,Cities/Towns/Villages/Municipalities,Q3460830,,,,Village of Attica
+US,NY,New York,Village of Castile,relation,176195,8,Cities/Towns/Villages/Municipalities,Q601960,,,,Village of Castile
+US,NY,New York,Village of Gainesville,relation,176196,8,Cities/Towns/Villages/Municipalities,Q3452914,,,,Village of Gainesville
+US,NY,New York,Village of Perry,relation,176197,8,Cities/Towns/Villages/Municipalities,Q368763,,,,
+US,NY,New York,Village of Silver Springs,relation,176199,8,Cities/Towns/Villages/Municipalities,Q3451804,,,,Village of Silver Springs
+US,NY,New York,Village of Warsaw,relation,176200,8,Cities/Towns/Villages/Municipalities,Q3111090,,,,Village of Warsaw
+US,NY,New York,Village of Wyoming,relation,176201,8,Cities/Towns/Villages/Municipalities,Q201437,,,,Village of Wyoming
+US,NY,New York,Village of Alexander,relation,176202,8,Cities/Towns/Villages/Municipalities,Q3461090,,,,Village of Alexander
+US,NY,New York,Village of Bergen,relation,176204,8,Cities/Towns/Villages/Municipalities,Q4891483,,,,Village of Bergen
+US,NY,New York,Village of Corfu,relation,176205,8,Cities/Towns/Villages/Municipalities,Q3453113,,,,Village of Corfu
+US,NY,New York,Village of Elba,relation,176206,8,Cities/Towns/Villages/Municipalities,Q3461186,,,,Village of Elba
+US,NY,New York,Village of LeRoy,relation,176207,8,Cities/Towns/Villages/Municipalities,Q3460621,,,,Village of LeRoy
+US,NY,New York,Village of Oakfield,relation,176208,8,Cities/Towns/Villages/Municipalities,Q3461418,,,,Village of Oakfield
+US,NY,New York,Village of Saranac Lake,relation,176209,8,Cities/Towns/Villages/Municipalities,Q2663981,,,,Village of Saranac Lake
+US,NY,New York,Village of Brushton,relation,176210,8,Cities/Towns/Villages/Municipalities,Q3452941,,,,Village of Brushton
+US,NY,New York,Village of Burke,relation,176211,8,Cities/Towns/Villages/Municipalities,Q3775687,,,,Village of Burke
+US,NY,New York,Village of Chateaugay,relation,176212,8,Cities/Towns/Villages/Municipalities,Q3460865,,,,Village of Chateaugay
+US,NY,New York,Village of Malone,relation,176213,8,Cities/Towns/Villages/Municipalities,Q510021,,,,Village of Malone
+US,NY,New York,Village of Tupper Lake,relation,176214,8,Cities/Towns/Villages/Municipalities,Q1012099,,,,Village of Tupper Lake
+US,NY,New York,Village of Dolgeville,relation,176215,8,Cities/Towns/Villages/Municipalities,Q3450753,,,,Village of Dolgeville
+US,NY,New York,Village of Broadalbin,relation,176216,8,Cities/Towns/Villages/Municipalities,Q3461257,,,,Village of Broadalbin
+US,NY,New York,Village of Mayfield,relation,176218,8,Cities/Towns/Villages/Municipalities,Q3461625,,,,Village of Mayfield
+US,NY,New York,Village of Northville,relation,176219,8,Cities/Towns/Villages/Municipalities,Q3459759,,,,Village of Northville
+US,NY,New York,Village of Kaser,relation,176220,8,Cities/Towns/Villages/Municipalities,Q3303674,,,,Village of Kaser
+US,NY,New York,Village of Sloatsburg,relation,176221,8,Cities/Towns/Villages/Municipalities,Q2294333,,,,Village of Sloatsburg
+US,NY,New York,Village of Spring Valley,relation,176222,8,Cities/Towns/Villages/Municipalities,Q795401,,,,Village of Spring Valley
+US,NY,New York,Mooers,relation,176375,8,Cities/Towns/Villages/Municipalities,Q2595447,,,,
+US,NY,New York,Village of Lansing,relation,9155267,8,Cities/Towns/Villages/Municipalities,Q3276263,,,,Village of Lansing
+US,NY,New York,Owego,relation,11228416,8,Cities/Towns/Villages/Municipalities,Q993272,,,,
+US,NY,New York,Kingsboro Historic District,relation,12952713,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Village of Farmingdale,relation,13472468,8,Cities/Towns/Villages/Municipalities,Q2737048,,,,Village of Farmingdale
+US,NY,New York,Village of Franklinville,relation,13612182,8,Cities/Towns/Villages/Municipalities,Q3475013,,,,Village of Franklinville
+US,NY,New York,Village of Webster,relation,13753811,8,Cities/Towns/Villages/Municipalities,Q7978889,,,,Village of Webster
+US,NY,New York,Brooktondale,relation,13780892,8,Cities/Towns/Villages/Municipalities,Q48740577,,,,
+US,NY,New York,North Bay,relation,13852707,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Stittville,relation,13894218,8,Cities/Towns/Villages/Municipalities,Q48740356,,,,
+US,NY,New York,Wells Bridge,relation,13912922,8,Cities/Towns/Villages/Municipalities,Q48740524,,,,
+US,NY,New York,Lake Huntington,relation,13922109,8,Cities/Towns/Villages/Municipalities,Q48740097,,,,
+US,NY,New York,Village of Ballston Spa,relation,13970170,8,Cities/Towns/Villages/Municipalities,Q2572315,,,,Village of Ballston Spa
+US,NY,New York,Village of Green Island,relation,14008753,8,Cities/Towns/Villages/Municipalities,Q3461486,,,,Town of Green Island
+US,NY,New York,Portlandville,relation,14024115,8,Cities/Towns/Villages/Municipalities,Q48740509,,,,
+US,NY,New York,Sleepy Hollow Lake,relation,14053021,8,Cities/Towns/Villages/Municipalities,Q7539977,,,,
+US,NY,New York,South Cairo,relation,14057689,8,Cities/Towns/Villages/Municipalities,Q39050581,,,,
+US,NY,New York,Round Top,relation,14057700,8,Cities/Towns/Villages/Municipalities,Q39050575,,,,
+US,NY,New York,New Hamburg,relation,14077933,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Ruby,relation,14091572,8,Cities/Towns/Villages/Municipalities,Q39050578,,,,
+US,NY,New York,Swan Lake,relation,14096803,8,Cities/Towns/Villages/Municipalities,Q20618223,,,,
+US,NY,New York,Mongaup Valley,relation,14097031,8,Cities/Towns/Villages/Municipalities,Q48740100,,,,
+US,NY,New York,Kauneonga Lake,relation,14097032,8,Cities/Towns/Villages/Municipalities,Q48740082,,,,
+US,NY,New York,Village of Massapequa Park,relation,14292462,8,Cities/Towns/Villages/Municipalities,Q3451927,,,,Village of Massapequa Park
+US,NY,New York,Oak Beach,relation,14298217,8,Cities/Towns/Villages/Municipalities,Q7073431,,,,
+US,NY,New York,Cadyville,relation,14368535,8,Cities/Towns/Villages/Municipalities,Q48739493,,,,
+US,NY,New York,Hankins,relation,14379929,8,Cities/Towns/Villages/Municipalities,Q48740075,,,,
+US,NY,New York,Henderson,relation,14380209,8,Cities/Towns/Villages/Municipalities,Q60740416,,,,
+US,NY,New York,Mount Vision,relation,14390279,8,Cities/Towns/Villages/Municipalities,Q48740508,,,,
+US,NY,New York,North Granville,relation,14390766,8,Cities/Towns/Villages/Municipalities,Q48740167,,,,
+US,NY,New York,Ward 1,relation,16061086,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Ward 2,relation,16061089,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Ward 3,relation,16061092,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Ward 4,relation,16061095,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Ward 5,relation,16061098,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Ward 6,relation,16061101,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Ward 7,relation,16061104,8,Cities/Towns/Villages/Municipalities,,,,,
+US,NY,New York,Ward 8,relation,16061107,8,Cities/Towns/Villages/Municipalities,,,,,

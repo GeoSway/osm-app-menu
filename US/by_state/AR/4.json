@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "AR",
+    "state_name": "Arkansas",
+    "name": "Arkansas",
+    "osm_type": "relation",
+    "osm_id": 161646,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1612",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "AR",
+    "official_name": null
+  }
+]

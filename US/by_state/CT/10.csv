@@ -1,0 +1,3 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,CT,Connecticut,Greens Farms,relation,10185248,10,Neighborhoods/Hamlets,,,,,
+US,CT,Connecticut,Compo,relation,10185414,10,Neighborhoods/Hamlets,,,,,

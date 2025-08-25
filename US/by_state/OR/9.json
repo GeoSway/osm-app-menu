@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "OR",
+    "state_name": "Oregon",
+    "name": "Neahkahnie Beach",
+    "osm_type": "relation",
+    "osm_id": 10415473,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": "Q6984019",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

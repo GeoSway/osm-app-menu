@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "SC",
+    "state_name": "South Carolina",
+    "name": "Pucketts Ferry",
+    "osm_type": "relation",
+    "osm_id": 14972499,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

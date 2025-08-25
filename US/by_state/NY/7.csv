@@ -1,0 +1,1001 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,NY,New York,,way,1071770591,7,Townships/Boroughs/Districts,,,,,
+US,NY,New York,City of Glens Falls,relation,174383,7,Townships/Boroughs/Districts,Q1379621,,,,Glens Falls
+US,NY,New York,City of Watervliet,relation,174386,7,Townships/Boroughs/Districts,Q1380709,,,,City of Watervliet
+US,NY,New York,City of Troy,relation,174387,7,Townships/Boroughs/Districts,Q600301,,,,City of Troy
+US,NY,New York,City of Cohoes,relation,174388,7,Townships/Boroughs/Districts,Q1380598,,,,City of Cohoes
+US,NY,New York,City of Rensselaer,relation,174389,7,Townships/Boroughs/Districts,Q1380769,,,,Rensselaer
+US,NY,New York,City of Long Beach,relation,174454,7,Townships/Boroughs/Districts,Q40209,,,,City of Long Beach
+US,NY,New York,City of Glen Cove,relation,174480,7,Townships/Boroughs/Districts,Q1006668,,,,City of Glen Cove
+US,NY,New York,City of Yonkers,relation,174494,7,Townships/Boroughs/Districts,Q128114,,,,City of Yonkers
+US,NY,New York,City of White Plains,relation,174495,7,Townships/Boroughs/Districts,Q462177,,,,City of White Plains
+US,NY,New York,Village of Scarsdale,relation,174500,7,Townships/Boroughs/Districts,Q2300959,,,,Village of Scarsdale
+US,NY,New York,City of Rye,relation,174873,7,Townships/Boroughs/Districts,Q1379757,,,,City of Rye
+US,NY,New York,City of Peekskill,relation,174879,7,Townships/Boroughs/Districts,Q876191,,,,City of Peekskill
+US,NY,New York,City of Mount Vernon,relation,174883,7,Townships/Boroughs/Districts,Q835831,,,,Mount Vernon
+US,NY,New York,City of New Rochelle,relation,174885,7,Townships/Boroughs/Districts,Q744948,,,,New Rochelle
+US,NY,New York,Village/Town of Mount Kisco,relation,174886,7,Townships/Boroughs/Districts,Q2412514,,,,Village/Town of Mount Kisco
+US,NY,New York,Village of Mamaroneck,relation,174889,7,Townships/Boroughs/Districts,Q3462076,,,,
+US,NY,New York,City of Hudson,relation,174904,7,Townships/Boroughs/Districts,Q1023499,,,,Hudson
+US,NY,New York,City of Syracuse,relation,174916,7,Townships/Boroughs/Districts,Q128069,,,,City of Syracuse
+US,NY,New York,City of Olean,relation,174925,7,Townships/Boroughs/Districts,Q630963,,,,Olean
+US,NY,New York,City of Binghamton,relation,174933,7,Townships/Boroughs/Districts,Q213814,,,,City of Binghamton
+US,NY,New York,Jamestown,relation,174942,7,Townships/Boroughs/Districts,Q983861,,,Jamestown,Jamestown
+US,NY,New York,City of Dunkirk,relation,174947,7,Townships/Boroughs/Districts,Q911609,,,,City of Dunkirk
+US,NY,New York,City of Elmira,relation,174948,7,Townships/Boroughs/Districts,Q934135,,,,City of Elmira
+US,NY,New York,City of Poughkeepsie,relation,174952,7,Townships/Boroughs/Districts,Q178093,,,,City of Poughkeepsie
+US,NY,New York,City of Cortland,relation,174991,7,Townships/Boroughs/Districts,Q1380739,,,,City of Cortland
+US,NY,New York,City of Oswego,relation,174996,7,Townships/Boroughs/Districts,Q1017583,,,,City of Oswego
+US,NY,New York,City of Kingston,relation,175010,7,Townships/Boroughs/Districts,Q868660,,,,City of Kingston
+US,NY,New York,City of Lackawanna,relation,175028,7,Townships/Boroughs/Districts,Q1380568,,,,Lackawanna
+US,NY,New York,Buffalo,relation,175031,7,Townships/Boroughs/Districts,Q40435,,,,Buffalo
+US,NY,New York,Town of West Seneca,relation,175050,7,Townships/Boroughs/Districts,Q3300204,,,,Town of West Seneca
+US,NY,New York,City of Tonawanda,relation,175052,7,Townships/Boroughs/Districts,Q1380722,,,,City of Tonawanda
+US,NY,New York,City of North Tonawanda,relation,175053,7,Townships/Boroughs/Districts,Q1378018,,,,North Tonawanda
+US,NY,New York,City of Auburn,relation,175448,7,Townships/Boroughs/Districts,Q225519,,,,Auburn
+US,NY,New York,Town of Irondequoit,relation,175451,7,Townships/Boroughs/Districts,Q3452472,,,,Town of Irondequoit
+US,NY,New York,Town of Brighton,relation,175452,7,Townships/Boroughs/Districts,Q3644692,,,,Town of Brighton
+US,NY,New York,City of Middletown,relation,175466,7,Townships/Boroughs/Districts,Q304801,,,,Middletown
+US,NY,New York,City of Newburgh,relation,175469,7,Townships/Boroughs/Districts,Q1044808,,,,Newburgh
+US,NY,New York,Town of Niskayuna,relation,175479,7,Townships/Boroughs/Districts,Q3102134,,,,Town of Niskayuna
+US,NY,New York,City of Schenectady,relation,175481,7,Townships/Boroughs/Districts,Q331380,,,,City of Schenectady
+US,NY,New York,City of Lockport,relation,175484,7,Townships/Boroughs/Districts,Q1077109,,,,Lockport
+US,NY,New York,City of Utica,relation,175487,7,Townships/Boroughs/Districts,Q2495519,,,,City of Utica
+US,NY,New York,City of Corning,relation,175491,7,Townships/Boroughs/Districts,Q576395,,,,City of Corning
+US,NY,New York,City of Hornell,relation,175493,7,Townships/Boroughs/Districts,Q1378011,,,,Hornell
+US,NY,New York,City of Plattsburgh,relation,175544,7,Townships/Boroughs/Districts,Q998669,,,,Plattsburgh
+US,NY,New York,City of Albany,relation,175549,7,Townships/Boroughs/Districts,Q24861,,,,Albany
+US,NY,New York,Town of Green Island,relation,175550,7,Townships/Boroughs/Districts,Q3461486,,,,
+US,NY,New York,City of Salamanca,relation,175879,7,Townships/Boroughs/Districts,Q1380435,,,,City of Salamanca
+US,NY,New York,City of Beacon,relation,175936,7,Townships/Boroughs/Districts,Q812892,,,,City of Beacon
+US,NY,New York,City of Ogdensburg,relation,175968,7,Townships/Boroughs/Districts,Q684406,,,,Ogdensburg
+US,NY,New York,City of Watertown,relation,175993,7,Townships/Boroughs/Districts,Q1378026,,,,
+US,NY,New York,City of Fulton,relation,176020,7,Townships/Boroughs/Districts,Q1428057,,,,City of Fulton
+US,NY,New York,City of Canandaigua,relation,176057,7,Townships/Boroughs/Districts,Q1363104,,,,City of Canandaigua
+US,NY,New York,City of Geneva,relation,176059,7,Townships/Boroughs/Districts,Q1378284,,,,City of Geneva
+US,NY,New York,Town/Village of East Rochester,relation,176064,7,Townships/Boroughs/Districts,Q3476557,,,,
+US,NY,New York,City of Rochester,relation,176069,7,Townships/Boroughs/Districts,Q49218,,,,City of Rochester
+US,NY,New York,City of Port Jervis,relation,176081,7,Townships/Boroughs/Districts,Q976675,,,,Port Jervis
+US,NY,New York,City of Niagara Falls,relation,176131,7,Townships/Boroughs/Districts,Q128133,,,,Niagara Falls
+US,NY,New York,City of Batavia,relation,176203,7,Townships/Boroughs/Districts,Q1380988,,,Batavia,City of Batavia
+US,NY,New York,Town of Guilderland,relation,2659910,7,Townships/Boroughs/Districts,Q3045956,,,,Town of Guilderland
+US,NY,New York,Town of Bethlehem,relation,2659930,7,Townships/Boroughs/Districts,Q3708873,,,,Town of Bethlehem
+US,NY,New York,Town of New Scotland,relation,2660017,7,Townships/Boroughs/Districts,Q3708490,,,,Town of New Scotland
+US,NY,New York,Town of Sand Lake,relation,2660193,7,Townships/Boroughs/Districts,Q3708689,,,,Town of Sand Lake
+US,NY,New York,Town of East Greenbush,relation,2660204,7,Townships/Boroughs/Districts,Q986308,,,,Town of East Greenbush
+US,NY,New York,Town of Poestenkill,relation,2660219,7,Townships/Boroughs/Districts,Q7207410,,,,Town of Poestenkill
+US,NY,New York,Town of Schodack,relation,2661447,7,Townships/Boroughs/Districts,Q3710635,,,,Town of Schodack
+US,NY,New York,Town of Nassau,relation,2661455,7,Townships/Boroughs/Districts,Q11695104,,,,
+US,NY,New York,Town of Brunswick,relation,2661490,7,Townships/Boroughs/Districts,Q994132,,,,Town of Brunswick
+US,NY,New York,Town of North Greenbush,relation,2661515,7,Townships/Boroughs/Districts,Q3709311,,,,Town of North Greenbush
+US,NY,New York,Town of Grafton,relation,2661535,7,Townships/Boroughs/Districts,Q2411279,,,,Town of Grafton
+US,NY,New York,Town of Pittstown,relation,2661543,7,Townships/Boroughs/Districts,Q2605439,,,,Town of Pittstown
+US,NY,New York,Town of Schaghticoke,relation,2661572,7,Townships/Boroughs/Districts,Q989452,,,,Town of Schaghticoke
+US,NY,New York,Town of Coeymans,relation,2663932,7,Townships/Boroughs/Districts,Q1974698,,,,Town of Coeymans
+US,NY,New York,Town of Westerlo,relation,2663947,7,Townships/Boroughs/Districts,Q3708285,,,,Town of Westerlo
+US,NY,New York,Town of Rensselaerville,relation,2663957,7,Townships/Boroughs/Districts,Q3709139,,,,Town of Rensselaerville
+US,NY,New York,Town of Berne,relation,2663995,7,Townships/Boroughs/Districts,Q2898999,,,,Town of Berne
+US,NY,New York,Town of Knox,relation,2664357,7,Townships/Boroughs/Districts,Q3708287,,,,Town of Knox
+US,NY,New York,Town of Penfield,relation,2763647,7,Townships/Boroughs/Districts,Q3709152,,,,Town of Penfield
+US,NY,New York,Town of Webster,relation,2763648,7,Townships/Boroughs/Districts,Q3710240,,,,Town of Webster
+US,NY,New York,Town of Henrietta,relation,2763732,7,Townships/Boroughs/Districts,Q3098591,,,,Town of Henrietta
+US,NY,New York,Town of Mendon,relation,2763733,7,Townships/Boroughs/Districts,Q3709248,,,,Town of Mendon
+US,NY,New York,Town of Perinton,relation,2763734,7,Townships/Boroughs/Districts,Q3709653,,,,Town of Perinton
+US,NY,New York,Town of Pittsford,relation,2763735,7,Townships/Boroughs/Districts,Q175909,,,,Town of Pittsford
+US,NY,New York,Town of Rush,relation,2763736,7,Townships/Boroughs/Districts,Q3709701,,,,Town of Rush
+US,NY,New York,Town of Chili,relation,2763765,7,Townships/Boroughs/Districts,Q2412213,,,,Town of Chili
+US,NY,New York,Town of Riga,relation,2763766,7,Townships/Boroughs/Districts,Q3709884,,,,Town of Riga
+US,NY,New York,Town of Wheatland,relation,2763767,7,Townships/Boroughs/Districts,Q3709295,,,,Town of Wheatland
+US,NY,New York,Town of Rotterdam,relation,2793133,7,Townships/Boroughs/Districts,Q2166239,,,,Town of Rotterdam
+US,NY,New York,Town of Amsterdam,relation,3143360,7,Townships/Boroughs/Districts,Q2038528,,,,Town of Amsterdam
+US,NY,New York,Town of Ballston,relation,3143361,7,Townships/Boroughs/Districts,Q3708709,,,,Town of Ballston
+US,NY,New York,Town of Bleecker,relation,3143362,7,Townships/Boroughs/Districts,Q3708407,,,,Town of Bleecker
+US,NY,New York,Town of Broadalbin,relation,3143363,7,Townships/Boroughs/Districts,Q940615,,,,Town of Broadalbin
+US,NY,New York,Town of Canajoharie,relation,3143364,7,Townships/Boroughs/Districts,Q5030949,,,,Town of Canajoharie
+US,NY,New York,Town of Caroga,relation,3143365,7,Townships/Boroughs/Districts,Q3708953,,,,Town of Caroga
+US,NY,New York,Town of Charleston,relation,3143366,7,Townships/Boroughs/Districts,Q3708353,,,,Town of Charleston
+US,NY,New York,Town of Charlton,relation,3143367,7,Townships/Boroughs/Districts,Q3708299,,,,Town of Charlton
+US,NY,New York,Town of Clifton Park,relation,3143368,7,Townships/Boroughs/Districts,Q3709610,,,,Town of Clifton Park
+US,NY,New York,Town of Corinth,relation,3143369,7,Townships/Boroughs/Districts,Q970821,,,,Town of Corinth
+US,NY,New York,Town of Day,relation,3143370,7,Townships/Boroughs/Districts,Q3708252,,,,Town of Day
+US,NY,New York,Town of Duanesburg,relation,3143371,7,Townships/Boroughs/Districts,Q2913559,,,,Town of Duanesburg
+US,NY,New York,Town of Edinburg,relation,3143372,7,Townships/Boroughs/Districts,Q3708962,,,,Town of Edinburg
+US,NY,New York,Town of Ephratah,relation,3143373,7,Townships/Boroughs/Districts,Q2887942,,,,Town of Ephratah
+US,NY,New York,Town of Florida,relation,3143374,7,Townships/Boroughs/Districts,Q5027600,,,,Town of Florida
+US,NY,New York,Town of Galway,relation,3143375,7,Townships/Boroughs/Districts,Q5519453,,,,Town of Galway
+US,NY,New York,Town of Glen,relation,3143376,7,Townships/Boroughs/Districts,Q3708435,,,,Town of Glen
+US,NY,New York,Town of Glenville,relation,3143377,7,Townships/Boroughs/Districts,Q3708585,,,,Town of Glenville
+US,NY,New York,Town of Greenfield,relation,3143378,7,Townships/Boroughs/Districts,Q3501791,,,,
+US,NY,New York,Town of Hadley,relation,3143379,7,Townships/Boroughs/Districts,Q3708474,,,,Town of Hadley
+US,NY,New York,Town of Halfmoon,relation,3143380,7,Townships/Boroughs/Districts,Q3708670,,,,Town of Halfmoon
+US,NY,New York,Town of Johnstown,relation,3143381,7,Townships/Boroughs/Districts,Q6268769,,,,Town of Johnstown
+US,NY,New York,Town of Malta,relation,3143382,7,Townships/Boroughs/Districts,Q3708930,,,,Town of Malta
+US,NY,New York,Town of Mayfield,relation,3143383,7,Townships/Boroughs/Districts,Q6797156,,,,Town of Mayfield
+US,NY,New York,Town of Milton,relation,3143384,7,Townships/Boroughs/Districts,Q3461944,,,,Town of Milton
+US,NY,New York,Town of Minden,relation,3143385,7,Townships/Boroughs/Districts,Q3708436,,,,Town of Minden
+US,NY,New York,Town of Mohawk,relation,3143386,7,Townships/Boroughs/Districts,Q9034152,,,,Town of Mohawk
+US,NY,New York,Town of Moreau,relation,3143387,7,Townships/Boroughs/Districts,Q766021,,,,Town of Moreau
+US,NY,New York,Town of Northampton,relation,3143388,7,Townships/Boroughs/Districts,Q7057574,,,,Town of Northampton
+US,NY,New York,Town of Northumberland,relation,3143389,7,Townships/Boroughs/Districts,Q2879177,,,,Town of Northumberland
+US,NY,New York,Town of Oppenheim,relation,3143390,7,Townships/Boroughs/Districts,Q992522,,,,Town of Oppenheim
+US,NY,New York,Town of Palatine,relation,3143391,7,Townships/Boroughs/Districts,Q3501546,,,,Town of Palatine
+US,NY,New York,Town of Perth,relation,3143392,7,Townships/Boroughs/Districts,Q3708521,,,,Town of Perth
+US,NY,New York,Town of Princetown,relation,3143393,7,Townships/Boroughs/Districts,Q3708985,,,,Town of Princetown
+US,NY,New York,Town of Providence,relation,3143394,7,Townships/Boroughs/Districts,Q3708900,,,,Town of Providence
+US,NY,New York,Town of Root,relation,3143395,7,Townships/Boroughs/Districts,Q3708378,,,,Town of Root
+US,NY,New York,Town of Saratoga,relation,3143396,7,Townships/Boroughs/Districts,Q518097,,,,Town of Saratoga
+US,NY,New York,Town of Saint Johnsville,relation,3143397,7,Townships/Boroughs/Districts,Q7589039,,,,Town of Saint Johnsville
+US,NY,New York,Town of Stratford,relation,3143398,7,Townships/Boroughs/Districts,Q3501769,,,,Town of Stratford
+US,NY,New York,Town of Waterford,relation,3143399,7,Townships/Boroughs/Districts,Q3080833,,,,Town of Waterford
+US,NY,New York,Town of Wilton,relation,3143400,7,Townships/Boroughs/Districts,Q3710319,,,,Town of Wilton
+US,NY,New York,City of Amsterdam,relation,3143401,7,Townships/Boroughs/Districts,Q478456,,,,Amsterdam
+US,NY,New York,City of Gloversville,relation,3143402,7,Townships/Boroughs/Districts,Q1380511,,,,Gloversville
+US,NY,New York,City of Johnstown,relation,3143403,7,Townships/Boroughs/Districts,Q1377991,,,,Johnstown
+US,NY,New York,City of Mechanicville,relation,3143404,7,Townships/Boroughs/Districts,Q1378444,,,,Mechanicville
+US,NY,New York,City of Saratoga Springs,relation,3143405,7,Townships/Boroughs/Districts,Q1144357,,,,City of Saratoga Springs
+US,NY,New York,Town of Stillwater,relation,3143407,7,Townships/Boroughs/Districts,Q3709125,,,,Town of Stillwater
+US,NY,New York,Town of Easton,relation,3154309,7,Townships/Boroughs/Districts,Q3709016,,,,Town of Easton
+US,NY,New York,Town of Bolton,relation,3155194,7,Townships/Boroughs/Districts,Q2835003,,,,Town of Bolton
+US,NY,New York,Town of Chester,relation,3155195,7,Townships/Boroughs/Districts,Q3490784,,,,Town of Chester
+US,NY,New York,Town of Hague,relation,3155196,7,Townships/Boroughs/Districts,Q3501630,,,,Town of Hague
+US,NY,New York,Town of Horicon,relation,3155197,7,Townships/Boroughs/Districts,Q3708215,,,,Town of Horicon
+US,NY,New York,Town of Johnsburg,relation,3155198,7,Townships/Boroughs/Districts,Q3709023,,,,Town of Johnsburg
+US,NY,New York,Town of Lake George,relation,3155199,7,Townships/Boroughs/Districts,Q2624801,,,,Town of Lake George
+US,NY,New York,Town of Lake Luzerne,relation,3155200,7,Townships/Boroughs/Districts,,,,,
+US,NY,New York,Town of Queensbury,relation,3155201,7,Townships/Boroughs/Districts,Q3414040,,,,Town of Queensbury
+US,NY,New York,Town of Stony Creek,relation,3155202,7,Townships/Boroughs/Districts,Q3708819,,,,Town of Stony Creek
+US,NY,New York,Town of Thurman,relation,3155203,7,Townships/Boroughs/Districts,Q946177,,,,Town of Thurman
+US,NY,New York,Town of Warrensburg,relation,3155204,7,Townships/Boroughs/Districts,Q3506095,,,,Town of Warrensburg
+US,NY,New York,Town of Arietta,relation,3157105,7,Townships/Boroughs/Districts,Q3708335,,,,Town of Arietta
+US,NY,New York,Town of Benson,relation,3157106,7,Townships/Boroughs/Districts,Q3501740,,,,Town of Benson
+US,NY,New York,Town of Columbia,relation,3157107,7,Townships/Boroughs/Districts,Q3708737,,,,
+US,NY,New York,Town of Danube,relation,3157108,7,Townships/Boroughs/Districts,Q3708297,,,,Town of Danube
+US,NY,New York,Town of Fairfield,relation,3157109,7,Townships/Boroughs/Districts,Q3708230,,,,Town of Fairfield
+US,NY,New York,Town of Frankfort,relation,3157110,7,Townships/Boroughs/Districts,Q3709335,,,,Town of Frankfort
+US,NY,New York,Town of German Flatts,relation,3157111,7,Townships/Boroughs/Districts,Q3708266,,,,Town of German Flatts
+US,NY,New York,Town of Herkimer,relation,3157112,7,Townships/Boroughs/Districts,Q5739251,,,,Town of Herkimer
+US,NY,New York,Town of Hope,relation,3157113,7,Townships/Boroughs/Districts,Q3708248,,,,Town of Hope
+US,NY,New York,Town of Indian Lake,relation,3157114,7,Townships/Boroughs/Districts,Q3708610,,,,Town of Indian Lake
+US,NY,New York,Town of Inlet,relation,3157115,7,Townships/Boroughs/Districts,Q3708550,,,,Town of Inlet
+US,NY,New York,Town of Lake Pleasant,relation,3157116,7,Townships/Boroughs/Districts,Q525640,,,,Town of Lake Pleasant
+US,NY,New York,Town of Litchfield,relation,3157117,7,Townships/Boroughs/Districts,Q3390139,,,,Town of Litchfield
+US,NY,New York,Town of Little Falls,relation,3157118,7,Townships/Boroughs/Districts,Q1428674,,,,Town of Little Falls
+US,NY,New York,Town of Long Lake,relation,3157119,7,Townships/Boroughs/Districts,Q3708688,,,,
+US,NY,New York,Town of Manheim,relation,3157120,7,Townships/Boroughs/Districts,Q1012116,,,,Town of Manheim
+US,NY,New York,Town of Morehouse,relation,3157121,7,Townships/Boroughs/Districts,Q3708666,,,,Town of Morehouse
+US,NY,New York,Town of Newport,relation,3157122,7,Townships/Boroughs/Districts,Q7018699,,,,Town of Newport
+US,NY,New York,Town of Norway,relation,3157123,7,Townships/Boroughs/Districts,Q944765,,,,Town of Norway
+US,NY,New York,Town of Ohio,relation,3157124,7,Townships/Boroughs/Districts,Q927274,,,,Town of Ohio
+US,NY,New York,Town of Russia,relation,3157125,7,Townships/Boroughs/Districts,Q3708651,,,,Town of Russia
+US,NY,New York,Town of Salisbury,relation,3157126,7,Townships/Boroughs/Districts,Q7404728,,,,Town of Salisbury
+US,NY,New York,Town of Schuyler,relation,3157127,7,Townships/Boroughs/Districts,Q3709190,,,,Town of Schuyler
+US,NY,New York,Town of Stark,relation,3157128,7,Townships/Boroughs/Districts,Q3708707,,,,Town of Stark
+US,NY,New York,Town of Warren,relation,3157129,7,Townships/Boroughs/Districts,Q3710652,,,,Town of Warren
+US,NY,New York,Town of Webb,relation,3157130,7,Townships/Boroughs/Districts,Q597246,,,,Town of Webb
+US,NY,New York,Town of Wells,relation,3157131,7,Townships/Boroughs/Districts,Q3709821,,,,Town of Wells
+US,NY,New York,Town of Winfield,relation,3157132,7,Townships/Boroughs/Districts,Q8024990,,,,Town of Winfield
+US,NY,New York,City of Little Falls,relation,3157133,7,Townships/Boroughs/Districts,Q1380663,,,,Little Falls
+US,NY,New York,Town of Greenwich,relation,3158107,7,Townships/Boroughs/Districts,Q5604828,,,,Town of Greenwich
+US,NY,New York,Town of Cambridge,relation,3158130,7,Townships/Boroughs/Districts,Q11151861,,,,Town of Cambridge
+US,NY,New York,Town of White Creek,relation,3158198,7,Townships/Boroughs/Districts,Q3708228,,,,Town of White Creek
+US,NY,New York,Town of Jackson,relation,3158203,7,Townships/Boroughs/Districts,Q263311,,,,Town of Jackson
+US,NY,New York,Town of Salem,relation,3158213,7,Townships/Boroughs/Districts,Q195898,,,,Town of Salem
+US,NY,New York,Town of Fort Edward,relation,3158291,7,Townships/Boroughs/Districts,Q919719,,,,Town of Fort Edward
+US,NY,New York,Town of Argyle,relation,3158299,7,Townships/Boroughs/Districts,Q4789807,,,,Town of Argyle
+US,NY,New York,Town of Hebron,relation,3158315,7,Townships/Boroughs/Districts,Q3708919,,,,Town of Hebron
+US,NY,New York,Town of Granville,relation,3158322,7,Townships/Boroughs/Districts,Q3708396,,,,Town of Granville
+US,NY,New York,Town of Hartford,relation,3158332,7,Townships/Boroughs/Districts,Q1022761,,,,Town of Hartford
+US,NY,New York,Town of Kingsbury,relation,3158486,7,Townships/Boroughs/Districts,Q739318,,,,Town of Kingsbury
+US,NY,New York,Town of Fort Ann,relation,3158555,7,Townships/Boroughs/Districts,Q934180,,,,Town of Fort Ann
+US,NY,New York,Town of Whitehall,relation,3158572,7,Townships/Boroughs/Districts,Q386367,,,,Town of Whitehall
+US,NY,New York,Town of Hampton,relation,3158595,7,Townships/Boroughs/Districts,Q2365576,,,,Town of Hampton
+US,NY,New York,Town of Dresden,relation,3158639,7,Townships/Boroughs/Districts,Q1258454,,,,Town of Dresden
+US,NY,New York,Town of Putnam,relation,3158671,7,Townships/Boroughs/Districts,Q3708861,,,,Town of Putnam
+US,NY,New York,Town of Blenheim,relation,3158827,7,Townships/Boroughs/Districts,Q3708334,,,,Town of Blenheim
+US,NY,New York,Town of Broome,relation,3158828,7,Townships/Boroughs/Districts,Q3709173,,,,Town of Broome
+US,NY,New York,Town of Burlington,relation,3158829,7,Townships/Boroughs/Districts,Q3708339,,,,Town of Burlington
+US,NY,New York,Town of Butternuts,relation,3158830,7,Townships/Boroughs/Districts,Q3708660,,,,Town of Butternuts
+US,NY,New York,Town of Carlisle,relation,3158831,7,Townships/Boroughs/Districts,Q3501753,,,,Town of Carlisle
+US,NY,New York,Town of Cherry Valley,relation,3158832,7,Townships/Boroughs/Districts,Q5092494,,,,Town of Cherry Valley
+US,NY,New York,Town of Cobleskill,relation,3158833,7,Townships/Boroughs/Districts,Q5138934,,,,Town of Cobleskill
+US,NY,New York,Town of Conesville,relation,3158834,7,Townships/Boroughs/Districts,Q3708807,,,,Town of Conesville
+US,NY,New York,Town of Decatur,relation,3158835,7,Townships/Boroughs/Districts,Q3708376,,,,
+US,NY,New York,Town of Edmeston,relation,3158836,7,Townships/Boroughs/Districts,Q3710621,,,,Town of Edmeston
+US,NY,New York,Town of Esperance,relation,3158837,7,Townships/Boroughs/Districts,Q3709164,,,,Town of Esperance
+US,NY,New York,Town of Exeter,relation,3158838,7,Townships/Boroughs/Districts,Q3708454,,,,Town of Exeter
+US,NY,New York,Town of Fulton,relation,3158839,7,Townships/Boroughs/Districts,Q5508398,,,,Town of Fulton
+US,NY,New York,Town of Gilboa,relation,3158840,7,Townships/Boroughs/Districts,Q3708388,,,,Town of Gilboa
+US,NY,New York,Town of Hartwick,relation,3158841,7,Townships/Boroughs/Districts,Q2837802,,,,Town of Hartwick
+US,NY,New York,Town of Jefferson,relation,3158842,7,Townships/Boroughs/Districts,Q3708797,,,,Town of Jefferson
+US,NY,New York,Town of Laurens,relation,3158843,7,Townships/Boroughs/Districts,Q6500961,,,,Town of Laurens
+US,NY,New York,Town of Maryland,relation,3158844,7,Townships/Boroughs/Districts,Q3708363,,,,
+US,NY,New York,Town of Middleburgh,relation,3158845,7,Townships/Boroughs/Districts,Q6841744,,,,Town of Middleburgh
+US,NY,New York,Town of Middlefield,relation,3158846,7,Townships/Boroughs/Districts,Q3708268,,,,Town of Middlefield
+US,NY,New York,Town of Milford,relation,3158847,7,Townships/Boroughs/Districts,Q6851697,,,,Town of Milford
+US,NY,New York,Town of Morris,relation,3158848,7,Townships/Boroughs/Districts,Q3709301,,,,Town of Morris
+US,NY,New York,Town of New Lisbon,relation,3158849,7,Townships/Boroughs/Districts,Q3709186,,,,Town of New Lisbon
+US,NY,New York,Town of Oneonta,relation,3158850,7,Townships/Boroughs/Districts,Q7093717,,,,Town of Oneonta
+US,NY,New York,Town of Otego,relation,3158851,7,Townships/Boroughs/Districts,Q7108497,,,,Town of Otego
+US,NY,New York,Town of Otsego,relation,3158852,7,Townships/Boroughs/Districts,Q3708729,,,,Town of Otsego
+US,NY,New York,Town of Pittsfield,relation,3158853,7,Townships/Boroughs/Districts,Q3708398,,,,Town of Pittsfield
+US,NY,New York,Town of Plainfield,relation,3158854,7,Townships/Boroughs/Districts,Q3501654,,,,Town of Plainfield
+US,NY,New York,Town of Richfield,relation,3158855,7,Townships/Boroughs/Districts,Q3708305,,,,
+US,NY,New York,Town of Richmondville,relation,3158856,7,Townships/Boroughs/Districts,Q7331073,,,,Town of Richmondville
+US,NY,New York,Town of Roseboom,relation,3158857,7,Townships/Boroughs/Districts,Q3708408,,,,Town of Roseboom
+US,NY,New York,Town of Schoharie,relation,3158858,7,Townships/Boroughs/Districts,Q7432010,,,,Town of Schoharie
+US,NY,New York,Town of Seward,relation,3158859,7,Townships/Boroughs/Districts,Q2917182,,,,Town of Seward
+US,NY,New York,Town of Sharon,relation,3158860,7,Townships/Boroughs/Districts,Q542660,,,,Town of Sharon
+US,NY,New York,Town of Springfield,relation,3158861,7,Townships/Boroughs/Districts,Q570046,,,,Town of Springfield
+US,NY,New York,Town of Summit,relation,3158862,7,Townships/Boroughs/Districts,Q3708988,,,,
+US,NY,New York,Town of Unadilla,relation,3158863,7,Townships/Boroughs/Districts,Q2596590,,,,Town of Unadilla
+US,NY,New York,Town of Westford,relation,3158864,7,Townships/Boroughs/Districts,Q3708426,,,,Town of Westford
+US,NY,New York,Town of Worcester,relation,3158865,7,Townships/Boroughs/Districts,Q3708771,,,,Town of Worcester
+US,NY,New York,Town of Wright,relation,3158866,7,Townships/Boroughs/Districts,Q3708894,,,,Town of Wright
+US,NY,New York,City of Oneonta,relation,3158867,7,Townships/Boroughs/Districts,Q1019805,,,,Oneonta
+US,NY,New York,Town of Hoosick,relation,3159551,7,Townships/Boroughs/Districts,Q3708212,,,,Town of Hoosick
+US,NY,New York,Town of Petersburgh,relation,3159791,7,Townships/Boroughs/Districts,Q3708464,,,,Town of Petersburgh
+US,NY,New York,Town of Berlin,relation,3159829,7,Townships/Boroughs/Districts,Q821215,,,,Town of Berlin
+US,NY,New York,Town of Stephentown,relation,3159882,7,Townships/Boroughs/Districts,Q2888146,,,,Town of Stephentown
+US,NY,New York,Town of Colonie,relation,3160177,7,Townships/Boroughs/Districts,Q3723193,,,,Town of Colonie
+US,NY,New York,Town of New Lebanon,relation,3160224,7,Townships/Boroughs/Districts,Q3708218,,,,Town of New Lebanon
+US,NY,New York,Town of Canaan,relation,3160233,7,Townships/Boroughs/Districts,Q2483284,,,,Town of Canaan
+US,NY,New York,Town of Chatham,relation,3160367,7,Townships/Boroughs/Districts,Q3723184,,,,
+US,NY,New York,Town of Kinderhook,relation,3160368,7,Townships/Boroughs/Districts,Q3710663,,,,Town of Kinderhook
+US,NY,New York,Town of Stuyvesant,relation,3160434,7,Townships/Boroughs/Districts,Q3708883,,,,Town of Stuyvesant
+US,NY,New York,Town of Austerlitz,relation,3161018,7,Townships/Boroughs/Districts,Q3708672,,,,Town of Austerlitz
+US,NY,New York,Town of Ghent,relation,3161035,7,Townships/Boroughs/Districts,Q2372542,,,,Town of Ghent
+US,NY,New York,Town of Stockport,relation,3161086,7,Townships/Boroughs/Districts,Q3708724,,,,Town of Stockport
+US,NY,New York,Town of Hillsdale,relation,3161098,7,Townships/Boroughs/Districts,Q3708235,,,,Town of Hillsdale
+US,NY,New York,Town of Claverack,relation,3161119,7,Townships/Boroughs/Districts,Q1022781,,,,Town of Claverack
+US,NY,New York,Town of Greenport,relation,3161171,7,Townships/Boroughs/Districts,Q94855,,,,Town of Greenport
+US,NY,New York,Town of Copake,relation,3161204,7,Townships/Boroughs/Districts,Q3709010,,,,Town of Copake
+US,NY,New York,Town of Taghkanic,relation,3161262,7,Townships/Boroughs/Districts,Q3708831,,,,Town of Taghkanic
+US,NY,New York,Town of Livingston,relation,3161362,7,Townships/Boroughs/Districts,Q2918081,,,,Town of Livingston
+US,NY,New York,Town of Ancram,relation,3161402,7,Townships/Boroughs/Districts,Q3708239,,,,Town of Ancram
+US,NY,New York,Town of Gallatin,relation,3161428,7,Townships/Boroughs/Districts,Q3708822,,,,Town of Gallatin
+US,NY,New York,Town of Clermont,relation,3161451,7,Townships/Boroughs/Districts,Q3708413,,,,Town of Clermont
+US,NY,New York,Town of Germantown,relation,3161456,7,Townships/Boroughs/Districts,Q3761144,,,,Town of Germantown
+US,NY,New York,Town of New Baltimore,relation,3163881,7,Townships/Boroughs/Districts,Q3708922,,,,Town of New Baltimore
+US,NY,New York,Town of Greenville,relation,3163941,7,Townships/Boroughs/Districts,Q3461004,,,,Town of Greenville
+US,NY,New York,Town of Durham,relation,3164113,7,Townships/Boroughs/Districts,Q3708751,,,,Town of Durham
+US,NY,New York,Town of Coxsackie,relation,3164202,7,Townships/Boroughs/Districts,Q5179975,,,,Town of Coxsackie
+US,NY,New York,Town of Athens,relation,3164273,7,Townships/Boroughs/Districts,Q3709146,,,,Town of Athens
+US,NY,New York,Town of Cairo,relation,3164282,7,Townships/Boroughs/Districts,Q4699596,,,,Town of Cairo
+US,NY,New York,Town of Catskill,relation,3164357,7,Townships/Boroughs/Districts,Q3288991,,,,Town of Catskill
+US,NY,New York,Town of Windham,relation,3164438,7,Townships/Boroughs/Districts,Q746326,,,,Town of Windham
+US,NY,New York,Town of Ashland,relation,3164446,7,Townships/Boroughs/Districts,Q3710270,,,,Town of Ashland
+US,NY,New York,Town of Prattsville,relation,3165191,7,Townships/Boroughs/Districts,Q3708743,,,,Town of Prattsville
+US,NY,New York,Town of Jewett,relation,3165198,7,Townships/Boroughs/Districts,Q3708961,,,,Town of Jewett
+US,NY,New York,Town of Hunter,relation,3165216,7,Townships/Boroughs/Districts,Q9005436,,,,Town of Hunter
+US,NY,New York,Town of Lexington,relation,3165225,7,Townships/Boroughs/Districts,Q992543,,,,Town of Lexington
+US,NY,New York,Town of Halcott,relation,3165237,7,Townships/Boroughs/Districts,Q3709162,,,,Town of Halcott
+US,NY,New York,Town of Afton,relation,3166217,7,Townships/Boroughs/Districts,Q1895518,,,,Town of Afton
+US,NY,New York,Town of Bainbridge,relation,3166218,7,Townships/Boroughs/Districts,Q2879945,,,,Town of Bainbridge
+US,NY,New York,Town of Columbus,relation,3166219,7,Townships/Boroughs/Districts,Q3708769,,,,Town of Columbus
+US,NY,New York,Town of Coventry,relation,3166220,7,Townships/Boroughs/Districts,Q3505448,,,,Town of Coventry
+US,NY,New York,Town of German,relation,3166221,7,Townships/Boroughs/Districts,Q3708826,,,,Town of German
+US,NY,New York,Town of Greene,relation,3166222,7,Townships/Boroughs/Districts,Q5603833,,,,Town of Greene
+US,NY,New York,Town of Guilford,relation,3166223,7,Townships/Boroughs/Districts,Q2887275,,,,Town of Guilford
+US,NY,New York,Town of Lincklaen,relation,3166224,7,Townships/Boroughs/Districts,Q3708256,,,,Town of Lincklaen
+US,NY,New York,Town of McDonough,relation,3166225,7,Townships/Boroughs/Districts,Q3708755,,,,Town of McDonough
+US,NY,New York,Town of New Berlin,relation,3166226,7,Townships/Boroughs/Districts,Q3624967,,,,Town of New Berlin
+US,NY,New York,Town of North Norwich,relation,3166227,7,Townships/Boroughs/Districts,Q3708351,,,,Town of North Norwich
+US,NY,New York,Town of Norwich,relation,3166228,7,Townships/Boroughs/Districts,Q7061467,,,,Town of Norwich
+US,NY,New York,Town of Otselic,relation,3166229,7,Townships/Boroughs/Districts,Q3708713,,,,Town of Otselic
+US,NY,New York,Town of Oxford,relation,3166230,7,Townships/Boroughs/Districts,Q3708820,,,,Town of Oxford
+US,NY,New York,Town of Pharsalia,relation,3166231,7,Townships/Boroughs/Districts,Q3708259,,,,Town of Pharsalia
+US,NY,New York,Town of Pitcher,relation,3166232,7,Townships/Boroughs/Districts,Q3708468,,,,Town of Pitcher
+US,NY,New York,Town of Plymouth,relation,3166233,7,Townships/Boroughs/Districts,Q3708543,,,,Town of Plymouth
+US,NY,New York,Town of Preston,relation,3166234,7,Townships/Boroughs/Districts,Q3501561,,,,Town of Preston
+US,NY,New York,Town of Sherburne,relation,3166235,7,Townships/Boroughs/Districts,Q7494770,,,,Town of Sherburne
+US,NY,New York,Town of Smithville,relation,3166236,7,Townships/Boroughs/Districts,Q3708326,,,,Town of Smithville
+US,NY,New York,Town of Smyrna,relation,3166237,7,Townships/Boroughs/Districts,Q7546719,,,,Town of Smyrna
+US,NY,New York,City of Norwich,relation,3166331,7,Townships/Boroughs/Districts,Q1380484,,,,City of Norwich
+US,NY,New York,Town of Brookfield,relation,3169192,7,Townships/Boroughs/Districts,Q3708317,,,,Town of Brookfield
+US,NY,New York,Town of Cazenovia,relation,3169193,7,Townships/Boroughs/Districts,Q3710260,,,,Town of Cazenovia
+US,NY,New York,Town of DeRuyter,relation,3169194,7,Townships/Boroughs/Districts,Q5244073,,,,Town of DeRuyter
+US,NY,New York,Town of Eaton,relation,3169195,7,Townships/Boroughs/Districts,Q3708981,,,,Town of Eaton
+US,NY,New York,Town of Fenner,relation,3169196,7,Townships/Boroughs/Districts,Q3708586,,,,Town of Fenner
+US,NY,New York,Town of Georgetown,relation,3169197,7,Townships/Boroughs/Districts,Q3710639,,,,Town of Georgetown
+US,NY,New York,Town of Hamilton,relation,3169198,7,Townships/Boroughs/Districts,Q3626259,,,,Town of Hamilton
+US,NY,New York,Town of Lebanon,relation,3169199,7,Townships/Boroughs/Districts,Q3708344,,,,Town of Lebanon
+US,NY,New York,Town of Lenox,relation,3169200,7,Townships/Boroughs/Districts,Q3708367,,,,Town of Lenox
+US,NY,New York,Town of Lincoln,relation,3169201,7,Townships/Boroughs/Districts,Q3501856,,,,
+US,NY,New York,Town of Madison,relation,3169202,7,Townships/Boroughs/Districts,Q9026711,,,,Town of Madison
+US,NY,New York,Town of Nelson,relation,3169203,7,Townships/Boroughs/Districts,Q3709022,,,,Town of Nelson
+US,NY,New York,Town of Smithfield,relation,3169204,7,Townships/Boroughs/Districts,Q3708280,,,,Town of Smithfield
+US,NY,New York,Town of Stockbridge,relation,3169205,7,Townships/Boroughs/Districts,Q1002394,,,,Town of Stockbridge
+US,NY,New York,Town of Sullivan,relation,3169206,7,Townships/Boroughs/Districts,Q3501230,,,,Town of Sullivan
+US,NY,New York,City of Oneida,relation,3169207,7,Townships/Boroughs/Districts,,,,Oneida,City of Oneida
+US,NY,New York,Town of Saugerties,relation,3172132,7,Townships/Boroughs/Districts,Q3292703,,,,Town of Saugerties
+US,NY,New York,Town of Woodstock,relation,3173436,7,Townships/Boroughs/Districts,Q608293,,,,Town of Woodstock
+US,NY,New York,Town of Shandaken,relation,3173690,7,Townships/Boroughs/Districts,Q3708519,,,,Town of Shandaken
+US,NY,New York,Town of Hardenburgh,relation,3173938,7,Townships/Boroughs/Districts,Q3708777,,,,Town of Hardenburgh
+US,NY,New York,Town of Denning,relation,3174055,7,Townships/Boroughs/Districts,Q3709129,,,,Town of Denning
+US,NY,New York,Town of Wawarsing,relation,3174056,7,Townships/Boroughs/Districts,Q942193,,,,Town of Wawarsing
+US,NY,New York,Town of Rochester,relation,3175580,7,Townships/Boroughs/Districts,Q507875,,,,Town of Rochester
+US,NY,New York,Town of Olive,relation,3175619,7,Townships/Boroughs/Districts,Q3708540,,,,Town of Olive
+US,NY,New York,Town of Hurley,relation,3175625,7,Townships/Boroughs/Districts,Q1285433,,,,Town of Hurley
+US,NY,New York,Town of Kingston,relation,3175638,7,Townships/Boroughs/Districts,Q6413450,,,,Town of Kingston
+US,NY,New York,Town of Ulster,relation,3177282,7,Townships/Boroughs/Districts,Q387839,,,,Town of Ulster
+US,NY,New York,Town of Marbletown,relation,3177419,7,Townships/Boroughs/Districts,Q3708911,,,,Town of Marbletown
+US,NY,New York,Town of Rosendale,relation,3177650,7,Townships/Boroughs/Districts,Q3708460,,,,Town of Rosendale
+US,NY,New York,Town of Esopus,relation,3177653,7,Townships/Boroughs/Districts,Q3709827,,,,Town of Esopus
+US,NY,New York,Town of New Paltz,relation,3177666,7,Townships/Boroughs/Districts,Q3709293,,,,Town of New Paltz
+US,NY,New York,Town of Lloyd,relation,3177680,7,Townships/Boroughs/Districts,Q2919888,,,,Town of Lloyd
+US,NY,New York,Town of Gardiner,relation,3177683,7,Townships/Boroughs/Districts,Q3710642,,,,Town of Gardiner
+US,NY,New York,Town of Shawangunk,relation,3177704,7,Townships/Boroughs/Districts,Q3709104,,,,Town of Shawangunk
+US,NY,New York,Town of Plattekill,relation,3177759,7,Townships/Boroughs/Districts,Q3709166,,,,Town of Plattekill
+US,NY,New York,Town of Marlborough,relation,3177802,7,Townships/Boroughs/Districts,Q3708333,,,,Town of Marlborough
+US,NY,New York,Town of North East,relation,3232417,7,Townships/Boroughs/Districts,Q3250388,,,,Town of North East
+US,NY,New York,Town of Pine Plains,relation,3232436,7,Townships/Boroughs/Districts,Q3250697,,,,Town of Pine Plains
+US,NY,New York,Town of Milan,relation,3232437,7,Townships/Boroughs/Districts,Q3250367,,,,
+US,NY,New York,Town of Red Hook,relation,3232453,7,Townships/Boroughs/Districts,Q1022757,,,,Town of Red Hook
+US,NY,New York,Town of Rhinebeck,relation,3232527,7,Townships/Boroughs/Districts,Q994367,,,,Town of Rhinebeck
+US,NY,New York,Town of Amenia,relation,3233050,7,Townships/Boroughs/Districts,Q462486,,,,Town of Amenia
+US,NY,New York,Town of Stanford,relation,3233064,7,Townships/Boroughs/Districts,Q3250385,,,,Town of Stanford
+US,NY,New York,Town of Washington,relation,3233071,7,Townships/Boroughs/Districts,Q1013498,,,,Town of Washington
+US,NY,New York,Town of Clinton,relation,3233086,7,Townships/Boroughs/Districts,Q3304540,,,,Town of Clinton
+US,NY,New York,Town of Pleasant Valley,relation,3233101,7,Townships/Boroughs/Districts,Q3250721,,,,Town of Pleasant Valley
+US,NY,New York,Town of Hyde Park,relation,3233126,7,Townships/Boroughs/Districts,,,,,
+US,NY,New York,Town of Dover,relation,3233158,7,Townships/Boroughs/Districts,Q3038284,,,,Town of Dover
+US,NY,New York,Town of Union Vale,relation,3233174,7,Townships/Boroughs/Districts,Q3250376,,,,Town of Union Vale
+US,NY,New York,Town of La Grange,relation,3235140,7,Townships/Boroughs/Districts,Q427693,,,,Town of La Grange
+US,NY,New York,Town of Poughkeepsie,relation,3235303,7,Townships/Boroughs/Districts,Q1002445,,,,Town of Poughkeepsie
+US,NY,New York,Town of Pawling,relation,3235412,7,Townships/Boroughs/Districts,Q11698432,,,,Town of Pawling
+US,NY,New York,Town of Beekman,relation,3235422,7,Townships/Boroughs/Districts,Q920518,,,,Town of Beekman
+US,NY,New York,Town of East Fishkill,relation,3235443,7,Townships/Boroughs/Districts,Q3250383,,,,Town of East Fishkill
+US,NY,New York,Town of Wappinger,relation,3235459,7,Townships/Boroughs/Districts,Q1001679,,,,Town of Wappinger
+US,NY,New York,Town of Fishkill,relation,3235514,7,Townships/Boroughs/Districts,Q5455097,,,,Town of Fishkill
+US,NY,New York,Town of Patterson,relation,3244526,7,Townships/Boroughs/Districts,Q3709168,,,,Town of Patterson
+US,NY,New York,Town of Southeast,relation,3244686,7,Townships/Boroughs/Districts,Q3708420,,,,Town of Southeast
+US,NY,New York,Town of Kent,relation,3244744,7,Townships/Boroughs/Districts,Q3708897,,,,Town of Kent
+US,NY,New York,Town of Carmel,relation,3244864,7,Townships/Boroughs/Districts,Q1013504,,,,Town of Carmel
+US,NY,New York,Town of Putnam Valley,relation,3244965,7,Townships/Boroughs/Districts,Q3708790,,,,Town of Putnam Valley
+US,NY,New York,Town of Philipstown,relation,3244995,7,Townships/Boroughs/Districts,Q3708246,,,,Town of Philipstown
+US,NY,New York,Town of Newburgh,relation,3245763,7,Townships/Boroughs/Districts,Q7017154,,,,Town of Newburgh
+US,NY,New York,Town of Montgomery,relation,3245773,7,Townships/Boroughs/Districts,Q624678,,,,
+US,NY,New York,Town of Crawford,relation,3245812,7,Townships/Boroughs/Districts,Q3708470,,,,Town of Crawford
+US,NY,New York,Town of New Windsor,relation,3245819,7,Townships/Boroughs/Districts,Q3708373,,,,Town of New Windsor
+US,NY,New York,Town of Hamptonburgh,relation,3245824,7,Townships/Boroughs/Districts,Q3708679,,,,Town of Hamptonburgh
+US,NY,New York,Town of Wallkill,relation,3245837,7,Townships/Boroughs/Districts,Q3072037,,,,Town of Wallkill
+US,NY,New York,Town of Mount Hope,relation,3245879,7,Townships/Boroughs/Districts,Q3708719,,,,Town of Mount Hope
+US,NY,New York,Town of Deerpark,relation,3246691,7,Townships/Boroughs/Districts,Q3709734,,,Deerpark,Town of Deerpark
+US,NY,New York,Town of Greenville,relation,3247061,7,Townships/Boroughs/Districts,Q3475623,,,,Town of Greenville
+US,NY,New York,Town of Minisink,relation,3247140,7,Townships/Boroughs/Districts,Q3428372,,,,
+US,NY,New York,Town of Wawayanda,relation,3247235,7,Townships/Boroughs/Districts,Q3708913,,,,Town of Wawayanda
+US,NY,New York,Town of Goshen,relation,3247305,7,Townships/Boroughs/Districts,Q10950572,,,,Town of Goshen
+US,NY,New York,Town of Chester,relation,3247344,7,Townships/Boroughs/Districts,Q2756901,,,,Town of Chester
+US,NY,New York,Town of Warwick,relation,3247369,7,Townships/Boroughs/Districts,Q3708823,,,,Town of Warwick
+US,NY,New York,Town of Blooming Grove,relation,3247491,7,Townships/Boroughs/Districts,Q3708594,,,,Town of Blooming Grove
+US,NY,New York,Town of Monroe,relation,3248151,7,Townships/Boroughs/Districts,Q2916618,,,,Village of Monroe
+US,NY,New York,Town of Woodbury,relation,3248161,7,Townships/Boroughs/Districts,Q3472130,,,,Village of Woodbury
+US,NY,New York,Town of Tuxedo,relation,3248175,7,Townships/Boroughs/Districts,Q3708498,,,,Town of Tuxedo
+US,NY,New York,Town of Highlands,relation,3248188,7,Townships/Boroughs/Districts,Q3276977,,,,Town of Highlands
+US,NY,New York,Town of Cornwall,relation,3249297,7,Townships/Boroughs/Districts,Q3710140,,,,Town of Cornwall
+US,NY,New York,Town of Lumberland,relation,3259868,7,Townships/Boroughs/Districts,Q613181,,,,Town of Lumberland
+US,NY,New York,Town of Forestburgh,relation,3259877,7,Townships/Boroughs/Districts,Q3708573,,,,Town of Forestburgh
+US,NY,New York,Town of Mamakating,relation,3259879,7,Townships/Boroughs/Districts,Q1003791,,,,Town of Mamakating
+US,NY,New York,Town of Fallsburg,relation,3259893,7,Townships/Boroughs/Districts,Q3569718,,,,Town of Fallsburg
+US,NY,New York,Town of Neversink,relation,3259895,7,Townships/Boroughs/Districts,Q3708810,,,,Town of Neversink
+US,NY,New York,Town of Rockland,relation,3259926,7,Townships/Boroughs/Districts,Q3708370,,,,Town of Rockland
+US,NY,New York,Town of Fremont,relation,3259927,7,Townships/Boroughs/Districts,Q5501541,,,,Town of Fremont
+US,NY,New York,Town of Delaware,relation,3262850,7,Townships/Boroughs/Districts,Q3708302,,,,Town of Delaware
+US,NY,New York,Town of Cochecton,relation,3262886,7,Townships/Boroughs/Districts,Q3708502,,,,Town of Cochecton
+US,NY,New York,Town of Tusten,relation,3262929,7,Townships/Boroughs/Districts,Q3708236,,,,Town of Tusten
+US,NY,New York,Town of Highland,relation,3262944,7,Townships/Boroughs/Districts,Q5414022,,,,Town of Highland
+US,NY,New York,Town of Thompson,relation,3263087,7,Townships/Boroughs/Districts,Q595572,,,,Town of Thompson
+US,NY,New York,Town of Bethel,relation,3263293,7,Townships/Boroughs/Districts,Q831256,,,,Town of Bethel
+US,NY,New York,Town of Liberty,relation,3263327,7,Townships/Boroughs/Districts,Q6541521,,,,Town of Liberty
+US,NY,New York,Town of Callicoon,relation,3263349,7,Townships/Boroughs/Districts,Q5022038,,,,Town of Callicoon
+US,NY,New York,Town of Ramapo,relation,3283265,7,Townships/Boroughs/Districts,Q2633533,,,,Town of Ramapo
+US,NY,New York,Town of Orangetown,relation,3284083,7,Townships/Boroughs/Districts,Q2689324,,,,Town of Orangetown
+US,NY,New York,Town of Clarkstown,relation,3284354,7,Townships/Boroughs/Districts,Q2430250,,,,Town of Clarkstown
+US,NY,New York,Town of Haverstraw,relation,3284825,7,Townships/Boroughs/Districts,Q3710418,,,Haverstraw,Town of Haverstraw
+US,NY,New York,Town of Stony Point,relation,3284837,7,Townships/Boroughs/Districts,Q3709831,,,,Town of Stony Point
+US,NY,New York,Town of Ontario,relation,3292038,7,Townships/Boroughs/Districts,Q3308155,,,,Town of Ontario
+US,NY,New York,Town of Walworth,relation,3292039,7,Townships/Boroughs/Districts,Q3708781,,,,Town of Walworth
+US,NY,New York,Town of Williamson,relation,3292049,7,Townships/Boroughs/Districts,Q3708450,,,,Town of Williamson
+US,NY,New York,Town of Marion,relation,3292063,7,Townships/Boroughs/Districts,Q3708412,,,,Town of Marion
+US,NY,New York,Town of Macedon,relation,3292064,7,Townships/Boroughs/Districts,Q6723044,,,,Town of Macedon
+US,NY,New York,Town of Palmyra,relation,3292065,7,Townships/Boroughs/Districts,Q2270548,,,,Town of Palmyra
+US,NY,New York,Town of Arcadia,relation,3292108,7,Townships/Boroughs/Districts,Q2917999,,,,Town of Arcadia
+US,NY,New York,Town of Sodus,relation,3292109,7,Townships/Boroughs/Districts,Q9078559,,,,
+US,NY,New York,Town of Huron,relation,3292354,7,Townships/Boroughs/Districts,Q3708387,,,,Town of Huron
+US,NY,New York,Town of Rose,relation,3292355,7,Townships/Boroughs/Districts,Q51270,,,,Town of Rose
+US,NY,New York,Town of Lyons,relation,3292411,7,Townships/Boroughs/Districts,Q6709776,,,,Town of Lyons
+US,NY,New York,Town of Galen,relation,3293533,7,Townships/Boroughs/Districts,Q3709183,,,,Town of Galen
+US,NY,New York,Town of Butler,relation,3293537,7,Townships/Boroughs/Districts,Q3708628,,,,Town of Butler
+US,NY,New York,Town of Wolcott,relation,3293538,7,Townships/Boroughs/Districts,Q8029722,,,,Town of Wolcott
+US,NY,New York,Town of Savannah,relation,3293555,7,Townships/Boroughs/Districts,Q3708745,,,,Town of Savannah
+US,NY,New York,Town of Hancock,relation,3301099,7,Townships/Boroughs/Districts,Q3545569,,,,Town of Hancock
+US,NY,New York,Town of Colchester,relation,3301144,7,Townships/Boroughs/Districts,Q3708614,,,,Town of Colchester
+US,NY,New York,Town of Andes,relation,3301156,7,Townships/Boroughs/Districts,Q4754284,,,,Town of Andes
+US,NY,New York,Town of Middletown,relation,3301175,7,Townships/Boroughs/Districts,Q6842070,,,,
+US,NY,New York,Town of Roxbury,relation,3301332,7,Townships/Boroughs/Districts,Q3708265,,,,Town of Roxbury
+US,NY,New York,Town of Stamford,relation,3301367,7,Townships/Boroughs/Districts,Q941325,,,,Village of Stamford
+US,NY,New York,Town of Bovina,relation,3301388,7,Townships/Boroughs/Districts,Q3708292,,,,Town of Bovina
+US,NY,New York,Town of Delhi,relation,3301392,7,Townships/Boroughs/Districts,Q5253725,,,,Town of Delhi
+US,NY,New York,Town of Hamden,relation,3301967,7,Townships/Boroughs/Districts,Q3708662,,,,Town of Hamden
+US,NY,New York,Town of Walton,relation,3301974,7,Townships/Boroughs/Districts,Q7966720,,,,Town of Walton
+US,NY,New York,Town of Tompkins,relation,3301986,7,Townships/Boroughs/Districts,Q3708330,,,,Town of Tompkins
+US,NY,New York,Town of Deposit,relation,3302016,7,Townships/Boroughs/Districts,Q5260775,,,,Town of Deposit
+US,NY,New York,Town of Masonville,relation,3302023,7,Townships/Boroughs/Districts,Q3708316,,,,Town of Masonville
+US,NY,New York,Town of Sidney,relation,3302360,7,Townships/Boroughs/Districts,Q4352427,,,,Town of Sidney
+US,NY,New York,Town of Franklin,relation,3302400,7,Townships/Boroughs/Districts,Q2817199,,,,Town of Franklin
+US,NY,New York,Town of Meredith,relation,3302403,7,Townships/Boroughs/Districts,Q3708223,,,,Town of Meredith
+US,NY,New York,Town of Kortright,relation,3302404,7,Townships/Boroughs/Districts,Q3708369,,,,Town of Kortright
+US,NY,New York,Town of Harpersfield,relation,3302413,7,Townships/Boroughs/Districts,Q3708802,,,,Town of Harpersfield
+US,NY,New York,Town of Davenport,relation,3302874,7,Townships/Boroughs/Districts,Q3708254,,,,Town of Davenport
+US,NY,New York,Town of North Salem,relation,3305340,7,Townships/Boroughs/Districts,Q1022773,,,,Town of North Salem
+US,NY,New York,Town of Somers,relation,3305514,7,Townships/Boroughs/Districts,Q3708471,,,,Town of Somers
+US,NY,New York,Town of Yorktown,relation,3305599,7,Townships/Boroughs/Districts,Q3709801,,,,Town of Yorktown
+US,NY,New York,Town of Cortlandt,relation,3305920,7,Townships/Boroughs/Districts,Q167239,,,Cortland,
+US,NY,New York,Town of Lewisboro,relation,3306018,7,Townships/Boroughs/Districts,Q3068247,,,,Town of Lewisboro
+US,NY,New York,Town of Pound Ridge,relation,3306054,7,Townships/Boroughs/Districts,Q1270755,,,,Town of Pound Ridge
+US,NY,New York,Town of Bedford,relation,3306074,7,Townships/Boroughs/Districts,Q2485680,,,,Town of Bedford
+US,NY,New York,Town of New Castle,relation,3306079,7,Townships/Boroughs/Districts,Q3131938,,,,Town of New Castle
+US,NY,New York,Town of Ossining,relation,3306086,7,Townships/Boroughs/Districts,Q522356,,,,Town of Ossining
+US,NY,New York,Town of Mount Pleasant,relation,3306997,7,Townships/Boroughs/Districts,Q1018321,,,,Town of Mount Pleasant
+US,NY,New York,Town of North Castle,relation,3307252,7,Townships/Boroughs/Districts,Q2889867,,,,Town of North Castle
+US,NY,New York,Town/Village of Harrison,relation,3307289,7,Townships/Boroughs/Districts,Q3476507,,,,
+US,NY,New York,Town of Rye,relation,3308039,7,Townships/Boroughs/Districts,Q4355009,,,,Town of Rye
+US,NY,New York,Town of Greenburgh,relation,3308775,7,Townships/Boroughs/Districts,Q1022767,,,,Greenburgh
+US,NY,New York,Town of Mamaroneck,relation,3308973,7,Townships/Boroughs/Districts,Q1781692,,,,Town of Mamaroneck
+US,NY,New York,Town of Pelham,relation,3309303,7,Townships/Boroughs/Districts,Q958159,,,,Town of Pelham
+US,NY,New York,Town of Eastchester,relation,3309365,7,Townships/Boroughs/Districts,Q3709365,,,,Town of Eastchester
+US,NY,New York,Town of Farmington,relation,3363447,7,Townships/Boroughs/Districts,Q3390894,,,,Town of Farmington
+US,NY,New York,Town of Sterling,relation,3377159,7,Townships/Boroughs/Districts,Q3501570,,,,Town of Sterling
+US,NY,New York,Town of Victory,relation,3377160,7,Townships/Boroughs/Districts,Q3475694,,,,Town of Victory
+US,NY,New York,Town of Conquest,relation,3377161,7,Townships/Boroughs/Districts,Q3708915,,,,Town of Conquest
+US,NY,New York,Town of Ira,relation,3377162,7,Townships/Boroughs/Districts,Q3708702,,,,Town of Ira
+US,NY,New York,Town of Cato,relation,3377178,7,Townships/Boroughs/Districts,Q5053592,,,,Town of Cato
+US,NY,New York,Town of Mentz,relation,3379342,7,Townships/Boroughs/Districts,Q3708532,,,,Town of Mentz
+US,NY,New York,Town of Brutus,relation,3379343,7,Townships/Boroughs/Districts,Q3708456,,,,Town of Brutus
+US,NY,New York,Town of Sennett,relation,3379346,7,Townships/Boroughs/Districts,Q3708409,,,,Town of Sennett
+US,NY,New York,Town of Owasco,relation,3379347,7,Townships/Boroughs/Districts,Q3708800,,,,Town of Owasco
+US,NY,New York,Town of Throop,relation,3379352,7,Townships/Boroughs/Districts,Q2476607,,,,Town of Throop
+US,NY,New York,Town of Montezuma,relation,3379366,7,Townships/Boroughs/Districts,Q3708715,,,,Town of Montezuma
+US,NY,New York,Town of Aurelius,relation,3379367,7,Townships/Boroughs/Districts,Q3708340,,,,Town of Aurelius
+US,NY,New York,Town of Fleming,relation,3379370,7,Townships/Boroughs/Districts,Q3708603,,,,Town of Fleming
+US,NY,New York,Town of Springport,relation,3379371,7,Townships/Boroughs/Districts,Q3708587,,,,Town of Springport
+US,NY,New York,Town of Niles,relation,3379377,7,Townships/Boroughs/Districts,Q3183212,,,,Town of Niles
+US,NY,New York,Town of Ledyard,relation,3379715,7,Townships/Boroughs/Districts,Q3321759,,,,Town of Ledyard
+US,NY,New York,Town of Scipio,relation,3379736,7,Townships/Boroughs/Districts,Q3709032,,,,Town of Scipio
+US,NY,New York,Town of Venice,relation,3379773,7,Townships/Boroughs/Districts,Q607094,,,,Town of Venice
+US,NY,New York,Town of Genoa,relation,3379774,7,Townships/Boroughs/Districts,Q3710630,,,,Town of Genoa
+US,NY,New York,Town of Moravia,relation,3379809,7,Townships/Boroughs/Districts,Q6909324,,,,Town of Moravia
+US,NY,New York,Town of Sempronius,relation,3379811,7,Townships/Boroughs/Districts,Q3708839,,,,Town of Sempronius
+US,NY,New York,Town of Locke,relation,3379817,7,Townships/Boroughs/Districts,Q3708602,,,,Town of Locke
+US,NY,New York,Town of Summerhill,relation,3379828,7,Townships/Boroughs/Districts,Q3710298,,,,Town of Summerhill
+US,NY,New York,Town of Victor,relation,3389524,7,Townships/Boroughs/Districts,Q3708619,,,,Town of Victor
+US,NY,New York,Town of Manchester,relation,3389525,7,Townships/Boroughs/Districts,Q6747240,,,,Town of Manchester
+US,NY,New York,Town of Phelps,relation,3389526,7,Townships/Boroughs/Districts,Q7181259,,,,Town of Phelps
+US,NY,New York,Town of West Bloomfield,relation,3389752,7,Townships/Boroughs/Districts,Q3708963,,,,Town of West Bloomfield
+US,NY,New York,Town of East Bloomfield,relation,3389753,7,Townships/Boroughs/Districts,Q3708723,,,,Town of East Bloomfield
+US,NY,New York,Town of Bristol,relation,3389754,7,Townships/Boroughs/Districts,Q3708405,,,,Town of Bristol
+US,NY,New York,Town of Richmond,relation,3389755,7,Townships/Boroughs/Districts,Q3708238,,,,Town of Richmond
+US,NY,New York,Town of Canandaigua,relation,3389771,7,Townships/Boroughs/Districts,Q5031116,,,,Town of Canandaigua
+US,NY,New York,Town of South Bristol,relation,3389786,7,Townships/Boroughs/Districts,Q3708361,,,,Town of South Bristol
+US,NY,New York,Town of Naples,relation,3389789,7,Townships/Boroughs/Districts,Q6964959,,,,Town of Naples
+US,NY,New York,Town of Canadice,relation,3389819,7,Townships/Boroughs/Districts,Q3708682,,,,Town of Canadice
+US,NY,New York,Town of Gorham,relation,3391084,7,Townships/Boroughs/Districts,Q3708324,,,,Town of Gorham
+US,NY,New York,Town of Hopewell,relation,3391085,7,Townships/Boroughs/Districts,Q3709197,,,,Town of Hopewell
+US,NY,New York,Town of Seneca,relation,3392639,7,Townships/Boroughs/Districts,Q3708385,,,,Town of Seneca
+US,NY,New York,Town of Geneva,relation,3392641,7,Townships/Boroughs/Districts,Q5532974,,,,Town of Geneva
+US,NY,New York,Town of Annsville,relation,3669568,7,Townships/Boroughs/Districts,Q3708380,,,,Town of Annsville
+US,NY,New York,Town of Augusta,relation,3669569,7,Townships/Boroughs/Districts,Q765508,,,,Town of Augusta
+US,NY,New York,Town of Ava,relation,3669570,7,Townships/Boroughs/Districts,Q3708711,,,,Town of Ava
+US,NY,New York,Town of Boonville,relation,3669571,7,Townships/Boroughs/Districts,,,,,
+US,NY,New York,Town of Bridgewater,relation,3669572,7,Townships/Boroughs/Districts,Q4966823,,,,Town of Bridgewater
+US,NY,New York,Town of Camden,relation,3669573,7,Townships/Boroughs/Districts,Q5025714,,,,Town of Camden
+US,NY,New York,Town of Deerfield,relation,3669574,7,Townships/Boroughs/Districts,Q3708294,,,,Town of Deerfield
+US,NY,New York,Town of Florence,relation,3669575,7,Townships/Boroughs/Districts,Q3501582,,,,Town of Florence
+US,NY,New York,Town of Floyd,relation,3669576,7,Townships/Boroughs/Districts,Q3708577,,,,Town of Floyd
+US,NY,New York,Town of Forestport,relation,3669577,7,Townships/Boroughs/Districts,Q2843780,,,,Town of Forestport
+US,NY,New York,Town of Kirkland,relation,3669578,7,Townships/Boroughs/Districts,Q3708314,,,,Town of Kirkland
+US,NY,New York,Town of Lee,relation,3669579,7,Townships/Boroughs/Districts,Q589112,,,,Town of Lee
+US,NY,New York,Town of Marcy,relation,3669580,7,Townships/Boroughs/Districts,Q3123263,,,,Town of Marcy
+US,NY,New York,Town of Marshall,relation,3669581,7,Townships/Boroughs/Districts,Q3708383,,,,Town of Marshall
+US,NY,New York,Town of New Hartford,relation,3669582,7,Townships/Boroughs/Districts,Q9049730,,,,Town of New Hartford
+US,NY,New York,Town of Paris,relation,3669583,7,Townships/Boroughs/Districts,Q538772,,,,Town of Paris
+US,NY,New York,Town of Remsen,relation,3669584,7,Townships/Boroughs/Districts,Q7312221,,,,
+US,NY,New York,Town of Sangerfield,relation,3669585,7,Townships/Boroughs/Districts,Q3708718,,,,Town of Sangerfield
+US,NY,New York,Town of Steuben,relation,3669586,7,Townships/Boroughs/Districts,Q3708691,,,,Town of Steuben
+US,NY,New York,Town of Trenton,relation,3669587,7,Townships/Boroughs/Districts,Q3322325,,,,Town of Trenton
+US,NY,New York,Town of Vernon,relation,3669588,7,Townships/Boroughs/Districts,Q7922041,,,,Town of Vernon
+US,NY,New York,Town of Verona,relation,3669589,7,Townships/Boroughs/Districts,Q3708365,,,,Town of Verona
+US,NY,New York,Town of Vienna,relation,3669590,7,Townships/Boroughs/Districts,Q3708598,,,,Town of Vienna
+US,NY,New York,Town of Western,relation,3669591,7,Townships/Boroughs/Districts,Q3708418,,,,Town of Western
+US,NY,New York,Town of Westmoreland,relation,3669592,7,Townships/Boroughs/Districts,Q3709281,,,,Town of Westmoreland
+US,NY,New York,Town of Whitestown,relation,3669593,7,Townships/Boroughs/Districts,Q2066905,,,,Town of Whitestown
+US,NY,New York,City of Rome,relation,3669594,7,Townships/Boroughs/Districts,Q6586,,,,Rome
+US,NY,New York,City of Sherrill,relation,3669595,7,Townships/Boroughs/Districts,Q669876,,,,City of Sherrill
+US,NY,New York,Town of Sparta,relation,4034677,7,Townships/Boroughs/Districts,Q3708643,,,,Town of Sparta
+US,NY,New York,Town of Conesus,relation,4034678,7,Townships/Boroughs/Districts,Q3708792,,,,Town of Conesus
+US,NY,New York,Town of Springwater,relation,4034679,7,Townships/Boroughs/Districts,Q3708541,,,,Town of Springwater
+US,NY,New York,Town of North Dansville,relation,4034680,7,Townships/Boroughs/Districts,Q3708267,,,,Town of North Dansville
+US,NY,New York,Town of Geneseo,relation,4034863,7,Townships/Boroughs/Districts,Q3100558,,,,Town of Geneseo
+US,NY,New York,Town of Groveland,relation,4034864,7,Townships/Boroughs/Districts,Q3708283,,,,Town of Groveland
+US,NY,New York,Town of West Sparta,relation,4034865,7,Townships/Boroughs/Districts,Q3708231,,,,Town of West Sparta
+US,NY,New York,Town of Ossian,relation,4034866,7,Townships/Boroughs/Districts,Q3708673,,,,Town of Ossian
+US,NY,New York,Town of Nunda,relation,4034898,7,Townships/Boroughs/Districts,Q7069788,,,,Village of Nunda
+US,NY,New York,Town of Portage,relation,4034952,7,Townships/Boroughs/Districts,Q617483,,,,Town of Portage
+US,NY,New York,Town of Mount Morris,relation,4034953,7,Townships/Boroughs/Districts,Q10751427,,,,Town of Mount Morris
+US,NY,New York,Town of Leicester,relation,4034979,7,Townships/Boroughs/Districts,Q10751420,,,,Town of Leicester
+US,NY,New York,Town of York,relation,4034980,7,Townships/Boroughs/Districts,Q3709687,,,,Town of York
+US,NY,New York,Town of Caledonia,relation,4037830,7,Townships/Boroughs/Districts,Q5019357,,,,
+US,NY,New York,Town of Avon,relation,4037831,7,Townships/Boroughs/Districts,Q4829170,,,,Town of Avon
+US,NY,New York,Town of Livonia,relation,4037846,7,Townships/Boroughs/Districts,Q604520,,,,Town of Livonia
+US,NY,New York,Town of Lima,relation,4037847,7,Townships/Boroughs/Districts,Q1769849,,,,Town of Lima
+US,NY,New York,Town of Oswego,relation,4192868,7,Townships/Boroughs/Districts,Q7108221,,,,Town of Oswego
+US,NY,New York,Town of Hannibal,relation,4192869,7,Townships/Boroughs/Districts,Q3709664,,,,Town of Hannibal
+US,NY,New York,Town of Granby,relation,4192870,7,Townships/Boroughs/Districts,Q3708437,,,,Town of Granby
+US,NY,New York,Town of Minetto,relation,4192871,7,Townships/Boroughs/Districts,Q6864569,,,,Town of Minetto
+US,NY,New York,Town of Schroeppel,relation,4192872,7,Townships/Boroughs/Districts,Q3708814,,,,Town of Schroeppel
+US,NY,New York,Town of Volney,relation,4193144,7,Townships/Boroughs/Districts,Q3708730,,,,Town of Volney
+US,NY,New York,Town of Scriba,relation,4193145,7,Townships/Boroughs/Districts,Q3708890,,,,Town of Scriba
+US,NY,New York,Town of New Haven,relation,4193146,7,Townships/Boroughs/Districts,Q3708222,,,,Town of New Haven
+US,NY,New York,Town of Palermo,relation,4193147,7,Townships/Boroughs/Districts,Q2355729,,,,Town of Palermo
+US,NY,New York,Town of Hastings,relation,4193148,7,Townships/Boroughs/Districts,Q3708830,,,,Town of Hastings
+US,NY,New York,Town of Mexico,relation,4194471,7,Townships/Boroughs/Districts,Q478556,,,,Town of Mexico
+US,NY,New York,Town of Parish,relation,4194629,7,Townships/Boroughs/Districts,Q3710256,,,,Town of Parish
+US,NY,New York,Town of Albion,relation,4194630,7,Townships/Boroughs/Districts,Q4712477,,,,Town of Albion
+US,NY,New York,Town of Richland,relation,4194631,7,Townships/Boroughs/Districts,Q3131931,,,,Town of Richland
+US,NY,New York,Town of Orwell,relation,4194632,7,Townships/Boroughs/Districts,Q3708685,,,,Town of Orwell
+US,NY,New York,Town of Sandy Creek,relation,4194633,7,Townships/Boroughs/Districts,Q7417214,,,,Town of Sandy Creek
+US,NY,New York,Town of Boylston,relation,4194745,7,Townships/Boroughs/Districts,Q3708250,,,,Town of Boylston
+US,NY,New York,Town of Redfield,relation,4194746,7,Townships/Boroughs/Districts,Q3708411,,,,Town of Redfield
+US,NY,New York,Town of Williamstown,relation,4194747,7,Townships/Boroughs/Districts,Q3708429,,,,Town of Williamstown
+US,NY,New York,Town of Amboy,relation,4194917,7,Townships/Boroughs/Districts,Q3708329,,,,Town of Amboy
+US,NY,New York,Town of West Monroe,relation,4194918,7,Townships/Boroughs/Districts,Q3708352,,,,Town of West Monroe
+US,NY,New York,Town of Constantia,relation,4195235,7,Townships/Boroughs/Districts,Q3710249,,,,Town of Constantia
+US,NY,New York,Town of Lysander,relation,4196753,7,Townships/Boroughs/Districts,Q3708766,,,,Town of Lysander
+US,NY,New York,Town of Clay,relation,4196796,7,Townships/Boroughs/Districts,Q684627,,,,Town of Clay
+US,NY,New York,Town of Salina,relation,4196833,7,Townships/Boroughs/Districts,Q3708563,,,,Town of Salina
+US,NY,New York,Town of Geddes,relation,4199106,7,Townships/Boroughs/Districts,Q3709234,,,,Town of Geddes
+US,NY,New York,Town of Van Buren,relation,4199112,7,Townships/Boroughs/Districts,Q3708399,,,,Town of Van Buren
+US,NY,New York,Town of Elbridge,relation,4199117,7,Townships/Boroughs/Districts,Q5353808,,,,Town of Elbridge
+US,NY,New York,Town of Skaneateles,relation,4202288,7,Townships/Boroughs/Districts,Q2380873,,,,Town of Skaneateles
+US,NY,New York,Town of Spafford,relation,4202413,7,Townships/Boroughs/Districts,Q3708224,,,,Town of Spafford
+US,NY,New York,Town of Marcellus,relation,4202420,7,Townships/Boroughs/Districts,Q3710243,,,,
+US,NY,New York,Town of Otisco,relation,4202425,7,Townships/Boroughs/Districts,Q3708779,,,,Town of Otisco
+US,NY,New York,Town of Onondaga,relation,4202809,7,Townships/Boroughs/Districts,Q3708556,,,,Town of Onondaga
+US,NY,New York,Town of Camillus,relation,4204414,7,Townships/Boroughs/Districts,Q5026722,,,,Town of Camillus
+US,NY,New York,Town of Greece,relation,4207311,7,Townships/Boroughs/Districts,Q2610369,,,,Town of Greece
+US,NY,New York,Town of Parma,relation,4293946,7,Townships/Boroughs/Districts,Q2415492,,,,Town of Parma
+US,NY,New York,Town of Hamlin,relation,4293947,7,Townships/Boroughs/Districts,Q3357965,,,,Town of Hamlin
+US,NY,New York,Town of Clarkson,relation,4293948,7,Townships/Boroughs/Districts,Q3357981,,,,Town of Clarkson
+US,NY,New York,Town of Sweden,relation,4293949,7,Townships/Boroughs/Districts,Q3709888,,,,Town of Sweden
+US,NY,New York,Town of Ogden,relation,4293950,7,Townships/Boroughs/Districts,Q3357955,,,,Town of Ogden
+US,NY,New York,Town of Gates,relation,4294024,7,Townships/Boroughs/Districts,Q3357975,,,,Town of Gates
+US,NY,New York,Town of Tully,relation,4430231,7,Townships/Boroughs/Districts,Q607281,,,,Town of Tully
+US,NY,New York,Town of Fabius,relation,4430234,7,Townships/Boroughs/Districts,Q2838045,,,,Town of Fabius
+US,NY,New York,Town of LaFayette,relation,4430237,7,Townships/Boroughs/Districts,Q3709180,,,,Town of LaFayette
+US,NY,New York,Town of Pompey,relation,4430240,7,Townships/Boroughs/Districts,Q3708701,,,,Town of Pompey
+US,NY,New York,Town of Manlius,relation,4430242,7,Townships/Boroughs/Districts,Q5802931,,,,Town of Manlius
+US,NY,New York,Town of Cicero,relation,4430246,7,Townships/Boroughs/Districts,Q31219,,,,
+US,NY,New York,Town of DeWitt,relation,4430248,7,Townships/Boroughs/Districts,Q3708536,,,,Town of DeWitt
+US,NY,New York,Town of Scott,relation,4436558,7,Townships/Boroughs/Districts,Q3708942,,,,Town of Scott
+US,NY,New York,Town of Preble,relation,4436559,7,Townships/Boroughs/Districts,Q3708924,,,,Town of Preble
+US,NY,New York,Town of Truxton,relation,4436568,7,Townships/Boroughs/Districts,Q3708501,,,,Town of Truxton
+US,NY,New York,Town of Cuyler,relation,4436574,7,Townships/Boroughs/Districts,Q3708274,,,,Town of Cuyler
+US,NY,New York,Town of Taylor,relation,4436576,7,Townships/Boroughs/Districts,Q3708382,,,,Town of Taylor
+US,NY,New York,Town of Solon,relation,4436579,7,Townships/Boroughs/Districts,Q3708384,,,,Town of Solon
+US,NY,New York,Town of Homer,relation,4436582,7,Townships/Boroughs/Districts,Q486566,,,,Town of Homer
+US,NY,New York,Town of Cortlandville,relation,4436584,7,Townships/Boroughs/Districts,Q2835036,,,,Town of Cortlandville
+US,NY,New York,Town of Freetown,relation,4436588,7,Townships/Boroughs/Districts,Q956447,,,,Town of Freetown
+US,NY,New York,Town of Cincinnatus,relation,4436597,7,Townships/Boroughs/Districts,Q3708229,,,,Town of Cincinnatus
+US,NY,New York,Town of Virgil,relation,4436748,7,Townships/Boroughs/Districts,Q3708675,,,,Town of Virgil
+US,NY,New York,Town of Harford,relation,4436807,7,Townships/Boroughs/Districts,Q3708773,,,,Town of Harford
+US,NY,New York,Town of Lapeer,relation,4436813,7,Townships/Boroughs/Districts,Q3708346,,,,Town of Lapeer
+US,NY,New York,Town of Marathon,relation,4436852,7,Townships/Boroughs/Districts,Q6754994,,,,Town of Marathon
+US,NY,New York,Town of Willet,relation,4436858,7,Townships/Boroughs/Districts,Q3708389,,,,Town of Willet
+US,NY,New York,Town of Kendall,relation,4508423,7,Townships/Boroughs/Districts,Q3708871,,,,Town of Kendall
+US,NY,New York,Town of Carlton,relation,4508431,7,Townships/Boroughs/Districts,Q3708716,,,,Town of Carlton
+US,NY,New York,Town of Yates,relation,4513861,7,Townships/Boroughs/Districts,Q3708789,,,,Town of Yates
+US,NY,New York,Town of Ridgeway,relation,4516459,7,Townships/Boroughs/Districts,Q1585899,,,,Town of Ridgeway
+US,NY,New York,Town of Gaines,relation,4516479,7,Townships/Boroughs/Districts,Q3708733,,,,Town of Gaines
+US,NY,New York,Town of Murray,relation,4516625,7,Townships/Boroughs/Districts,Q3709879,,,,Town of Murray
+US,NY,New York,Town of Albion,relation,4520388,7,Townships/Boroughs/Districts,Q4325183,,,,Town of Albion
+US,NY,New York,Town of Clarendon,relation,4520397,7,Townships/Boroughs/Districts,Q3708276,,,,Town of Clarendon
+US,NY,New York,Town of Barre,relation,4520825,7,Townships/Boroughs/Districts,Q808838,,,,Town of Barre
+US,NY,New York,Town of Shelby,relation,4520830,7,Townships/Boroughs/Districts,Q3501704,,,,Town of Shelby
+US,NY,New York,Town of Vestal,relation,4611397,7,Townships/Boroughs/Districts,Q3709158,,,,Town of Vestal
+US,NY,New York,Town of Binghamton,relation,4611398,7,Townships/Boroughs/Districts,Q4914238,,,,Town of Binghamton
+US,NY,New York,Town of Union,relation,4611399,7,Townships/Boroughs/Districts,Q3501594,,,,Town of Union
+US,NY,New York,Town of Maine,relation,4611413,7,Townships/Boroughs/Districts,Q3708887,,,,Town of Maine
+US,NY,New York,Town of Chenango,relation,4611414,7,Townships/Boroughs/Districts,Q3708356,,,,Town of Chenango
+US,NY,New York,Town of Dickinson,relation,4611415,7,Townships/Boroughs/Districts,Q5273717,,,,Town of Dickinson
+US,NY,New York,Town of Barker,relation,4611659,7,Townships/Boroughs/Districts,Q3475678,,,,Town of Barker
+US,NY,New York,Town of Nanticoke,relation,4611660,7,Townships/Boroughs/Districts,Q3708935,,,,Town of Nanticoke
+US,NY,New York,Town of Lisle,relation,4611802,7,Townships/Boroughs/Districts,Q6558990,,,,Town of Lisle
+US,NY,New York,Town of Triangle,relation,4611803,7,Townships/Boroughs/Districts,Q3708419,,,,Town of Triangle
+US,NY,New York,Town of Fenton,relation,4611945,7,Townships/Boroughs/Districts,Q3708580,,,,Town of Fenton
+US,NY,New York,Town of Kirkwood,relation,4611964,7,Townships/Boroughs/Districts,Q3708350,,,,Town of Kirkwood
+US,NY,New York,Town of Colesville,relation,4611965,7,Townships/Boroughs/Districts,Q2483264,,,,Town of Colesville
+US,NY,New York,Town of Conklin,relation,4624639,7,Townships/Boroughs/Districts,Q3708795,,,,Town of Conklin
+US,NY,New York,Town of Windsor,relation,4663997,7,Townships/Boroughs/Districts,Q9096140,,,,Town of Windsor
+US,NY,New York,Town of Sanford,relation,4664001,7,Townships/Boroughs/Districts,Q3708706,,,,Town of Sanford
+US,NY,New York,Town of Somerset,relation,5448006,7,Townships/Boroughs/Districts,Q3708332,,,,Town of Somerset
+US,NY,New York,Town of Hartland,relation,5448007,7,Townships/Boroughs/Districts,Q3708824,,,,Town of Hartland
+US,NY,New York,Town of Newfane,relation,5448008,7,Townships/Boroughs/Districts,Q3708395,,,,Town of Newfane
+US,NY,New York,Town of Royalton,relation,5448079,7,Townships/Boroughs/Districts,Q515501,,,Royalton,Town of Royalton
+US,NY,New York,Town of Lockport,relation,5448080,7,Townships/Boroughs/Districts,Q2877416,,,,Town of Lockport
+US,NY,New York,Town of Cambria,relation,5453885,7,Townships/Boroughs/Districts,Q540975,,,,Town of Cambria
+US,NY,New York,Town of Pendleton,relation,5453886,7,Townships/Boroughs/Districts,Q3709170,,,,Town of Pendleton
+US,NY,New York,Town of Wilson,relation,5453917,7,Townships/Boroughs/Districts,Q8022965,,,,
+US,NY,New York,Town of Porter,relation,5454012,7,Townships/Boroughs/Districts,Q3708700,,,,Town of Porter
+US,NY,New York,Town of Lewiston,relation,5454014,7,Townships/Boroughs/Districts,Q985068,,,Lewiston,Town of Lewiston
+US,NY,New York,Town of Niagara,relation,5454048,7,Townships/Boroughs/Districts,Q3708306,,,,Town of Niagara
+US,NY,New York,Town of Wheatfield,relation,5454072,7,Townships/Boroughs/Districts,Q1002413,,,,Town of Wheatfield
+US,NY,New York,Town of Grand Island,relation,5472901,7,Townships/Boroughs/Districts,Q942395,,,Grand Island,Town of Grand Island
+US,NY,New York,Town of Tonawanda,relation,5472902,7,Townships/Boroughs/Districts,Q960066,,,,Town of Tonawanda
+US,NY,New York,Town of Amherst,relation,5472915,7,Townships/Boroughs/Districts,Q470592,,,,Town of Amherst
+US,NY,New York,Town of Clarence,relation,5474579,7,Townships/Boroughs/Districts,Q1061305,,,,Town of Clarence
+US,NY,New York,Town of Cheektowaga,relation,5474580,7,Townships/Boroughs/Districts,Q1068849,,,,Town of Cheektowaga
+US,NY,New York,Town of Newstead,relation,5476794,7,Townships/Boroughs/Districts,Q2891714,,,,Town of Newstead
+US,NY,New York,Town of Lancaster,relation,5476795,7,Townships/Boroughs/Districts,Q3216911,,,,
+US,NY,New York,Town of Alden,relation,5476812,7,Townships/Boroughs/Districts,Q970933,,,,Village of Alden
+US,NY,New York,Town of Marilla,relation,5476865,7,Townships/Boroughs/Districts,Q3710283,,,,Town of Marilla
+US,NY,New York,Manhattan,relation,8398124,7,Townships/Boroughs/Districts,Q11299,,,,Manhattan
+US,NY,New York,Town of Middlesex,relation,9137071,7,Townships/Boroughs/Districts,Q3708225,,,,Town of Middlesex
+US,NY,New York,Town of Potter,relation,9137086,7,Townships/Boroughs/Districts,Q3708784,,,,Town of Potter
+US,NY,New York,Town of Benton,relation,9137179,7,Townships/Boroughs/Districts,Q3708803,,,,Town of Benton
+US,NY,New York,Town of Italy,relation,9137280,7,Townships/Boroughs/Districts,Q3708720,,,,Town of Italy
+US,NY,New York,Town of Jerusalem,relation,9137318,7,Townships/Boroughs/Districts,Q3708812,,,,Town of Jerusalem
+US,NY,New York,Town of Barrington,relation,9137336,7,Townships/Boroughs/Districts,Q3708655,,,,Town of Barrington
+US,NY,New York,Town of Starkey,relation,9137480,7,Townships/Boroughs/Districts,Q379487,,,,Town of Starkey
+US,NY,New York,Town of Milo,relation,9137512,7,Townships/Boroughs/Districts,Q3708496,,,,Town of Milo
+US,NY,New York,Town of Torrey,relation,9137513,7,Townships/Boroughs/Districts,Q3708221,,,,Town of Torrey
+US,NY,New York,Town of Junius,relation,9146134,7,Townships/Boroughs/Districts,Q3708821,,,,Town of Junius
+US,NY,New York,Town of Tyre,relation,9146135,7,Townships/Boroughs/Districts,Q1002425,,,,Town of Tyre
+US,NY,New York,Town of Waterloo,relation,9146136,7,Townships/Boroughs/Districts,Q7974211,,,,Town of Waterloo
+US,NY,New York,Town of Seneca Falls,relation,9146320,7,Townships/Boroughs/Districts,Q2270851,,,,
+US,NY,New York,Town of Fayette,relation,9154533,7,Townships/Boroughs/Districts,Q3359142,,,,Town of Washington
+US,NY,New York,Town of Varick,relation,9154640,7,Townships/Boroughs/Districts,Q56276179,,,,Town of Varick
+US,NY,New York,Town of Romulus,relation,9154648,7,Townships/Boroughs/Districts,Q3708593,,,,Town of Romulus
+US,NY,New York,Town of Ovid,relation,9154690,7,Townships/Boroughs/Districts,Q7114113,,,,Town of Ovid
+US,NY,New York,Town of Lodi,relation,9154717,7,Townships/Boroughs/Districts,Q6666393,,,,
+US,NY,New York,Town of Covert,relation,9154718,7,Townships/Boroughs/Districts,Q3708263,,,,Town of Covert
+US,NY,New York,Town of Ulysses,relation,9155027,7,Townships/Boroughs/Districts,Q3708386,,,,Town of Ulysses
+US,NY,New York,Town of Enfield,relation,9155040,7,Townships/Boroughs/Districts,Q3708327,,,,Town of Enfield
+US,NY,New York,Town of Newfield,relation,9155163,7,Townships/Boroughs/Districts,,,,,
+US,NY,New York,Town of Ithaca,relation,9155213,7,Townships/Boroughs/Districts,Q5695442,,,,Town of Ithaca
+US,NY,New York,Town of Lansing,relation,9155335,7,Townships/Boroughs/Districts,Q1929162,,,,Town of Lansing
+US,NY,New York,Town of Groton,relation,9155346,7,Townships/Boroughs/Districts,Q5610763,,,,
+US,NY,New York,Town of Dryden,relation,9157591,7,Townships/Boroughs/Districts,Q5309657,,,,Town of Dryden
+US,NY,New York,Town of Danby,relation,9157670,7,Townships/Boroughs/Districts,Q3708328,,,,Town of Danby
+US,NY,New York,Town of Caroline,relation,9157671,7,Townships/Boroughs/Districts,Q1012156,,,,Town of Caroline
+US,NY,New York,Brooklyn,relation,9691750,7,Townships/Boroughs/Districts,Q18419,,,,
+US,NY,New York,Queens,relation,9691819,7,Townships/Boroughs/Districts,Q18424,,,,Queens
+US,NY,New York,The Bronx,relation,9691916,7,Townships/Boroughs/Districts,Q18426,,Bronx,,The Bronx
+US,NY,New York,Staten Island,relation,9691948,7,Townships/Boroughs/Districts,Q18432,,,,Staten Island
+US,NY,New York,Town of Elma,relation,10491560,7,Townships/Boroughs/Districts,Q3709136,,,,Town of Elma
+US,NY,New York,Town of Aurora,relation,10491561,7,Townships/Boroughs/Districts,Q4822440,,,Aurora,Town of Aurora
+US,NY,New York,Town of Wales,relation,10491698,7,Townships/Boroughs/Districts,Q3396419,,,,Town of Wales
+US,NY,New York,Town of Orchard Park,relation,10491789,7,Townships/Boroughs/Districts,Q2482999,,,,Town of Orchard Park
+US,NY,New York,Town of Hamburg,relation,10492087,7,Townships/Boroughs/Districts,Q742785,,,Hamburg,Town of Hamburg
+US,NY,New York,Town of Hempstead,relation,10805167,7,Townships/Boroughs/Districts,Q1583289,,,Hempstead,
+US,NY,New York,Town of North Hempstead,relation,10805168,7,Townships/Boroughs/Districts,Q2723817,,,North Hempstead,
+US,NY,New York,Town of Oyster Bay,relation,10805169,7,Townships/Boroughs/Districts,Q129361,,,Oyster Bay,
+US,NY,New York,Town of Owego,relation,11228417,7,Townships/Boroughs/Districts,Q5638611,,,,Town of Owego
+US,NY,New York,Town of Nichols,relation,11241270,7,Townships/Boroughs/Districts,Q9049890,,,,Town of Nichols
+US,NY,New York,Town of Tioga,relation,11241271,7,Townships/Boroughs/Districts,Q3198429,,,,Town of Tioga
+US,NY,New York,Town of Barton,relation,11242404,7,Townships/Boroughs/Districts,Q3709589,,,,Town of Barton
+US,NY,New York,Town of Spencer,relation,11304261,7,Townships/Boroughs/Districts,Q7575964,,,,Town of Spencer
+US,NY,New York,Town of Alabama,relation,11780158,7,Townships/Boroughs/Districts,Q3709658,,,,Town of Alabama
+US,NY,New York,Town of Candor,relation,11804340,7,Townships/Boroughs/Districts,Q3709224,,,,Town of Candor
+US,NY,New York,Town of Huntington,relation,12238511,7,Townships/Boroughs/Districts,Q999123,,,,Town of Huntington
+US,NY,New York,Town of Southold,relation,12591561,7,Townships/Boroughs/Districts,Q3709805,,,,Town of Southold
+US,NY,New York,Town of Riverhead,relation,12591614,7,Townships/Boroughs/Districts,Q1770518,,,,Town of Riverhead
+US,NY,New York,Town of Champlain,relation,13552232,7,Townships/Boroughs/Districts,Q692297,,,,Village of Champlain
+US,NY,New York,Town of Mooers,relation,13555389,7,Townships/Boroughs/Districts,Q2595447,,,,Town of Mooers
+US,NY,New York,Town of Clinton,relation,13555486,7,Townships/Boroughs/Districts,Q5134022,,,,Town of Clinton
+US,NY,New York,Town of Chateaugay,relation,13555548,7,Townships/Boroughs/Districts,Q5087566,,,,Town of Chateaugay
+US,NY,New York,Town of Burke,relation,13555747,7,Townships/Boroughs/Districts,Q14706206,,,,Town of Burke
+US,NY,New York,Town of Constable,relation,13555826,7,Townships/Boroughs/Districts,Q3708867,,,,Town of Constable
+US,NY,New York,Town of Westville,relation,13555840,7,Townships/Boroughs/Districts,Q3708391,,,,Town of Westville
+US,NY,New York,Town of Fort Covington,relation,13555855,7,Townships/Boroughs/Districts,Q3077831,,,,Town of Fort Covington
+US,NY,New York,Town of Bombay,relation,13555877,7,Townships/Boroughs/Districts,Q3708546,,,,Town of Bombay
+US,NY,New York,Town of Massena,relation,13557840,7,Townships/Boroughs/Districts,Q723619,,,,Town of Massena
+US,NY,New York,Town of Louisville,relation,13557931,7,Townships/Boroughs/Districts,Q3501846,,,,Town of Louisville
+US,NY,New York,Town of Waddington,relation,13558295,7,Townships/Boroughs/Districts,Q7958989,,,,Town of Waddington
+US,NY,New York,Town of Lisbon,relation,13559029,7,Townships/Boroughs/Districts,Q3709864,,,,
+US,NY,New York,Town of Oswegatchie,relation,13559099,7,Townships/Boroughs/Districts,Q3113741,,,,Town of Oswegatchie
+US,NY,New York,Town of Morristown,relation,13559141,7,Townships/Boroughs/Districts,Q6914118,,,,Town of Morristown
+US,NY,New York,Town of Hammond,relation,13559234,7,Townships/Boroughs/Districts,Q3709329,,,,Town of Hammond
+US,NY,New York,Town of Alexandria,relation,13559266,7,Townships/Boroughs/Districts,Q3300252,,,,Town of Alexandria
+US,NY,New York,Town of Orleans,relation,13559339,7,Townships/Boroughs/Districts,Q2919118,,,,Town of Orleans
+US,NY,New York,Town of Clayton,relation,13559380,7,Townships/Boroughs/Districts,Q5130156,,,,Town of Clayton
+US,NY,New York,Town of Cape Vincent,relation,13559549,7,Townships/Boroughs/Districts,Q1034500,,,,Town of Cape Vincent
+US,NY,New York,Town of Chazy,relation,13559569,7,Townships/Boroughs/Districts,Q3708310,,,,Town of Chazy
+US,NY,New York,Town of Altona,relation,13559580,7,Townships/Boroughs/Districts,Q2976315,,,,Town of Altona
+US,NY,New York,Town of Ellenburg,relation,13559630,7,Townships/Boroughs/Districts,Q284893,,,,Town of Ellenburg
+US,NY,New York,Town of Plattsburgh,relation,13562904,7,Townships/Boroughs/Districts,Q7890091,,,,
+US,NY,New York,Town of Beekmantown,relation,13562905,7,Townships/Boroughs/Districts,Q3708764,,,,Town of Beekmantown
+US,NY,New York,Town of Peru,relation,13562946,7,Townships/Boroughs/Districts,Q170254,,,,Town of Peru
+US,NY,New York,Town of AuSable,relation,13562971,7,Townships/Boroughs/Districts,Q3708632,,Town of Au Sable,,Town of AuSable
+US,NY,New York,Town of Chesterfield,relation,13563189,7,Townships/Boroughs/Districts,Q3497455,,,,Town of Chesterfield
+US,NY,New York,Town of Essex,relation,13563205,7,Townships/Boroughs/Districts,Q3708355,,,,Town of Essex
+US,NY,New York,Town of Willsboro,relation,13563206,7,Townships/Boroughs/Districts,Q3709177,,,,Town of Willsboro
+US,NY,New York,Town of Westport,relation,13563237,7,Townships/Boroughs/Districts,Q3501728,,,,Town of Westport
+US,NY,New York,Town of Moriah,relation,13563278,7,Townships/Boroughs/Districts,Q3138434,,,,Town of Moriah
+US,NY,New York,Town of Crown Point,relation,13563295,7,Townships/Boroughs/Districts,Q1013523,,,,Town of Crown Point
+US,NY,New York,Town of Ticonderoga,relation,13563311,7,Townships/Boroughs/Districts,Q3183216,,,,Town of Ticonderoga
+US,NY,New York,Town of Dannemora,relation,13565604,7,Townships/Boroughs/Districts,Q1164416,,,,Town of Dannemora
+US,NY,New York,Town of Schuyler Falls,relation,13565647,7,Townships/Boroughs/Districts,Q2917727,,,,Town of Schuyler Falls
+US,NY,New York,Town of Saranac,relation,13565676,7,Townships/Boroughs/Districts,Q3708778,,,,Town of Saranac
+US,NY,New York,Town of Black Brook,relation,13565764,7,Townships/Boroughs/Districts,Q3710650,,,,Town of Black Brook
+US,NY,New York,Town of Jay,relation,13566350,7,Townships/Boroughs/Districts,Q3708762,,,,Town of Jay
+US,NY,New York,Town of Wilmington,relation,13566412,7,Townships/Boroughs/Districts,Q3709202,,,,Town of Wilmington
+US,NY,New York,Town of Saint Armand,relation,13566543,7,Townships/Boroughs/Districts,Q7587126,,,,Town of Saint Armand
+US,NY,New York,Town of North Elba,relation,13566649,7,Townships/Boroughs/Districts,Q3709894,,,,Town of North Elba
+US,NY,New York,Town of Keene,relation,13566674,7,Townships/Boroughs/Districts,Q3708856,,,,Town of Keene
+US,NY,New York,Town of Lewis,relation,13568909,7,Townships/Boroughs/Districts,Q5638798,,,,Town of Lewis
+US,NY,New York,Town of Elizabethtown,relation,13568971,7,Townships/Boroughs/Districts,Q3051302,,,,Town of Elizabethtown
+US,NY,New York,Town of North Hudson,relation,13569007,7,Townships/Boroughs/Districts,Q3708415,,,,Town of North Hudson
+US,NY,New York,Town of Newcomb,relation,13569148,7,Townships/Boroughs/Districts,Q3708899,,,,Town of Newcomb
+US,NY,New York,Town of Schroon,relation,13569181,7,Townships/Boroughs/Districts,Q3710613,,,,Town of Schroon
+US,NY,New York,Town of Minerva,relation,13569207,7,Townships/Boroughs/Districts,Q3708637,,,,Town of Minerva
+US,NY,New York,Town of Bellmont,relation,13569258,7,Townships/Boroughs/Districts,Q3710108,,,,Town of Bellmont
+US,NY,New York,Town of Malone,relation,13569282,7,Townships/Boroughs/Districts,Q3505459,,,,Town of Malone
+US,NY,New York,Town of Bangor,relation,13569334,7,Townships/Boroughs/Districts,Q3396410,,,,Town of Bangor
+US,NY,New York,Town of Brandon,relation,13569341,7,Townships/Boroughs/Districts,Q3708401,,,,Town of Brandon
+US,NY,New York,Town of Franklin,relation,13569889,7,Townships/Boroughs/Districts,Q4978456,,,,Town of Franklin
+US,NY,New York,Town of Duane,relation,13569892,7,Townships/Boroughs/Districts,Q3708644,,,,Town of Duane
+US,NY,New York,Town of Brighton,relation,13569899,7,Townships/Boroughs/Districts,Q2393161,,,,Town of Brighton
+US,NY,New York,Town of Harrietstown,relation,13569914,7,Townships/Boroughs/Districts,Q1012137,,,,Town of Harrietstown
+US,NY,New York,Town of Santa Clara,relation,13569919,7,Townships/Boroughs/Districts,Q168198,,,,Town of Santa Clara
+US,NY,New York,Town of Moira,relation,13572089,7,Townships/Boroughs/Districts,,,,,
+US,NY,New York,Town of Dickinson,relation,13572136,7,Townships/Boroughs/Districts,Q977575,,,,Town of Dickinson
+US,NY,New York,Town of Waverly,relation,13572193,7,Townships/Boroughs/Districts,Q7975455,,,,Town of Waverly
+US,NY,New York,Town of Tupper Lake,relation,13572261,7,Townships/Boroughs/Districts,Q984145,,,,Town of Tupper Lake
+US,NY,New York,Town of Brasher,relation,13572448,7,Townships/Boroughs/Districts,Q2836579,,,,Town of Brasher
+US,NY,New York,Town of Lawrence,relation,13572472,7,Townships/Boroughs/Districts,Q6503756,,,,Town of Lawrence
+US,NY,New York,Town of Hopkinton,relation,13572514,7,Townships/Boroughs/Districts,Q3708240,,,,Town of Hopkinton
+US,NY,New York,Town of Piercefield,relation,13572573,7,Townships/Boroughs/Districts,Q3708403,,,,Town of Piercefield
+US,NY,New York,Town of Colton,relation,13572647,7,Townships/Boroughs/Districts,Q3708714,,,,Town of Colton
+US,NY,New York,Town of Parishville,relation,13572665,7,Townships/Boroughs/Districts,Q3708907,,,,Town of Parishville
+US,NY,New York,Town of Stockholm,relation,13572710,7,Townships/Boroughs/Districts,Q2839702,,,,Town of Stockholm
+US,NY,New York,Town of Norfolk,relation,13572739,7,Townships/Boroughs/Districts,Q3098924,,,,Town of Norfolk
+US,NY,New York,Town of Madrid,relation,13572813,7,Townships/Boroughs/Districts,Q3708806,,,,Town of Madrid
+US,NY,New York,Town of Potsdam,relation,13573158,7,Townships/Boroughs/Districts,Q1022943,,,,Town of Potsdam
+US,NY,New York,Town of Clifton,relation,13576608,7,Townships/Boroughs/Districts,Q2979111,,,,Town of Clifton
+US,NY,New York,Town of Clare,relation,13576626,7,Townships/Boroughs/Districts,Q3708227,,,,Town of Clare
+US,NY,New York,Town of Canton,relation,13576824,7,Townships/Boroughs/Districts,Q5033871,,,,Town of Canton
+US,NY,New York,Town of Pierrepont,relation,13576825,7,Townships/Boroughs/Districts,Q3708336,,Pierpont,,Town of Pierrepont
+US,NY,New York,Town of Russell,relation,13577583,7,Townships/Boroughs/Districts,Q3708319,,,,Town of Russell
+US,NY,New York,Town of Fine,relation,13577641,7,Townships/Boroughs/Districts,Q3708322,,,,Town of Fine
+US,NY,New York,Town of Pitcairn,relation,13577810,7,Townships/Boroughs/Districts,Q3708357,,,,Town of Pitcairn
+US,NY,New York,Town of Edwards,relation,13577866,7,Townships/Boroughs/Districts,Q5346078,,,,Town of Edwards
+US,NY,New York,Town of Hermon,relation,13577876,7,Townships/Boroughs/Districts,Q5742007,,,,Town of Hermon
+US,NY,New York,Town of De Kalb,relation,13577924,7,Townships/Boroughs/Districts,Q3708242,,,,Town of De Kalb
+US,NY,New York,Town of De Peyster,relation,13578295,7,Townships/Boroughs/Districts,Q2272332,,,,Town of De Peyster
+US,NY,New York,Town of Macomb,relation,13578322,7,Townships/Boroughs/Districts,Q3708993,,,,Town of Macomb
+US,NY,New York,Town of Gouverneur,relation,13578342,7,Townships/Boroughs/Districts,Q3112710,,,,Town of Gouverneur
+US,NY,New York,Town of Rossie,relation,13578345,7,Townships/Boroughs/Districts,Q3708295,,,,Town of Rossie
+US,NY,New York,Town of Fowler,relation,13578352,7,Townships/Boroughs/Districts,Q3708704,,,,Town of Fowler
+US,NY,New York,Town of Theresa,relation,13580599,7,Townships/Boroughs/Districts,Q7782841,,,,Town of Theresa
+US,NY,New York,Town of Antwerp,relation,13580640,7,Townships/Boroughs/Districts,Q583975,,,,Town of Antwerp
+US,NY,New York,Town of Philadelphia,relation,13580683,7,Townships/Boroughs/Districts,Q5406013,,,,Town of Philadelphia
+US,NY,New York,Town of Champion,relation,13583321,7,Townships/Boroughs/Districts,Q3710644,,,,Town of Champion
+US,NY,New York,Town of Wilna,relation,13583322,7,Townships/Boroughs/Districts,Q3708693,,,,Town of Wilna
+US,NY,New York,Town of Le Ray,relation,13583799,7,Townships/Boroughs/Districts,Q3708595,,,,Town of Le Ray
+US,NY,New York,Town of Pamelia,relation,13583923,7,Townships/Boroughs/Districts,Q3708853,,,,Pamelia
+US,NY,New York,Town of Watertown,relation,13583924,7,Townships/Boroughs/Districts,Q7974481,,,,Town of Watertown
+US,NY,New York,Town of Rutland,relation,13583925,7,Townships/Boroughs/Districts,Q3708648,,,,Town of Rutland
+US,NY,New York,Town of Lyme,relation,13583972,7,Townships/Boroughs/Districts,Q3708698,,,,Town of Lyme
+US,NY,New York,Town of Brownville,relation,13584091,7,Townships/Boroughs/Districts,Q4976826,,,,Town of Brownville
+US,NY,New York,Town of Hounsfield,relation,13584509,7,Townships/Boroughs/Districts,Q3708244,,,,Town of Hounsfield
+US,NY,New York,Town of Rodman,relation,13584514,7,Townships/Boroughs/Districts,Q2917004,,,,Town of Rodman
+US,NY,New York,Town of Adams,relation,13584525,7,Townships/Boroughs/Districts,Q2417063,,,,Town of Adams
+US,NY,New York,Town of Worth,relation,13584540,7,Townships/Boroughs/Districts,Q3708739,,,,Town of Worth
+US,NY,New York,Town of Lorraine,relation,13584570,7,Townships/Boroughs/Districts,Q3708738,,,,Town of Lorraine
+US,NY,New York,Town of Henderson,relation,13584605,7,Townships/Boroughs/Districts,Q3130238,,,,Town of Henderson
+US,NY,New York,Town of Diana,relation,13598263,7,Townships/Boroughs/Districts,Q3710112,,,,Town of Diana
+US,NY,New York,Town of New Bremen,relation,13598434,7,Townships/Boroughs/Districts,Q3710651,,,,Town of New Bremen
+US,NY,New York,Town of Croghan,relation,13598435,7,Townships/Boroughs/Districts,Q5187506,,,,Town of Croghan
+US,NY,New York,Town of Denmark,relation,13598578,7,Townships/Boroughs/Districts,Q1016303,,,,Town of Denmark
+US,NY,New York,Town of Watson,relation,13598615,7,Townships/Boroughs/Districts,Q3708934,,,,Town of Watson
+US,NY,New York,Town of Lowville,relation,13598650,7,Townships/Boroughs/Districts,Q6694215,,,,Town of Lowville
+US,NY,New York,Town of Harrisburg,relation,13598686,7,Townships/Boroughs/Districts,Q3710649,,,,Town of Harrisburg
+US,NY,New York,Town of Pinckney,relation,13598704,7,Townships/Boroughs/Districts,Q3708516,,,,Town of Pinckney
+US,NY,New York,Town of Montague,relation,13598739,7,Townships/Boroughs/Districts,Q3708568,,,,Town of Montague
+US,NY,New York,Town of Martinsburg,relation,13598751,7,Townships/Boroughs/Districts,Q3708325,,,,Town of Martinsburg
+US,NY,New York,Town of Greig,relation,13598777,7,Townships/Boroughs/Districts,Q3708307,,,,Town of Greig
+US,NY,New York,Town of Turin,relation,13598789,7,Townships/Boroughs/Districts,Q7854947,,,,Town of Turin
+US,NY,New York,Town of Lyonsdale,relation,13598860,7,Townships/Boroughs/Districts,Q3708741,,,,Town of Lyonsdale
+US,NY,New York,Town of West Turin,relation,13598866,7,Townships/Boroughs/Districts,Q3708443,,,,Town of West Turin
+US,NY,New York,Town of Lewis,relation,13598934,7,Townships/Boroughs/Districts,Q6536197,,,,Town of Lewis
+US,NY,New York,Town of Leyden,relation,13598935,7,Townships/Boroughs/Districts,Q3708508,,,,Town of Leyden
+US,NY,New York,Town of Osceola,relation,13598965,7,Townships/Boroughs/Districts,Q3501806,,,,Town of Osceola
+US,NY,New York,Town of Ellisburg,relation,13598977,7,Townships/Boroughs/Districts,Q5366033,,,,Town of Ellisburg
+US,NY,New York,Town of Ripley,relation,13599329,7,Townships/Boroughs/Districts,Q170648,,,,Town of Ripley
+US,NY,New York,Town of Mina,relation,13599330,7,Townships/Boroughs/Districts,Q3708232,,,,Town of Mina
+US,NY,New York,Town of French Creek,relation,13599331,7,Townships/Boroughs/Districts,Q3087461,,,,Town of French Creek
+US,NY,New York,Town of Sherman,relation,13603311,7,Townships/Boroughs/Districts,Q10976903,,,,Town of Sherman
+US,NY,New York,Town of Clymer,relation,13603312,7,Townships/Boroughs/Districts,Q3708455,,,,Town of Clymer
+US,NY,New York,Town of Westfield,relation,13603359,7,Townships/Boroughs/Districts,Q2876725,,,,Town of Westfield
+US,NY,New York,Town of North Harmony,relation,13603569,7,Townships/Boroughs/Districts,Q384985,,,,Town of North Harmony
+US,NY,New York,Town of Harmony,relation,13603570,7,Townships/Boroughs/Districts,Q3708944,,,,Town of Harmony
+US,NY,New York,Town of Chautauqua,relation,13603578,7,Townships/Boroughs/Districts,Q601447,,,,Town of Chautauqua
+US,NY,New York,Town of Portland,relation,13603605,7,Townships/Boroughs/Districts,Q3708722,,,,Town of Portland
+US,NY,New York,Town of Busti,relation,13603639,7,Townships/Boroughs/Districts,Q3708544,,,,Town of Busti
+US,NY,New York,Town of Ellery,relation,13603661,7,Townships/Boroughs/Districts,Q3708846,,,,Town of Ellery
+US,NY,New York,Town of Stockton,relation,13603752,7,Townships/Boroughs/Districts,Q3708901,,,,Town of Stockton
+US,NY,New York,Town of Dunkirk,relation,13606204,7,Townships/Boroughs/Districts,Q5315387,,,,Town of Dunkirk
+US,NY,New York,Town of Pomfret,relation,13606205,7,Townships/Boroughs/Districts,Q3708561,,,,Town of Pomfret
+US,NY,New York,Town of Kiantone,relation,13606416,7,Townships/Boroughs/Districts,Q3708270,,,,Town of Kiantone
+US,NY,New York,Town of Carroll,relation,13606544,7,Townships/Boroughs/Districts,Q2843345,,,,Town of Carroll
+US,NY,New York,Town of South Valley,relation,13606590,7,Townships/Boroughs/Districts,Q3708599,,,,Town of South Valley
+US,NY,New York,Town of Coldspring,relation,13606618,7,Townships/Boroughs/Districts,Q3708624,,Cold Spring,,Town of Coldspring
+US,NY,New York,Town of Red House,relation,13606649,7,Townships/Boroughs/Districts,Q509168,,,,Town of Red House
+US,NY,New York,Town of Carrollton,relation,13606736,7,Townships/Boroughs/Districts,Q3708804,,,,Town of Carrollton
+US,NY,New York,Town of Portville,relation,13607074,7,Townships/Boroughs/Districts,Q590346,,,,Town of Portville
+US,NY,New York,Town of Olean,relation,13607075,7,Townships/Boroughs/Districts,Q944703,,,,Town of Olean
+US,NY,New York,Town of Allegany,relation,13607076,7,Townships/Boroughs/Districts,Q94791,,,,Town of Allegany
+US,NY,New York,Town of Ellicott,relation,13608514,7,Townships/Boroughs/Districts,Q3708390,,,,Town of Ellicott
+US,NY,New York,Town of Poland,relation,13608541,7,Townships/Boroughs/Districts,Q7208883,,,,Town of Poland
+US,NY,New York,Town of Gerry,relation,13608576,7,Townships/Boroughs/Districts,Q3708358,,,,Town of Gerry
+US,NY,New York,Town of Ellington,relation,13608589,7,Townships/Boroughs/Districts,Q3708432,,,,Town of Ellington
+US,NY,New York,Town of Charlotte,relation,13608594,7,Townships/Boroughs/Districts,Q3708433,,,,Town of Charlotte
+US,NY,New York,Town of Cherry Creek,relation,13608598,7,Townships/Boroughs/Districts,Q5092318,,,,Town of Cherry Creek
+US,NY,New York,Town of Arkwright,relation,13608602,7,Townships/Boroughs/Districts,Q3708271,,,,Town of Arkwright
+US,NY,New York,Town of Villenova,relation,13608639,7,Townships/Boroughs/Districts,Q3708677,,,,Town of Villenova
+US,NY,New York,Town of Sheridan,relation,13608803,7,Townships/Boroughs/Districts,Q1572542,,,,Town of Sheridan
+US,NY,New York,Town of Hanover,relation,13608870,7,Townships/Boroughs/Districts,Q3710617,,,,Town of Hanover
+US,NY,New York,Town of Conewango,relation,13611483,7,Townships/Boroughs/Districts,Q3708808,,,,Town of Conewango
+US,NY,New York,Town of Randolph,relation,13611484,7,Townships/Boroughs/Districts,Q5694726,,,,Town of Randolph
+US,NY,New York,Town of Napoli,relation,13611522,7,Townships/Boroughs/Districts,Q3709005,,,,Town of Napoli
+US,NY,New York,Town of Salamanca,relation,13611750,7,Townships/Boroughs/Districts,Q7403539,,,,Town of Salamanca
+US,NY,New York,Town of Little Valley,relation,13611844,7,Townships/Boroughs/Districts,Q9023061,,,,Town of Little Valley
+US,NY,New York,Town of Great Valley,relation,13611874,7,Townships/Boroughs/Districts,Q3708341,,,,Town of Great Valley
+US,NY,New York,Town of Humphrey,relation,13611919,7,Townships/Boroughs/Districts,Q3708480,,,,Town of Humphrey
+US,NY,New York,Town of Hinsdale,relation,13611981,7,Townships/Boroughs/Districts,Q3708381,,,,Town of Hinsdale
+US,NY,New York,Town of Ischua,relation,13612037,7,Townships/Boroughs/Districts,Q3708749,,,,Town of Ischua
+US,NY,New York,Town of Lyndon,relation,13612135,7,Townships/Boroughs/Districts,Q3123268,,,,Town of Lyndon
+US,NY,New York,Town of Franklinville,relation,13612183,7,Townships/Boroughs/Districts,Q5492171,,,,Town of Franklinville
+US,NY,New York,Town of Ellicottville,relation,13612296,7,Townships/Boroughs/Districts,Q5365314,,,,Town of Ellicottville
+US,NY,New York,Town of Mansfield,relation,13612324,7,Townships/Boroughs/Districts,Q3501715,,,,Town of Mansfield
+US,NY,New York,Town of New Albion,relation,13612357,7,Townships/Boroughs/Districts,Q3708877,,,,Town of New Albion
+US,NY,New York,Town of Leon,relation,13612613,7,Townships/Boroughs/Districts,Q3709194,,,,Town of Leon
+US,NY,New York,Town of Dayton,relation,13612623,7,Townships/Boroughs/Districts,Q3709836,,,,Town of Dayton
+US,NY,New York,Town of Perrysburg,relation,13612888,7,Townships/Boroughs/Districts,Q9058637,,,,Town of Perrysburg
+US,NY,New York,Town of Persia,relation,13612931,7,Townships/Boroughs/Districts,Q3708349,,,,Town of Persia
+US,NY,New York,Town of Otto,relation,13612982,7,Townships/Boroughs/Districts,Q3710633,,,,Town of Otto
+US,NY,New York,Town of Ashford,relation,13613121,7,Townships/Boroughs/Districts,Q3497506,,,,Town of Ashford
+US,NY,New York,Town of East Otto,relation,13613122,7,Townships/Boroughs/Districts,Q3708939,,,,Town of East Otto
+US,NY,New York,Town of Machias,relation,13613158,7,Townships/Boroughs/Districts,Q3708970,,,,Town of Machias
+US,NY,New York,Town of Yorkshire,relation,13620480,7,Townships/Boroughs/Districts,Q969032,,,,Town of Yorkshire
+US,NY,New York,Town of Farmersville,relation,13620529,7,Townships/Boroughs/Districts,Q3708523,,,,Town of Farmersville
+US,NY,New York,Town of Freedom,relation,13620563,7,Townships/Boroughs/Districts,Q2405302,,,,Town of Freedom
+US,NY,New York,Town of Genesee,relation,13620630,7,Townships/Boroughs/Districts,Q3708905,,,,Town of Genesee
+US,NY,New York,Town of Bolivar,relation,13620679,7,Townships/Boroughs/Districts,Q4939487,,,,Town of Bolivar
+US,NY,New York,Town of Alma,relation,13620736,7,Townships/Boroughs/Districts,Q3709154,,,,Town of Alma
+US,NY,New York,Town of Willing,relation,13620842,7,Townships/Boroughs/Districts,Q3131923,,,,Town of Willing
+US,NY,New York,Town of Independence,relation,13621019,7,Townships/Boroughs/Districts,Q2894692,,,,Town of Independence
+US,NY,New York,Town of Andover,relation,13621092,7,Townships/Boroughs/Districts,Q4754595,,,,Town of Andover
+US,NY,New York,Town of Wellsville,relation,13621200,7,Townships/Boroughs/Districts,Q3031615,,,,Town of Wellsville
+US,NY,New York,Town of Scio,relation,13621220,7,Townships/Boroughs/Districts,Q1002403,,,,Town of Scio
+US,NY,New York,Town of Wirt,relation,13621223,7,Townships/Boroughs/Districts,Q3708786,,,,Town of Wirt
+US,NY,New York,Town of Clarksville,relation,13621235,7,Townships/Boroughs/Districts,Q5127676,,,,Town of Clarksville
+US,NY,New York,Town of Cuba,relation,13621310,7,Townships/Boroughs/Districts,Q5268747,,,,Town of Cuba
+US,NY,New York,Town of Friendship,relation,13621344,7,Townships/Boroughs/Districts,Q3708668,,,,Town of Friendship
+US,NY,New York,Town of Amity,relation,13621353,7,Townships/Boroughs/Districts,Q472495,,,,Town of Amity
+US,NY,New York,Town of Ward,relation,13621364,7,Townships/Boroughs/Districts,Q3708748,,,,Town of Ward
+US,NY,New York,Town of Alfred,relation,13621391,7,Townships/Boroughs/Districts,Q4722174,,,,Town of Alfred
+US,NY,New York,Town of Almond,relation,13621779,7,Townships/Boroughs/Districts,Q3049942,,,,Town of Almond
+US,NY,New York,Town of West Almond,relation,13621780,7,Townships/Boroughs/Districts,Q3708875,,,,Town of West Almond
+US,NY,New York,Town of Angelica,relation,13621789,7,Townships/Boroughs/Districts,Q3708462,,,,Town of Angelica
+US,NY,New York,Town of Belfast,relation,13621792,7,Townships/Boroughs/Districts,Q3708761,,,,Town of Belfast
+US,NY,New York,Town of New Hudson,relation,13621795,7,Townships/Boroughs/Districts,Q3708213,,,,Town of New Hudson
+US,NY,New York,Town of Caneadea,relation,13621819,7,Townships/Boroughs/Districts,Q3708767,,,,Town of Caneadea
+US,NY,New York,Town of Rushford,relation,13621820,7,Townships/Boroughs/Districts,Q3708410,,,,Town of Rushford
+US,NY,New York,Town of Allen,relation,13621821,7,Townships/Boroughs/Districts,Q3709307,,,,Town of Allen
+US,NY,New York,Town of Birdsall,relation,13621851,7,Townships/Boroughs/Districts,Q3708973,,,,Town of Birdsall
+US,NY,New York,Town of Burns,relation,13621854,7,Townships/Boroughs/Districts,Q3708504,,,,Town of Burns
+US,NY,New York,Town of Grove,relation,13621855,7,Townships/Boroughs/Districts,Q3708416,,,,Town of Grove
+US,NY,New York,Town of Granger,relation,13621856,7,Townships/Boroughs/Districts,Q3708589,,,,Town of Granger
+US,NY,New York,Town of Hume,relation,13621857,7,Townships/Boroughs/Districts,Q3708584,,,,Town of Hume
+US,NY,New York,Town of Centerville,relation,13621859,7,Townships/Boroughs/Districts,Q3708917,,,,Town of Centerville
+US,NY,New York,Town of West Union,relation,13624732,7,Townships/Boroughs/Districts,Q3708392,,,,Town of West Union
+US,NY,New York,Town of Woodhull,relation,13624742,7,Townships/Boroughs/Districts,Q3626269,,,,Town of Woodhull
+US,NY,New York,Town of Troupsburg,relation,13624743,7,Townships/Boroughs/Districts,Q3708312,,,,Town of Troupsburg
+US,NY,New York,Town of Tuscarora,relation,13624761,7,Townships/Boroughs/Districts,Q3708582,,,,Town of Tuscarora
+US,NY,New York,Town of Lindley,relation,13624765,7,Townships/Boroughs/Districts,Q3708315,,,,Town of Lindley
+US,NY,New York,Town of Caton,relation,13627489,7,Townships/Boroughs/Districts,Q3708834,,,,Town of Caton
+US,NY,New York,Town of Corning,relation,13627601,7,Townships/Boroughs/Districts,Q5171776,,,,Town of Corning
+US,NY,New York,Town of Erwin,relation,13627714,7,Townships/Boroughs/Districts,Q3708337,,,,Town of Erwin
+US,NY,New York,Town of Addison,relation,13627728,7,Townships/Boroughs/Districts,Q940269,,,,Town of Addison
+US,NY,New York,Town of Rathbone,relation,13627780,7,Townships/Boroughs/Districts,Q3708978,,,,Town of Rathbone
+US,NY,New York,Town of Cameron,relation,13627816,7,Townships/Boroughs/Districts,Q3708694,,,,Town of Cameron
+US,NY,New York,Town of Jasper,relation,13627817,7,Townships/Boroughs/Districts,Q3708785,,,,Town of Jasper
+US,NY,New York,Town of Greenwood,relation,13627839,7,Townships/Boroughs/Districts,Q3708404,,,,Town of Greenwood
+US,NY,New York,Town of Hartsville,relation,13627845,7,Townships/Boroughs/Districts,Q3708967,,,,Town of Hartsville
+US,NY,New York,Town of Canisteo,relation,13627854,7,Townships/Boroughs/Districts,Q5032458,,,,Town of Canisteo
+US,NY,New York,Town of Thurston,relation,13627857,7,Townships/Boroughs/Districts,Q3708258,,,,Town of Thurston
+US,NY,New York,Town of Campbell,relation,13627933,7,Townships/Boroughs/Districts,Q2935491,,,,Town of Campbell
+US,NY,New York,Town of Hornby,relation,13627953,7,Townships/Boroughs/Districts,Q3710645,,,,Town of Hornby
+US,NY,New York,Town of Bradford,relation,13628183,7,Townships/Boroughs/Districts,Q3708261,,,,Town of Bradford
+US,NY,New York,Town of Bath,relation,13628277,7,Townships/Boroughs/Districts,Q4868877,,,,Town of Bath
+US,NY,New York,Town of Howard,relation,13628294,7,Townships/Boroughs/Districts,Q3708348,,,,Town of Howard
+US,NY,New York,Town of Hornellsville,relation,13628367,7,Townships/Boroughs/Districts,Q3708234,,,,Town of Hornellsville
+US,NY,New York,Town of Fremont,relation,13630822,7,Townships/Boroughs/Districts,Q8962802,,,,Town of Fremont
+US,NY,New York,Town of Avoca,relation,13630847,7,Townships/Boroughs/Districts,Q4829100,,,,Town of Avoca
+US,NY,New York,Town of Wheeler,relation,13630916,7,Townships/Boroughs/Districts,Q3708264,,,,Town of Wheeler
+US,NY,New York,Town of Urbana,relation,13630999,7,Townships/Boroughs/Districts,Q3481314,,,,Town of Urbana
+US,NY,New York,Town of Wayne,relation,13631071,7,Townships/Boroughs/Districts,Q3501684,,,,Town of Wayne
+US,NY,New York,Town of Pulteney,relation,13631116,7,Townships/Boroughs/Districts,Q3708793,,,,Town of Pulteney
+US,NY,New York,Town of Prattsburgh,relation,13631276,7,Townships/Boroughs/Districts,Q3708727,,,,Town of Prattsburgh
+US,NY,New York,Town of Cohocton,relation,13631372,7,Townships/Boroughs/Districts,Q3709260,,,,Town of Cohocton
+US,NY,New York,Town of Wayland,relation,13631509,7,Townships/Boroughs/Districts,Q7975906,,,,Town of Wayland
+US,NY,New York,Town of Dansville,relation,13631536,7,Townships/Boroughs/Districts,Q5221106,,,,Town of Dansville
+US,NY,New York,Town of Arcade,relation,13632252,7,Townships/Boroughs/Districts,Q4785058,,,,Town of Arcade
+US,NY,New York,Town of Eagle,relation,13632259,7,Townships/Boroughs/Districts,Q3709240,,,,Town of Eagle
+US,NY,New York,Town of Pike,relation,13632260,7,Townships/Boroughs/Districts,Q7193551,,,,Town of Pike
+US,NY,New York,Town of Genesee Falls,relation,13634306,7,Townships/Boroughs/Districts,Q3708999,,,,Town of Genesee Falls
+US,NY,New York,Town of Castile,relation,13635099,7,Townships/Boroughs/Districts,Q5049875,,,,Town of Castile
+US,NY,New York,Town of Gainesville,relation,13635143,7,Townships/Boroughs/Districts,Q5517251,,,,Town of Gainesville
+US,NY,New York,Town of Wethersfield,relation,13635215,7,Townships/Boroughs/Districts,Q3708422,,,,Town of Wethersfield
+US,NY,New York,Town of Sheldon,relation,13635273,7,Townships/Boroughs/Districts,Q3708503,,,,Town of Sheldon
+US,NY,New York,Town of Java,relation,13635274,7,Townships/Boroughs/Districts,Q3708725,,,,Town of Java
+US,NY,New York,Town of Bennington,relation,13635555,7,Townships/Boroughs/Districts,Q3710625,,,,Town of Bennington
+US,NY,New York,Town of Orangeville,relation,13635569,7,Townships/Boroughs/Districts,Q3708695,,,,Town of Orangeville
+US,NY,New York,Town of Warsaw,relation,13635613,7,Townships/Boroughs/Districts,Q7970879,,,,Town of Warsaw
+US,NY,New York,Town of Perry,relation,13635681,7,Townships/Boroughs/Districts,Q525730,,,,
+US,NY,New York,Town of Covington,relation,13635718,7,Townships/Boroughs/Districts,Q3708379,,,,Town of Covington
+US,NY,New York,Town of Middlebury,relation,13635789,7,Townships/Boroughs/Districts,Q3708308,,,,Town of Middlebury
+US,NY,New York,Town of Attica,relation,13635824,7,Townships/Boroughs/Districts,Q1778101,,,,Town of Attica
+US,NY,New York,Town of Pavilion,relation,13635879,7,Townships/Boroughs/Districts,Q3708933,,,,Town of Pavilion
+US,NY,New York,Town of Bethany,relation,13635995,7,Townships/Boroughs/Districts,Q3708881,,,,Town of Bethany
+US,NY,New York,Town of Alexander,relation,13636011,7,Townships/Boroughs/Districts,Q4718118,,,,Town of Alexander
+US,NY,New York,Town of Darien,relation,13636132,7,Townships/Boroughs/Districts,Q3708237,,,,Town of Darien
+US,NY,New York,Town of Pembroke,relation,13636133,7,Townships/Boroughs/Districts,Q3708273,,,,Town of Pembroke
+US,NY,New York,Town of Batavia,relation,13639200,7,Townships/Boroughs/Districts,Q2917992,,,,Town of Batavia
+US,NY,New York,Town of Stafford,relation,13639251,7,Townships/Boroughs/Districts,Q3708681,,,,Town of Stafford
+US,NY,New York,Town of LeRoy,relation,13640004,7,Townships/Boroughs/Districts,Q5861888,,,,Town of LeRoy
+US,NY,New York,Town of Bergen,relation,13640267,7,Townships/Boroughs/Districts,Q4891466,,,,Town of Bergen
+US,NY,New York,Town of Byron,relation,13640331,7,Townships/Boroughs/Districts,Q3708690,,,,Town of Byron
+US,NY,New York,Town of Elba,relation,13640386,7,Townships/Boroughs/Districts,Q3710619,,,,Town of Elba
+US,NY,New York,Town of Oakfield,relation,13640416,7,Townships/Boroughs/Districts,Q947024,,,,Town of Oakfield
+US,NY,New York,Town of Sardinia,relation,13640457,7,Townships/Boroughs/Districts,Q2778931,,,,Town of Sardinia
+US,NY,New York,Town of Concord,relation,13640464,7,Townships/Boroughs/Districts,Q3709272,,,,Town of Concord
+US,NY,New York,Town of Collins,relation,13640496,7,Townships/Boroughs/Districts,Q3709221,,,,Town of Collins
+US,NY,New York,Town of Brant,relation,13640724,7,Townships/Boroughs/Districts,Q3709633,,,,Town of Brant
+US,NY,New York,Town of North Collins,relation,13640732,7,Townships/Boroughs/Districts,Q7054889,,,,Town of North Collins
+US,NY,New York,Town of Holland,relation,13642039,7,Townships/Boroughs/Districts,Q3709216,,,,Town of Holland
+US,NY,New York,Town of Colden,relation,13642062,7,Townships/Boroughs/Districts,Q3709267,,,,Town of Colden
+US,NY,New York,Town of Boston,relation,13642223,7,Townships/Boroughs/Districts,Q2911612,,,,Town of Boston
+US,NY,New York,Town of Eden,relation,13642259,7,Townships/Boroughs/Districts,Q2861937,,,,Town of Eden
+US,NY,New York,Town of Evans,relation,13642448,7,Townships/Boroughs/Districts,Q3709369,,,,Town of Evans
+US,NY,New York,Town of Elmira,relation,13647544,7,Townships/Boroughs/Districts,Q5366796,,,,
+US,NY,New York,Town of Southport,relation,13647545,7,Townships/Boroughs/Districts,Q3708487,,,,Town of Southport
+US,NY,New York,Town of Ashland,relation,13647606,7,Townships/Boroughs/Districts,Q4805211,,,,Town of Ashland
+US,NY,New York,Town of Big Flats,relation,13647765,7,Townships/Boroughs/Districts,Q5411770,,,,Town of Big Flats
+US,NY,New York,Town of Horseheads,relation,13647823,7,Townships/Boroughs/Districts,Q10751434,,,,Town of Horseheads
+US,NY,New York,Town of Catlin,relation,13649316,7,Townships/Boroughs/Districts,Q428006,,,,Town of Catlin
+US,NY,New York,Town of Veteran,relation,13649449,7,Townships/Boroughs/Districts,Q3708699,,,,Town of Veteran
+US,NY,New York,Town of Chemung,relation,13650391,7,Townships/Boroughs/Districts,Q3708424,,,,Town of Chemung
+US,NY,New York,Town of Baldwin,relation,13651267,7,Townships/Boroughs/Districts,Q3475613,,,,Town of Baldwin
+US,NY,New York,Town of Erin,relation,13651363,7,Townships/Boroughs/Districts,Q3708526,,,,Town of Erin
+US,NY,New York,Town of Van Etten,relation,13651591,7,Townships/Boroughs/Districts,Q7913321,,,,Town of Van Etten
+US,NY,New York,Town of Cayuta,relation,13651861,7,Townships/Boroughs/Districts,Q3708863,,,,Town of Cayuta
+US,NY,New York,Town of Catharine,relation,13651875,7,Townships/Boroughs/Districts,Q3708957,,,,Town of Catharine
+US,NY,New York,Town of Montour,relation,13651905,7,Townships/Boroughs/Districts,Q3708746,,,,Town of Montour
+US,NY,New York,Town of Dix,relation,13651914,7,Townships/Boroughs/Districts,Q3708697,,,,Town of Dix
+US,NY,New York,Town of Orange,relation,13651938,7,Townships/Boroughs/Districts,Q3708606,,,,Town of Orange
+US,NY,New York,Town of Tyrone,relation,13651963,7,Townships/Boroughs/Districts,Q3708440,,,,Town of Tyrone
+US,NY,New York,Town of Reading,relation,13654266,7,Townships/Boroughs/Districts,Q3710647,,,,Town of Reading
+US,NY,New York,Town of Hector,relation,13654598,7,Townships/Boroughs/Districts,Q3708414,,,,Town of Hector
+US,NY,New York,Town of Newark Valley,relation,13655669,7,Townships/Boroughs/Districts,Q2595387,,,,Town of Newark Valley
+US,NY,New York,Town of Berkshire,relation,13659054,7,Townships/Boroughs/Districts,Q3708859,,,,Town of Berkshire
+US,NY,New York,Town of Richford,relation,13659115,7,Townships/Boroughs/Districts,Q3710131,,,,Town of Richford
+US,NY,New York,Town of Palm Tree טײטלבױם,relation,14116098,7,Townships/Boroughs/Districts,Q48741061,,,,Town of Palm Tree
+US,NY,New York,Town of Babylon,relation,14295036,7,Townships/Boroughs/Districts,Q1750870,,,,
+US,NY,New York,Town of Smithtown,relation,14302512,7,Townships/Boroughs/Districts,Q1594054,,,,Town of Smithtown
+US,NY,New York,Town of Islip,relation,14311505,7,Townships/Boroughs/Districts,Q1751219,,,,
+US,NY,New York,Town of Brookhaven,relation,14315803,7,Townships/Boroughs/Districts,Q550032,,,,Town of Brookhaven
+US,NY,New York,Town of Southampton,relation,14335701,7,Townships/Boroughs/Districts,Q2631643,,,,Village of Southampton
+US,NY,New York,Town of Shelter Island,relation,14348884,7,Townships/Boroughs/Districts,Q1330668,,,,Town of Shelter Island
+US,NY,New York,Town of East Hampton,relation,14355603,7,Townships/Boroughs/Districts,Q994372,,,,Town of East Hampton

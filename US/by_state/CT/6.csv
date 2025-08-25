@@ -1,0 +1,10 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,CT,Connecticut,South Central Connecticut Planning Region,relation,11065394,6,Counties/County-equivalents,Q117287005,,,,
+US,CT,Connecticut,Greater Bridgeport Planning Region,relation,11065395,6,Counties/County-equivalents,Q117286852,,,,
+US,CT,Connecticut,Western Connecticut Planning Region,relation,11065396,6,Counties/County-equivalents,Q117287069,,,,
+US,CT,Connecticut,Northwest Hills Planning Region,relation,11065509,6,Counties/County-equivalents,Q117286972,,,,
+US,CT,Connecticut,Naugatuck Valley Planning Region,relation,11065529,6,Counties/County-equivalents,Q117286946,,,,
+US,CT,Connecticut,Lower Connecticut River Valley Planning Region,relation,11065862,6,Counties/County-equivalents,Q117286902,,,,
+US,CT,Connecticut,Southeastern Connecticut Planning Region,relation,11065863,6,Counties/County-equivalents,Q117287053,,,,
+US,CT,Connecticut,Northeastern Connecticut Planning Region,relation,11065864,6,Counties/County-equivalents,Q117286825,,,,
+US,CT,Connecticut,Capitol Planning Region,relation,11065880,6,Counties/County-equivalents,Q117286854,,,,

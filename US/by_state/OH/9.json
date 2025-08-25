@@ -1,0 +1,62 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "OH",
+    "state_name": "Ohio",
+    "name": "Aberdeen",
+    "osm_type": "way",
+    "osm_id": 263159993,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "OH",
+    "state_name": "Ohio",
+    "name": "Punderson State Park",
+    "osm_type": "way",
+    "osm_id": 1416827936,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "OH",
+    "state_name": "Ohio",
+    "name": "Punderson State Park",
+    "osm_type": "way",
+    "osm_id": 1416827937,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "OH",
+    "state_name": "Ohio",
+    "name": "Stockyards",
+    "osm_type": "relation",
+    "osm_id": 7284790,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

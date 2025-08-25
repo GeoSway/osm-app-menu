@@ -1,0 +1,11 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,AL,Alabama,Mobile City Council District 1,relation,19362066,9,Wards/Districts,Q135404321,,,,
+US,AL,Alabama,Mobile City Council District 2,relation,19362106,9,Wards/Districts,Q135404329,,,,
+US,AL,Alabama,Mobile City Council District 3,relation,19362131,9,Wards/Districts,Q135404336,,,,
+US,AL,Alabama,Mobile City Council District 4,relation,19362169,9,Wards/Districts,Q135404344,,,,
+US,AL,Alabama,Mobile City Council District 5,relation,19362197,9,Wards/Districts,Q135404352,,,,
+US,AL,Alabama,Mobile City Council District 6,relation,19362296,9,Wards/Districts,Q135404360,,,,
+US,AL,Alabama,Mobile City Council District 7,relation,19362311,9,Wards/Districts,Q135404361,,,,
+US,AL,Alabama,Mobile County Commission District 1,relation,19362586,9,Wards/Districts,Q135410424,,,,
+US,AL,Alabama,Mobile County Commission District 2,relation,19365854,9,Wards/Districts,Q135410465,,,,
+US,AL,Alabama,Mobile County Commission District 3,relation,19365899,9,Wards/Districts,Q135410475,,,,

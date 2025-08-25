@@ -1,0 +1,62 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "MP",
+    "state_name": "Northern Mariana Islands",
+    "name": null,
+    "osm_type": "way",
+    "osm_id": 43358504,
+    "admin_level": "6",
+    "level_name": "Counties/County-equivalents",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "MP",
+    "state_name": "Northern Mariana Islands",
+    "name": "Tinian Municipality",
+    "osm_type": "relation",
+    "osm_id": 306005,
+    "admin_level": "6",
+    "level_name": "Counties/County-equivalents",
+    "wikidata": "Q7808227",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "MP",
+    "state_name": "Northern Mariana Islands",
+    "name": "Saipan Municipality",
+    "osm_type": "relation",
+    "osm_id": 306006,
+    "admin_level": "6",
+    "level_name": "Counties/County-equivalents",
+    "wikidata": "Q9332790",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "MP",
+    "state_name": "Northern Mariana Islands",
+    "name": "Northern Islands Municipality",
+    "osm_type": "relation",
+    "osm_id": 306007,
+    "admin_level": "6",
+    "level_name": "Counties/County-equivalents",
+    "wikidata": "Q1608103",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

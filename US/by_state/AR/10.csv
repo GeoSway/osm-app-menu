@@ -1,0 +1,7 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,AR,Arkansas,Belclaire Estates,way,621638719,10,Neighborhoods/Hamlets,,,,,
+US,AR,Arkansas,Bethel Heights,relation,8527202,10,Neighborhoods/Hamlets,Q79227,,,,
+US,AR,Arkansas,Legacy Pointe,relation,16703376,10,Neighborhoods/Hamlets,,,,,
+US,AR,Arkansas,Covington Park,relation,16798499,10,Neighborhoods/Hamlets,,,,,
+US,AR,Arkansas,Westview Meadows,relation,17240984,10,Neighborhoods/Hamlets,,,,,
+US,AR,Arkansas,Maple Valley,relation,17240985,10,Neighborhoods/Hamlets,,,,,

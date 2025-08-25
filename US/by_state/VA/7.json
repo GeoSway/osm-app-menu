@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "VA",
+    "state_name": "Virginia",
+    "name": "201 District",
+    "osm_type": "way",
+    "osm_id": 1373384172,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

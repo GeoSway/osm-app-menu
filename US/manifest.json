@@ -1,0 +1,2313 @@
+{
+  "code": "US",
+  "name": "United States",
+  "levels": [
+    "4",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "states_file": "states.json",
+  "states_count": 56,
+  "by_state": {
+    "VT": {
+      "name": "Vermont",
+      "files": {
+        "4": {
+          "json": "by_state\\VT\\4.json",
+          "csv": "by_state\\VT\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\VT\\6.json",
+          "csv": "by_state\\VT\\6.csv",
+          "count": 180,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\VT\\7.json",
+          "csv": "by_state\\VT\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\VT\\8.json",
+          "csv": "by_state\\VT\\8.csv",
+          "count": 821,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\VT\\9.json",
+          "csv": "by_state\\VT\\9.csv",
+          "count": 29,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\VT\\10.json",
+          "csv": "by_state\\VT\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "files": {
+        "4": {
+          "json": "by_state\\MA\\4.json",
+          "csv": "by_state\\MA\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\MA\\6.json",
+          "csv": "by_state\\MA\\6.csv",
+          "count": 217,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\MA\\7.json",
+          "csv": "by_state\\MA\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\MA\\8.json",
+          "csv": "by_state\\MA\\8.csv",
+          "count": 1308,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\MA\\9.json",
+          "csv": "by_state\\MA\\9.csv",
+          "count": 19,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MA\\10.json",
+          "csv": "by_state\\MA\\10.csv",
+          "count": 1,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "NY": {
+      "name": "New York",
+      "files": {
+        "4": {
+          "json": "by_state\\NY\\4.json",
+          "csv": "by_state\\NY\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\NY\\6.json",
+          "csv": "by_state\\NY\\6.csv",
+          "count": 67,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\NY\\7.json",
+          "csv": "by_state\\NY\\7.csv",
+          "count": 1000,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\NY\\8.json",
+          "csv": "by_state\\NY\\8.csv",
+          "count": 602,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\NY\\9.json",
+          "csv": "by_state\\NY\\9.csv",
+          "count": 28,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NY\\10.json",
+          "csv": "by_state\\NY\\10.csv",
+          "count": 33,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "ME": {
+      "name": "Maine",
+      "files": {
+        "4": {
+          "json": "by_state\\ME\\4.json",
+          "csv": "by_state\\ME\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\ME\\6.json",
+          "csv": "by_state\\ME\\6.csv",
+          "count": 16,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\ME\\7.json",
+          "csv": "by_state\\ME\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\ME\\8.json",
+          "csv": "by_state\\ME\\8.csv",
+          "count": 913,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\ME\\9.json",
+          "csv": "by_state\\ME\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\ME\\10.json",
+          "csv": "by_state\\ME\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "NH": {
+      "name": "New Hampshire",
+      "files": {
+        "4": {
+          "json": "by_state\\NH\\4.json",
+          "csv": "by_state\\NH\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\NH\\6.json",
+          "csv": "by_state\\NH\\6.csv",
+          "count": 132,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\NH\\7.json",
+          "csv": "by_state\\NH\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\NH\\8.json",
+          "csv": "by_state\\NH\\8.csv",
+          "count": 908,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\NH\\9.json",
+          "csv": "by_state\\NH\\9.csv",
+          "count": 34,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NH\\10.json",
+          "csv": "by_state\\NH\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "TX": {
+      "name": "Texas",
+      "files": {
+        "4": {
+          "json": "by_state\\TX\\4.json",
+          "csv": "by_state\\TX\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\TX\\6.json",
+          "csv": "by_state\\TX\\6.csv",
+          "count": 257,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\TX\\7.json",
+          "csv": "by_state\\TX\\7.csv",
+          "count": 1,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\TX\\8.json",
+          "csv": "by_state\\TX\\8.csv",
+          "count": 1245,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\TX\\9.json",
+          "csv": "by_state\\TX\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\TX\\10.json",
+          "csv": "by_state\\TX\\10.csv",
+          "count": 59,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "IL": {
+      "name": "Illinois",
+      "files": {
+        "4": {
+          "json": "by_state\\IL\\4.json",
+          "csv": "by_state\\IL\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\IL\\6.json",
+          "csv": "by_state\\IL\\6.csv",
+          "count": 102,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\IL\\7.json",
+          "csv": "by_state\\IL\\7.csv",
+          "count": 213,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\IL\\8.json",
+          "csv": "by_state\\IL\\8.csv",
+          "count": 1305,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\IL\\9.json",
+          "csv": "by_state\\IL\\9.csv",
+          "count": 7,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\IL\\10.json",
+          "csv": "by_state\\IL\\10.csv",
+          "count": 94,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "MO": {
+      "name": "Missouri",
+      "files": {
+        "4": {
+          "json": "by_state\\MO\\4.json",
+          "csv": "by_state\\MO\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\MO\\6.json",
+          "csv": "by_state\\MO\\6.csv",
+          "count": 116,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\MO\\7.json",
+          "csv": "by_state\\MO\\7.csv",
+          "count": 46,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\MO\\8.json",
+          "csv": "by_state\\MO\\8.csv",
+          "count": 959,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\MO\\9.json",
+          "csv": "by_state\\MO\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MO\\10.json",
+          "csv": "by_state\\MO\\10.csv",
+          "count": 80,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "KS": {
+      "name": "Kansas",
+      "files": {
+        "4": {
+          "json": "by_state\\KS\\4.json",
+          "csv": "by_state\\KS\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\KS\\6.json",
+          "csv": "by_state\\KS\\6.csv",
+          "count": 105,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\KS\\7.json",
+          "csv": "by_state\\KS\\7.csv",
+          "count": 37,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\KS\\8.json",
+          "csv": "by_state\\KS\\8.csv",
+          "count": 639,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\KS\\9.json",
+          "csv": "by_state\\KS\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\KS\\10.json",
+          "csv": "by_state\\KS\\10.csv",
+          "count": 3,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "OK": {
+      "name": "Oklahoma",
+      "files": {
+        "4": {
+          "json": "by_state\\OK\\4.json",
+          "csv": "by_state\\OK\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\OK\\6.json",
+          "csv": "by_state\\OK\\6.csv",
+          "count": 224,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\OK\\7.json",
+          "csv": "by_state\\OK\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\OK\\8.json",
+          "csv": "by_state\\OK\\8.csv",
+          "count": 2952,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\OK\\9.json",
+          "csv": "by_state\\OK\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\OK\\10.json",
+          "csv": "by_state\\OK\\10.csv",
+          "count": 409,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "AR": {
+      "name": "Arkansas",
+      "files": {
+        "4": {
+          "json": "by_state\\AR\\4.json",
+          "csv": "by_state\\AR\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\AR\\6.json",
+          "csv": "by_state\\AR\\6.csv",
+          "count": 76,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\AR\\7.json",
+          "csv": "by_state\\AR\\7.csv",
+          "count": 2,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\AR\\8.json",
+          "csv": "by_state\\AR\\8.csv",
+          "count": 502,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\AR\\9.json",
+          "csv": "by_state\\AR\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\AR\\10.json",
+          "csv": "by_state\\AR\\10.csv",
+          "count": 6,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "NE": {
+      "name": "Nebraska",
+      "files": {
+        "4": {
+          "json": "by_state\\NE\\4.json",
+          "csv": "by_state\\NE\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\NE\\6.json",
+          "csv": "by_state\\NE\\6.csv",
+          "count": 326,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\NE\\7.json",
+          "csv": "by_state\\NE\\7.csv",
+          "count": 227,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\NE\\8.json",
+          "csv": "by_state\\NE\\8.csv",
+          "count": 565,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\NE\\9.json",
+          "csv": "by_state\\NE\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NE\\10.json",
+          "csv": "by_state\\NE\\10.csv",
+          "count": 363,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "IA": {
+      "name": "Iowa",
+      "files": {
+        "4": {
+          "json": "by_state\\IA\\4.json",
+          "csv": "by_state\\IA\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\IA\\6.json",
+          "csv": "by_state\\IA\\6.csv",
+          "count": 99,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\IA\\7.json",
+          "csv": "by_state\\IA\\7.csv",
+          "count": 844,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\IA\\8.json",
+          "csv": "by_state\\IA\\8.csv",
+          "count": 949,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\IA\\9.json",
+          "csv": "by_state\\IA\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\IA\\10.json",
+          "csv": "by_state\\IA\\10.csv",
+          "count": 1,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "SD": {
+      "name": "South Dakota",
+      "files": {
+        "4": {
+          "json": "by_state\\SD\\4.json",
+          "csv": "by_state\\SD\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\SD\\6.json",
+          "csv": "by_state\\SD\\6.csv",
+          "count": 717,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\SD\\7.json",
+          "csv": "by_state\\SD\\7.csv",
+          "count": 1062,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\SD\\8.json",
+          "csv": "by_state\\SD\\8.csv",
+          "count": 413,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\SD\\9.json",
+          "csv": "by_state\\SD\\9.csv",
+          "count": 7,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\SD\\10.json",
+          "csv": "by_state\\SD\\10.csv",
+          "count": 91,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "ND": {
+      "name": "North Dakota",
+      "files": {
+        "4": {
+          "json": "by_state\\ND\\4.json",
+          "csv": "by_state\\ND\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\ND\\6.json",
+          "csv": "by_state\\ND\\6.csv",
+          "count": 53,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\ND\\7.json",
+          "csv": "by_state\\ND\\7.csv",
+          "count": 346,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\ND\\8.json",
+          "csv": "by_state\\ND\\8.csv",
+          "count": 358,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\ND\\9.json",
+          "csv": "by_state\\ND\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\ND\\10.json",
+          "csv": "by_state\\ND\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "KY": {
+      "name": "Kentucky",
+      "files": {
+        "4": {
+          "json": "by_state\\KY\\4.json",
+          "csv": "by_state\\KY\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\KY\\6.json",
+          "csv": "by_state\\KY\\6.csv",
+          "count": 329,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\KY\\7.json",
+          "csv": "by_state\\KY\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\KY\\8.json",
+          "csv": "by_state\\KY\\8.csv",
+          "count": 517,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\KY\\9.json",
+          "csv": "by_state\\KY\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\KY\\10.json",
+          "csv": "by_state\\KY\\10.csv",
+          "count": 198,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "IN": {
+      "name": "Indiana",
+      "files": {
+        "4": {
+          "json": "by_state\\IN\\4.json",
+          "csv": "by_state\\IN\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\IN\\6.json",
+          "csv": "by_state\\IN\\6.csv",
+          "count": 92,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\IN\\7.json",
+          "csv": "by_state\\IN\\7.csv",
+          "count": 29,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\IN\\8.json",
+          "csv": "by_state\\IN\\8.csv",
+          "count": 595,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\IN\\9.json",
+          "csv": "by_state\\IN\\9.csv",
+          "count": 13,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\IN\\10.json",
+          "csv": "by_state\\IN\\10.csv",
+          "count": 54,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "TN": {
+      "name": "Tennessee",
+      "files": {
+        "4": {
+          "json": "by_state\\TN\\4.json",
+          "csv": "by_state\\TN\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\TN\\6.json",
+          "csv": "by_state\\TN\\6.csv",
+          "count": 404,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\TN\\7.json",
+          "csv": "by_state\\TN\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\TN\\8.json",
+          "csv": "by_state\\TN\\8.csv",
+          "count": 456,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\TN\\9.json",
+          "csv": "by_state\\TN\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\TN\\10.json",
+          "csv": "by_state\\TN\\10.csv",
+          "count": 77,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "MS": {
+      "name": "Mississippi",
+      "files": {
+        "4": {
+          "json": "by_state\\MS\\4.json",
+          "csv": "by_state\\MS\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\MS\\6.json",
+          "csv": "by_state\\MS\\6.csv",
+          "count": 82,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\MS\\7.json",
+          "csv": "by_state\\MS\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\MS\\8.json",
+          "csv": "by_state\\MS\\8.csv",
+          "count": 310,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\MS\\9.json",
+          "csv": "by_state\\MS\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MS\\10.json",
+          "csv": "by_state\\MS\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "AL": {
+      "name": "Alabama",
+      "files": {
+        "4": {
+          "json": "by_state\\AL\\4.json",
+          "csv": "by_state\\AL\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\AL\\6.json",
+          "csv": "by_state\\AL\\6.csv",
+          "count": 286,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\AL\\7.json",
+          "csv": "by_state\\AL\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\AL\\8.json",
+          "csv": "by_state\\AL\\8.csv",
+          "count": 517,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\AL\\9.json",
+          "csv": "by_state\\AL\\9.csv",
+          "count": 10,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\AL\\10.json",
+          "csv": "by_state\\AL\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "GA": {
+      "name": "Georgia",
+      "files": {
+        "4": {
+          "json": "by_state\\GA\\4.json",
+          "csv": "by_state\\GA\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\GA\\6.json",
+          "csv": "by_state\\GA\\6.csv",
+          "count": 159,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\GA\\7.json",
+          "csv": "by_state\\GA\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\GA\\8.json",
+          "csv": "by_state\\GA\\8.csv",
+          "count": 553,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\GA\\9.json",
+          "csv": "by_state\\GA\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\GA\\10.json",
+          "csv": "by_state\\GA\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "CO": {
+      "name": "Colorado",
+      "files": {
+        "4": {
+          "json": "by_state\\CO\\4.json",
+          "csv": "by_state\\CO\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\CO\\6.json",
+          "csv": "by_state\\CO\\6.csv",
+          "count": 590,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\CO\\7.json",
+          "csv": "by_state\\CO\\7.csv",
+          "count": 8,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\CO\\8.json",
+          "csv": "by_state\\CO\\8.csv",
+          "count": 1001,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\CO\\9.json",
+          "csv": "by_state\\CO\\9.csv",
+          "count": 1,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\CO\\10.json",
+          "csv": "by_state\\CO\\10.csv",
+          "count": 1,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "WY": {
+      "name": "Wyoming",
+      "files": {
+        "4": {
+          "json": "by_state\\WY\\4.json",
+          "csv": "by_state\\WY\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\WY\\6.json",
+          "csv": "by_state\\WY\\6.csv",
+          "count": 195,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\WY\\7.json",
+          "csv": "by_state\\WY\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\WY\\8.json",
+          "csv": "by_state\\WY\\8.csv",
+          "count": 149,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\WY\\9.json",
+          "csv": "by_state\\WY\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\WY\\10.json",
+          "csv": "by_state\\WY\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "UT": {
+      "name": "Utah",
+      "files": {
+        "4": {
+          "json": "by_state\\UT\\4.json",
+          "csv": "by_state\\UT\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\UT\\6.json",
+          "csv": "by_state\\UT\\6.csv",
+          "count": 319,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\UT\\7.json",
+          "csv": "by_state\\UT\\7.csv",
+          "count": 1,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\UT\\8.json",
+          "csv": "by_state\\UT\\8.csv",
+          "count": 852,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\UT\\9.json",
+          "csv": "by_state\\UT\\9.csv",
+          "count": 55,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\UT\\10.json",
+          "csv": "by_state\\UT\\10.csv",
+          "count": 34,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "NM": {
+      "name": "New Mexico",
+      "files": {
+        "4": {
+          "json": "by_state\\NM\\4.json",
+          "csv": "by_state\\NM\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\NM\\6.json",
+          "csv": "by_state\\NM\\6.csv",
+          "count": 576,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\NM\\7.json",
+          "csv": "by_state\\NM\\7.csv",
+          "count": 4,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\NM\\8.json",
+          "csv": "by_state\\NM\\8.csv",
+          "count": 853,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\NM\\9.json",
+          "csv": "by_state\\NM\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NM\\10.json",
+          "csv": "by_state\\NM\\10.csv",
+          "count": 4,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "AZ": {
+      "name": "Arizona",
+      "files": {
+        "4": {
+          "json": "by_state\\AZ\\4.json",
+          "csv": "by_state\\AZ\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\AZ\\6.json",
+          "csv": "by_state\\AZ\\6.csv",
+          "count": 201,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\AZ\\7.json",
+          "csv": "by_state\\AZ\\7.csv",
+          "count": 16,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\AZ\\8.json",
+          "csv": "by_state\\AZ\\8.csv",
+          "count": 176,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\AZ\\9.json",
+          "csv": "by_state\\AZ\\9.csv",
+          "count": 11,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\AZ\\10.json",
+          "csv": "by_state\\AZ\\10.csv",
+          "count": 44,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "FL": {
+      "name": "Florida",
+      "files": {
+        "4": {
+          "json": "by_state\\FL\\4.json",
+          "csv": "by_state\\FL\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\FL\\6.json",
+          "csv": "by_state\\FL\\6.csv",
+          "count": 71,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\FL\\7.json",
+          "csv": "by_state\\FL\\7.csv",
+          "count": 183,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\FL\\8.json",
+          "csv": "by_state\\FL\\8.csv",
+          "count": 501,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\FL\\9.json",
+          "csv": "by_state\\FL\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\FL\\10.json",
+          "csv": "by_state\\FL\\10.csv",
+          "count": 22,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "OH": {
+      "name": "Ohio",
+      "files": {
+        "4": {
+          "json": "by_state\\OH\\4.json",
+          "csv": "by_state\\OH\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\OH\\6.json",
+          "csv": "by_state\\OH\\6.csv",
+          "count": 98,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\OH\\7.json",
+          "csv": "by_state\\OH\\7.csv",
+          "count": 829,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\OH\\8.json",
+          "csv": "by_state\\OH\\8.csv",
+          "count": 1067,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\OH\\9.json",
+          "csv": "by_state\\OH\\9.csv",
+          "count": 4,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\OH\\10.json",
+          "csv": "by_state\\OH\\10.csv",
+          "count": 43,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "WV": {
+      "name": "West Virginia",
+      "files": {
+        "4": {
+          "json": "by_state\\WV\\4.json",
+          "csv": "by_state\\WV\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\WV\\6.json",
+          "csv": "by_state\\WV\\6.csv",
+          "count": 55,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\WV\\7.json",
+          "csv": "by_state\\WV\\7.csv",
+          "count": 6,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\WV\\8.json",
+          "csv": "by_state\\WV\\8.csv",
+          "count": 230,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\WV\\9.json",
+          "csv": "by_state\\WV\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\WV\\10.json",
+          "csv": "by_state\\WV\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "DC": {
+      "name": "District of Columbia",
+      "files": {
+        "4": {
+          "json": "by_state\\DC\\4.json",
+          "csv": "by_state\\DC\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\DC\\6.json",
+          "csv": "by_state\\DC\\6.csv",
+          "count": 0,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\DC\\7.json",
+          "csv": "by_state\\DC\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\DC\\8.json",
+          "csv": "by_state\\DC\\8.csv",
+          "count": 0,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\DC\\9.json",
+          "csv": "by_state\\DC\\9.csv",
+          "count": 8,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\DC\\10.json",
+          "csv": "by_state\\DC\\10.csv",
+          "count": 55,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "PA": {
+      "name": "Pennsylvania",
+      "files": {
+        "4": {
+          "json": "by_state\\PA\\4.json",
+          "csv": "by_state\\PA\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\PA\\6.json",
+          "csv": "by_state\\PA\\6.csv",
+          "count": 67,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\PA\\7.json",
+          "csv": "by_state\\PA\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\PA\\8.json",
+          "csv": "by_state\\PA\\8.csv",
+          "count": 2569,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\PA\\9.json",
+          "csv": "by_state\\PA\\9.csv",
+          "count": 1,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\PA\\10.json",
+          "csv": "by_state\\PA\\10.csv",
+          "count": 203,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "DE": {
+      "name": "Delaware",
+      "files": {
+        "4": {
+          "json": "by_state\\DE\\4.json",
+          "csv": "by_state\\DE\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\DE\\6.json",
+          "csv": "by_state\\DE\\6.csv",
+          "count": 20,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\DE\\7.json",
+          "csv": "by_state\\DE\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\DE\\8.json",
+          "csv": "by_state\\DE\\8.csv",
+          "count": 80,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\DE\\9.json",
+          "csv": "by_state\\DE\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\DE\\10.json",
+          "csv": "by_state\\DE\\10.csv",
+          "count": 9,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "MD": {
+      "name": "Maryland",
+      "files": {
+        "4": {
+          "json": "by_state\\MD\\4.json",
+          "csv": "by_state\\MD\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\MD\\6.json",
+          "csv": "by_state\\MD\\6.csv",
+          "count": 53,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\MD\\7.json",
+          "csv": "by_state\\MD\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\MD\\8.json",
+          "csv": "by_state\\MD\\8.csv",
+          "count": 162,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\MD\\9.json",
+          "csv": "by_state\\MD\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MD\\10.json",
+          "csv": "by_state\\MD\\10.csv",
+          "count": 445,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "MT": {
+      "name": "Montana",
+      "files": {
+        "4": {
+          "json": "by_state\\MT\\4.json",
+          "csv": "by_state\\MT\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\MT\\6.json",
+          "csv": "by_state\\MT\\6.csv",
+          "count": 56,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\MT\\7.json",
+          "csv": "by_state\\MT\\7.csv",
+          "count": 15,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\MT\\8.json",
+          "csv": "by_state\\MT\\8.csv",
+          "count": 136,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\MT\\9.json",
+          "csv": "by_state\\MT\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MT\\10.json",
+          "csv": "by_state\\MT\\10.csv",
+          "count": 4,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "ID": {
+      "name": "Idaho",
+      "files": {
+        "4": {
+          "json": "by_state\\ID\\4.json",
+          "csv": "by_state\\ID\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\ID\\6.json",
+          "csv": "by_state\\ID\\6.csv",
+          "count": 213,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\ID\\7.json",
+          "csv": "by_state\\ID\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\ID\\8.json",
+          "csv": "by_state\\ID\\8.csv",
+          "count": 228,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\ID\\9.json",
+          "csv": "by_state\\ID\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\ID\\10.json",
+          "csv": "by_state\\ID\\10.csv",
+          "count": 2,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "files": {
+        "4": {
+          "json": "by_state\\WI\\4.json",
+          "csv": "by_state\\WI\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\WI\\6.json",
+          "csv": "by_state\\WI\\6.csv",
+          "count": 72,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\WI\\7.json",
+          "csv": "by_state\\WI\\7.csv",
+          "count": 1,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\WI\\8.json",
+          "csv": "by_state\\WI\\8.csv",
+          "count": 1855,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\WI\\9.json",
+          "csv": "by_state\\WI\\9.csv",
+          "count": 1,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\WI\\10.json",
+          "csv": "by_state\\WI\\10.csv",
+          "count": 556,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "MN": {
+      "name": "Minnesota",
+      "files": {
+        "4": {
+          "json": "by_state\\MN\\4.json",
+          "csv": "by_state\\MN\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\MN\\6.json",
+          "csv": "by_state\\MN\\6.csv",
+          "count": 87,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\MN\\7.json",
+          "csv": "by_state\\MN\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\MN\\8.json",
+          "csv": "by_state\\MN\\8.csv",
+          "count": 1342,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\MN\\9.json",
+          "csv": "by_state\\MN\\9.csv",
+          "count": 43,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MN\\10.json",
+          "csv": "by_state\\MN\\10.csv",
+          "count": 138,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "NV": {
+      "name": "Nevada",
+      "files": {
+        "4": {
+          "json": "by_state\\NV\\4.json",
+          "csv": "by_state\\NV\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\NV\\6.json",
+          "csv": "by_state\\NV\\6.csv",
+          "count": 106,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\NV\\7.json",
+          "csv": "by_state\\NV\\7.csv",
+          "count": 2,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\NV\\8.json",
+          "csv": "by_state\\NV\\8.csv",
+          "count": 168,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\NV\\9.json",
+          "csv": "by_state\\NV\\9.csv",
+          "count": 10,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NV\\10.json",
+          "csv": "by_state\\NV\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "CA": {
+      "name": "California",
+      "files": {
+        "4": {
+          "json": "by_state\\CA\\4.json",
+          "csv": "by_state\\CA\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\CA\\6.json",
+          "csv": "by_state\\CA\\6.csv",
+          "count": 617,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\CA\\7.json",
+          "csv": "by_state\\CA\\7.csv",
+          "count": 1,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\CA\\8.json",
+          "csv": "by_state\\CA\\8.csv",
+          "count": 662,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\CA\\9.json",
+          "csv": "by_state\\CA\\9.csv",
+          "count": 377,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\CA\\10.json",
+          "csv": "by_state\\CA\\10.csv",
+          "count": 372,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "OR": {
+      "name": "Oregon",
+      "files": {
+        "4": {
+          "json": "by_state\\OR\\4.json",
+          "csv": "by_state\\OR\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\OR\\6.json",
+          "csv": "by_state\\OR\\6.csv",
+          "count": 90,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\OR\\7.json",
+          "csv": "by_state\\OR\\7.csv",
+          "count": 131,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\OR\\8.json",
+          "csv": "by_state\\OR\\8.csv",
+          "count": 346,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\OR\\9.json",
+          "csv": "by_state\\OR\\9.csv",
+          "count": 1,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\OR\\10.json",
+          "csv": "by_state\\OR\\10.csv",
+          "count": 216,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "WA": {
+      "name": "Washington",
+      "files": {
+        "4": {
+          "json": "by_state\\WA\\4.json",
+          "csv": "by_state\\WA\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\WA\\6.json",
+          "csv": "by_state\\WA\\6.csv",
+          "count": 255,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\WA\\7.json",
+          "csv": "by_state\\WA\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\WA\\8.json",
+          "csv": "by_state\\WA\\8.csv",
+          "count": 440,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\WA\\9.json",
+          "csv": "by_state\\WA\\9.csv",
+          "count": 4,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\WA\\10.json",
+          "csv": "by_state\\WA\\10.csv",
+          "count": 129,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "MI": {
+      "name": "Michigan",
+      "files": {
+        "4": {
+          "json": "by_state\\MI\\4.json",
+          "csv": "by_state\\MI\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\MI\\6.json",
+          "csv": "by_state\\MI\\6.csv",
+          "count": 919,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\MI\\7.json",
+          "csv": "by_state\\MI\\7.csv",
+          "count": 75,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\MI\\8.json",
+          "csv": "by_state\\MI\\8.csv",
+          "count": 2123,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\MI\\9.json",
+          "csv": "by_state\\MI\\9.csv",
+          "count": 11,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MI\\10.json",
+          "csv": "by_state\\MI\\10.csv",
+          "count": 13,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "CT": {
+      "name": "Connecticut",
+      "files": {
+        "4": {
+          "json": "by_state\\CT\\4.json",
+          "csv": "by_state\\CT\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\CT\\6.json",
+          "csv": "by_state\\CT\\6.csv",
+          "count": 9,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\CT\\7.json",
+          "csv": "by_state\\CT\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\CT\\8.json",
+          "csv": "by_state\\CT\\8.csv",
+          "count": 178,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\CT\\9.json",
+          "csv": "by_state\\CT\\9.csv",
+          "count": 11,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\CT\\10.json",
+          "csv": "by_state\\CT\\10.csv",
+          "count": 2,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "HI": {
+      "name": "Hawaii",
+      "files": {
+        "4": {
+          "json": "by_state\\HI\\4.json",
+          "csv": "by_state\\HI\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\HI\\6.json",
+          "csv": "by_state\\HI\\6.csv",
+          "count": 7,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\HI\\7.json",
+          "csv": "by_state\\HI\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\HI\\8.json",
+          "csv": "by_state\\HI\\8.csv",
+          "count": 4,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\HI\\9.json",
+          "csv": "by_state\\HI\\9.csv",
+          "count": 2,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\HI\\10.json",
+          "csv": "by_state\\HI\\10.csv",
+          "count": 19,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "SC": {
+      "name": "South Carolina",
+      "files": {
+        "4": {
+          "json": "by_state\\SC\\4.json",
+          "csv": "by_state\\SC\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\SC\\6.json",
+          "csv": "by_state\\SC\\6.csv",
+          "count": 159,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\SC\\7.json",
+          "csv": "by_state\\SC\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\SC\\8.json",
+          "csv": "by_state\\SC\\8.csv",
+          "count": 385,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\SC\\9.json",
+          "csv": "by_state\\SC\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\SC\\10.json",
+          "csv": "by_state\\SC\\10.csv",
+          "count": 1,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "VA": {
+      "name": "Virginia",
+      "files": {
+        "4": {
+          "json": "by_state\\VA\\4.json",
+          "csv": "by_state\\VA\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\VA\\6.json",
+          "csv": "by_state\\VA\\6.csv",
+          "count": 138,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\VA\\7.json",
+          "csv": "by_state\\VA\\7.csv",
+          "count": 1,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\VA\\8.json",
+          "csv": "by_state\\VA\\8.csv",
+          "count": 190,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\VA\\9.json",
+          "csv": "by_state\\VA\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\VA\\10.json",
+          "csv": "by_state\\VA\\10.csv",
+          "count": 17,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "NC": {
+      "name": "North Carolina",
+      "files": {
+        "4": {
+          "json": "by_state\\NC\\4.json",
+          "csv": "by_state\\NC\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\NC\\6.json",
+          "csv": "by_state\\NC\\6.csv",
+          "count": 100,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\NC\\7.json",
+          "csv": "by_state\\NC\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\NC\\8.json",
+          "csv": "by_state\\NC\\8.csv",
+          "count": 561,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\NC\\9.json",
+          "csv": "by_state\\NC\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NC\\10.json",
+          "csv": "by_state\\NC\\10.csv",
+          "count": 92,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "LA": {
+      "name": "Louisiana",
+      "files": {
+        "4": {
+          "json": "by_state\\LA\\4.json",
+          "csv": "by_state\\LA\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\LA\\6.json",
+          "csv": "by_state\\LA\\6.csv",
+          "count": 323,
+          "level_name": "Parishes"
+        },
+        "7": {
+          "json": "by_state\\LA\\7.json",
+          "csv": "by_state\\LA\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\LA\\8.json",
+          "csv": "by_state\\LA\\8.csv",
+          "count": 1288,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\LA\\9.json",
+          "csv": "by_state\\LA\\9.csv",
+          "count": 2,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\LA\\10.json",
+          "csv": "by_state\\LA\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "files": {
+        "4": {
+          "json": "by_state\\NJ\\4.json",
+          "csv": "by_state\\NJ\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\NJ\\6.json",
+          "csv": "by_state\\NJ\\6.csv",
+          "count": 401,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\NJ\\7.json",
+          "csv": "by_state\\NJ\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\NJ\\8.json",
+          "csv": "by_state\\NJ\\8.csv",
+          "count": 2423,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\NJ\\9.json",
+          "csv": "by_state\\NJ\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NJ\\10.json",
+          "csv": "by_state\\NJ\\10.csv",
+          "count": 19,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "VI": {
+      "name": "United States Virgin Islands",
+      "files": {
+        "4": {
+          "json": "by_state\\VI\\4.json",
+          "csv": "by_state\\VI\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\VI\\6.json",
+          "csv": "by_state\\VI\\6.csv",
+          "count": 2,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\VI\\7.json",
+          "csv": "by_state\\VI\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\VI\\8.json",
+          "csv": "by_state\\VI\\8.csv",
+          "count": 20,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\VI\\9.json",
+          "csv": "by_state\\VI\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\VI\\10.json",
+          "csv": "by_state\\VI\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "GU": {
+      "name": "Guam",
+      "files": {
+        "4": {
+          "json": "by_state\\GU\\4.json",
+          "csv": "by_state\\GU\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\GU\\6.json",
+          "csv": "by_state\\GU\\6.csv",
+          "count": 20,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\GU\\7.json",
+          "csv": "by_state\\GU\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\GU\\8.json",
+          "csv": "by_state\\GU\\8.csv",
+          "count": 0,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\GU\\9.json",
+          "csv": "by_state\\GU\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\GU\\10.json",
+          "csv": "by_state\\GU\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "MP": {
+      "name": "Northern Mariana Islands",
+      "files": {
+        "4": {
+          "json": "by_state\\MP\\4.json",
+          "csv": "by_state\\MP\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\MP\\6.json",
+          "csv": "by_state\\MP\\6.csv",
+          "count": 4,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\MP\\7.json",
+          "csv": "by_state\\MP\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\MP\\8.json",
+          "csv": "by_state\\MP\\8.csv",
+          "count": 21,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\MP\\9.json",
+          "csv": "by_state\\MP\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MP\\10.json",
+          "csv": "by_state\\MP\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "RI": {
+      "name": "Rhode Island",
+      "files": {
+        "4": {
+          "json": "by_state\\RI\\4.json",
+          "csv": "by_state\\RI\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\RI\\6.json",
+          "csv": "by_state\\RI\\6.csv",
+          "count": 5,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\RI\\7.json",
+          "csv": "by_state\\RI\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\RI\\8.json",
+          "csv": "by_state\\RI\\8.csv",
+          "count": 39,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\RI\\9.json",
+          "csv": "by_state\\RI\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\RI\\10.json",
+          "csv": "by_state\\RI\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "AK": {
+      "name": "Alaska",
+      "files": {
+        "4": {
+          "json": "by_state\\AK\\4.json",
+          "csv": "by_state\\AK\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\AK\\6.json",
+          "csv": "by_state\\AK\\6.csv",
+          "count": 23,
+          "level_name": "Boroughs/Census Areas"
+        },
+        "7": {
+          "json": "by_state\\AK\\7.json",
+          "csv": "by_state\\AK\\7.csv",
+          "count": 0,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\AK\\8.json",
+          "csv": "by_state\\AK\\8.csv",
+          "count": 146,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\AK\\9.json",
+          "csv": "by_state\\AK\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\AK\\10.json",
+          "csv": "by_state\\AK\\10.csv",
+          "count": 514,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "AS": {
+      "name": "American Samoa",
+      "files": {
+        "4": {
+          "json": "by_state\\AS\\4.json",
+          "csv": "by_state\\AS\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\AS\\6.json",
+          "csv": "by_state\\AS\\6.csv",
+          "count": 12,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\AS\\7.json",
+          "csv": "by_state\\AS\\7.csv",
+          "count": 19,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\AS\\8.json",
+          "csv": "by_state\\AS\\8.csv",
+          "count": 299,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\AS\\9.json",
+          "csv": "by_state\\AS\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\AS\\10.json",
+          "csv": "by_state\\AS\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    },
+    "PR": {
+      "name": "Puerto Rico",
+      "files": {
+        "4": {
+          "json": "by_state\\PR\\4.json",
+          "csv": "by_state\\PR\\4.csv",
+          "count": 1,
+          "level_name": "States/DC/Territories"
+        },
+        "6": {
+          "json": "by_state\\PR\\6.json",
+          "csv": "by_state\\PR\\6.csv",
+          "count": 1086,
+          "level_name": "Counties/County-equivalents"
+        },
+        "7": {
+          "json": "by_state\\PR\\7.json",
+          "csv": "by_state\\PR\\7.csv",
+          "count": 1,
+          "level_name": "Townships/Boroughs/Districts"
+        },
+        "8": {
+          "json": "by_state\\PR\\8.json",
+          "csv": "by_state\\PR\\8.csv",
+          "count": 0,
+          "level_name": "Cities/Towns/Villages/Municipalities"
+        },
+        "9": {
+          "json": "by_state\\PR\\9.json",
+          "csv": "by_state\\PR\\9.csv",
+          "count": 2659,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\PR\\10.json",
+          "csv": "by_state\\PR\\10.csv",
+          "count": 0,
+          "level_name": "Neighborhoods/Hamlets"
+        }
+      }
+    }
+  },
+  "attribution": "Data via OpenStreetMap contributors (ODbL). Not affiliated with or endorsed by OpenStreetMap or the OSMF."
+}

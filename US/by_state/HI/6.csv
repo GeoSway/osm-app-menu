@@ -1,0 +1,8 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,HI,Hawaii,,way,44487843,6,Counties/County-equivalents,,,,,
+US,HI,Hawaii,,way,828989419,6,Counties/County-equivalents,,,,,
+US,HI,Hawaii,Kauaʻi County,relation,166560,6,Counties/County-equivalents,Q111517,,Kauai County,,
+US,HI,Hawaii,Maui County,relation,166561,6,Counties/County-equivalents,Q111409,,,,
+US,HI,Hawaii,Hawaiʻi County,relation,166562,6,Counties/County-equivalents,Q487334,,,,
+US,HI,Hawaii,Kalawao County,relation,166564,6,Counties/County-equivalents,Q494546,,,,
+US,HI,Hawaii,Honolulu County,relation,3861844,6,Counties/County-equivalents,Q487704,,,,City and County of Honolulu

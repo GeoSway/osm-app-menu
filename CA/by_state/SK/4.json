@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "SK",
+    "state_name": "Saskatchewan",
+    "name": "Saskatchewan",
+    "osm_type": "relation",
+    "osm_id": 391178,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q1989",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "SK",
+    "official_name": null
+  }
+]

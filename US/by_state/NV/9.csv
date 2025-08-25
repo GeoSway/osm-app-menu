@@ -1,0 +1,11 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,NV,Nevada,West–East demarcator,way,1417147300,9,Wards/Districts,,,,,
+US,NV,Nevada,North–South demarcator,way,1417147307,9,Wards/Districts,,,,,
+US,NV,Nevada,West–East demarcator,relation,19209064,9,Wards/Districts,,,,,
+US,NV,Nevada,North–South demarcator (Las Vegas),relation,19289020,9,Wards/Districts,,,,,
+US,NV,Nevada,West–East demarcator,relation,19325544,9,Wards/Districts,,,,,
+US,NV,Nevada,North–South demarcator (Henderson),relation,19325545,9,Wards/Districts,,,,,
+US,NV,Nevada,West–East demarcator (Las Vegas),relation,19325665,9,Wards/Districts,,,,,
+US,NV,Nevada,North–South demarcator,relation,19349827,9,Wards/Districts,,,,,
+US,NV,Nevada,West–East demarcator,relation,19350149,9,Wards/Districts,,,,,
+US,NV,Nevada,North–South demarcator,relation,19350218,9,Wards/Districts,,,,,

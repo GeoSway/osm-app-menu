@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "New Mexico",
+    "osm_type": "relation",
+    "osm_id": 162014,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1522",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "NM",
+    "official_name": null
+  }
+]

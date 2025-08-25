@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "AZ",
+    "state_name": "Arizona",
+    "name": "Arizona",
+    "osm_type": "relation",
+    "osm_id": 162018,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q816",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "AZ",
+    "official_name": null
+  }
+]

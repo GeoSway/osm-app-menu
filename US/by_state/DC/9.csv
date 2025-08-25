@@ -1,0 +1,9 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,DC,District of Columbia,Ward 8,relation,16389580,9,Wards/Districts,Q122851823,,,,
+US,DC,District of Columbia,Ward 7,relation,16394083,9,Wards/Districts,Q122851830,,,,
+US,DC,District of Columbia,Ward 5,relation,16394251,9,Wards/Districts,Q122860508,,,,
+US,DC,District of Columbia,Ward 6,relation,16394280,9,Wards/Districts,Q122851833,,,,
+US,DC,District of Columbia,Ward 3,relation,16408680,9,Wards/Districts,Q122905337,,,,
+US,DC,District of Columbia,Ward 1,relation,16408707,9,Wards/Districts,Q122905344,,,,
+US,DC,District of Columbia,Ward 4,relation,16408809,9,Wards/Districts,Q122905333,,,,
+US,DC,District of Columbia,Ward 2,relation,16408810,9,Wards/Districts,Q122905338,,,,

@@ -1,0 +1,550 @@
+{
+  "code": "CA",
+  "name": "Canada",
+  "levels": [
+    "4",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "states_file": "states.json",
+  "states_count": 13,
+  "by_state": {
+    "QC": {
+      "name": "Québec",
+      "files": {
+        "4": {
+          "json": "by_state\\QC\\4.json",
+          "csv": "by_state\\QC\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\QC\\6.json",
+          "csv": "by_state\\QC\\6.csv",
+          "count": 1081,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\QC\\7.json",
+          "csv": "by_state\\QC\\7.csv",
+          "count": 27,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\QC\\8.json",
+          "csv": "by_state\\QC\\8.csv",
+          "count": 1372,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\QC\\9.json",
+          "csv": "by_state\\QC\\9.csv",
+          "count": 43,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\QC\\10.json",
+          "csv": "by_state\\QC\\10.csv",
+          "count": 292,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "ON": {
+      "name": "Ontario",
+      "files": {
+        "4": {
+          "json": "by_state\\ON\\4.json",
+          "csv": "by_state\\ON\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\ON\\6.json",
+          "csv": "by_state\\ON\\6.csv",
+          "count": 215,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\ON\\7.json",
+          "csv": "by_state\\ON\\7.csv",
+          "count": 2,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\ON\\8.json",
+          "csv": "by_state\\ON\\8.csv",
+          "count": 684,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\ON\\9.json",
+          "csv": "by_state\\ON\\9.csv",
+          "count": 135,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\ON\\10.json",
+          "csv": "by_state\\ON\\10.csv",
+          "count": 1553,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "NB": {
+      "name": "New Brunswick",
+      "files": {
+        "4": {
+          "json": "by_state\\NB\\4.json",
+          "csv": "by_state\\NB\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\NB\\6.json",
+          "csv": "by_state\\NB\\6.csv",
+          "count": 141,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\NB\\7.json",
+          "csv": "by_state\\NB\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\NB\\8.json",
+          "csv": "by_state\\NB\\8.csv",
+          "count": 231,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\NB\\9.json",
+          "csv": "by_state\\NB\\9.csv",
+          "count": 157,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NB\\10.json",
+          "csv": "by_state\\NB\\10.csv",
+          "count": 0,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "NS": {
+      "name": "Nova Scotia",
+      "files": {
+        "4": {
+          "json": "by_state\\NS\\4.json",
+          "csv": "by_state\\NS\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\NS\\6.json",
+          "csv": "by_state\\NS\\6.csv",
+          "count": 387,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\NS\\7.json",
+          "csv": "by_state\\NS\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\NS\\8.json",
+          "csv": "by_state\\NS\\8.csv",
+          "count": 9261,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\NS\\9.json",
+          "csv": "by_state\\NS\\9.csv",
+          "count": 391,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NS\\10.json",
+          "csv": "by_state\\NS\\10.csv",
+          "count": 907,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "NU": {
+      "name": "ᓄᓇᕗᑦ Nunavut",
+      "files": {
+        "4": {
+          "json": "by_state\\NU\\4.json",
+          "csv": "by_state\\NU\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\NU\\6.json",
+          "csv": "by_state\\NU\\6.csv",
+          "count": 6,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\NU\\7.json",
+          "csv": "by_state\\NU\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\NU\\8.json",
+          "csv": "by_state\\NU\\8.csv",
+          "count": 46,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\NU\\9.json",
+          "csv": "by_state\\NU\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NU\\10.json",
+          "csv": "by_state\\NU\\10.csv",
+          "count": 1,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "MB": {
+      "name": "Manitoba",
+      "files": {
+        "4": {
+          "json": "by_state\\MB\\4.json",
+          "csv": "by_state\\MB\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\MB\\6.json",
+          "csv": "by_state\\MB\\6.csv",
+          "count": 203,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\MB\\7.json",
+          "csv": "by_state\\MB\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\MB\\8.json",
+          "csv": "by_state\\MB\\8.csv",
+          "count": 57,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\MB\\9.json",
+          "csv": "by_state\\MB\\9.csv",
+          "count": 203,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\MB\\10.json",
+          "csv": "by_state\\MB\\10.csv",
+          "count": 666,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "BC": {
+      "name": "British Columbia",
+      "files": {
+        "4": {
+          "json": "by_state\\BC\\4.json",
+          "csv": "by_state\\BC\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\BC\\6.json",
+          "csv": "by_state\\BC\\6.csv",
+          "count": 562,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\BC\\7.json",
+          "csv": "by_state\\BC\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\BC\\8.json",
+          "csv": "by_state\\BC\\8.csv",
+          "count": 819,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\BC\\9.json",
+          "csv": "by_state\\BC\\9.csv",
+          "count": 130,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\BC\\10.json",
+          "csv": "by_state\\BC\\10.csv",
+          "count": 51,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "PE": {
+      "name": "Prince Edward Island",
+      "files": {
+        "4": {
+          "json": "by_state\\PE\\4.json",
+          "csv": "by_state\\PE\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\PE\\6.json",
+          "csv": "by_state\\PE\\6.csv",
+          "count": 1316,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\PE\\7.json",
+          "csv": "by_state\\PE\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\PE\\8.json",
+          "csv": "by_state\\PE\\8.csv",
+          "count": 1962,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\PE\\9.json",
+          "csv": "by_state\\PE\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\PE\\10.json",
+          "csv": "by_state\\PE\\10.csv",
+          "count": 2,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "SK": {
+      "name": "Saskatchewan",
+      "files": {
+        "4": {
+          "json": "by_state\\SK\\4.json",
+          "csv": "by_state\\SK\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\SK\\6.json",
+          "csv": "by_state\\SK\\6.csv",
+          "count": 492,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\SK\\7.json",
+          "csv": "by_state\\SK\\7.csv",
+          "count": 1,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\SK\\8.json",
+          "csv": "by_state\\SK\\8.csv",
+          "count": 511,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\SK\\9.json",
+          "csv": "by_state\\SK\\9.csv",
+          "count": 77,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\SK\\10.json",
+          "csv": "by_state\\SK\\10.csv",
+          "count": 293,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "AB": {
+      "name": "Alberta",
+      "files": {
+        "4": {
+          "json": "by_state\\AB\\4.json",
+          "csv": "by_state\\AB\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\AB\\6.json",
+          "csv": "by_state\\AB\\6.csv",
+          "count": 596,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\AB\\7.json",
+          "csv": "by_state\\AB\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\AB\\8.json",
+          "csv": "by_state\\AB\\8.csv",
+          "count": 177,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\AB\\9.json",
+          "csv": "by_state\\AB\\9.csv",
+          "count": 33,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\AB\\10.json",
+          "csv": "by_state\\AB\\10.csv",
+          "count": 1955,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "NL": {
+      "name": "Newfoundland and Labrador",
+      "files": {
+        "4": {
+          "json": "by_state\\NL\\4.json",
+          "csv": "by_state\\NL\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\NL\\6.json",
+          "csv": "by_state\\NL\\6.csv",
+          "count": 412,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\NL\\7.json",
+          "csv": "by_state\\NL\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\NL\\8.json",
+          "csv": "by_state\\NL\\8.csv",
+          "count": 503,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\NL\\9.json",
+          "csv": "by_state\\NL\\9.csv",
+          "count": 65,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NL\\10.json",
+          "csv": "by_state\\NL\\10.csv",
+          "count": 8,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "NT": {
+      "name": "Northwest Territories",
+      "files": {
+        "4": {
+          "json": "by_state\\NT\\4.json",
+          "csv": "by_state\\NT\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\NT\\6.json",
+          "csv": "by_state\\NT\\6.csv",
+          "count": 26,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\NT\\7.json",
+          "csv": "by_state\\NT\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\NT\\8.json",
+          "csv": "by_state\\NT\\8.csv",
+          "count": 28,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\NT\\9.json",
+          "csv": "by_state\\NT\\9.csv",
+          "count": 19,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\NT\\10.json",
+          "csv": "by_state\\NT\\10.csv",
+          "count": 0,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    },
+    "YT": {
+      "name": "Yukon",
+      "files": {
+        "4": {
+          "json": "by_state\\YT\\4.json",
+          "csv": "by_state\\YT\\4.csv",
+          "count": 1,
+          "level_name": "Provinces/Territories"
+        },
+        "6": {
+          "json": "by_state\\YT\\6.json",
+          "csv": "by_state\\YT\\6.csv",
+          "count": 20,
+          "level_name": "Counties/Regional Districts/Divisions"
+        },
+        "7": {
+          "json": "by_state\\YT\\7.json",
+          "csv": "by_state\\YT\\7.csv",
+          "count": 0,
+          "level_name": "Subdivisions/Municipal Districts/Regional Municipalities"
+        },
+        "8": {
+          "json": "by_state\\YT\\8.json",
+          "csv": "by_state\\YT\\8.csv",
+          "count": 38,
+          "level_name": "Municipalities/Cities/Towns/Villages"
+        },
+        "9": {
+          "json": "by_state\\YT\\9.json",
+          "csv": "by_state\\YT\\9.csv",
+          "count": 0,
+          "level_name": "Wards/Districts"
+        },
+        "10": {
+          "json": "by_state\\YT\\10.json",
+          "csv": "by_state\\YT\\10.csv",
+          "count": 2,
+          "level_name": "Neighbourhoods/Hamlets/Localities"
+        }
+      }
+    }
+  },
+  "attribution": "Data via OpenStreetMap contributors (ODbL). Not affiliated with or endorsed by OpenStreetMap or the OSMF."
+}

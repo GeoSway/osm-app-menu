@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "CO",
+    "state_name": "Colorado",
+    "name": "West–East demarcator",
+    "osm_type": "relation",
+    "osm_id": 19260666,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

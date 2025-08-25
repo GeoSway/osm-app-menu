@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "GA",
+    "state_name": "Georgia",
+    "name": "Georgia",
+    "osm_type": "relation",
+    "osm_id": 161957,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1428",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "GA",
+    "official_name": null
+  }
+]

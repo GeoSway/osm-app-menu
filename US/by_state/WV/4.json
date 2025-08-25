@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "WV",
+    "state_name": "West Virginia",
+    "name": "West Virginia",
+    "osm_type": "relation",
+    "osm_id": 162068,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1371",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "WV",
+    "official_name": null
+  }
+]

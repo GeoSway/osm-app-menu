@@ -1,0 +1,20 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,NJ,New Jersey,,way,557622765,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Holiday City Carefree,way,1132094370,10,Neighborhoods/Hamlets,,,,,Holiday City at Berkeley - the Carefree Community
+US,NJ,New Jersey,Holiday City at Berkeley,way,1133612723,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Holiday City West,way,1133615688,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Silver Ridge Park North,way,1133967243,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Silver Ridge Park Westerly,way,1133968434,10,Neighborhoods/Hamlets,,,,,Silver Ridge Park West - Westerly Extension
+US,NJ,New Jersey,Silver Ridge Park East,way,1133970182,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Silver Ridge Park West,way,1134396851,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Holiday City South,way,1134399398,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Holiday Heights,way,1134401515,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Leisure Village West,way,1135336226,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,High Bar Harbor,relation,15777036,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Loveladies,relation,15777037,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,North Beach,relation,15777038,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Brant Beach,relation,15777039,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Beach Haven Heights,relation,15790366,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Holgate,relation,15790370,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Spray Beach,relation,15790375,10,Neighborhoods/Hamlets,,,,,
+US,NJ,New Jersey,Beach Haven Gardens,relation,15790376,10,Neighborhoods/Hamlets,,,,,

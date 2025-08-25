@@ -1,0 +1,32 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "NV",
+    "state_name": "Nevada",
+    "name": "Laughlin Township",
+    "osm_type": "relation",
+    "osm_id": 19467093,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "NV",
+    "state_name": "Nevada",
+    "name": "Searchlight Township",
+    "osm_type": "relation",
+    "osm_id": 19469351,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

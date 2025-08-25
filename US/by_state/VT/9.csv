@@ -1,0 +1,30 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,VT,Vermont,Derby Line,way,229621034,9,Wards/Districts,Q4207769,,,,
+US,VT,Vermont,,way,654540471,9,Wards/Districts,,,,,
+US,VT,Vermont,Manchester,relation,199056,9,Wards/Districts,Q11690424,,,,
+US,VT,Vermont,Old Bennington,relation,199058,9,Wards/Districts,Q7083461,,,,
+US,VT,Vermont,Albany,relation,199076,9,Wards/Districts,Q974576,,Albany,,Village of Albany
+US,VT,Vermont,Barton,relation,199077,9,Wards/Districts,Q4865586,,,,Village of Barton
+US,VT,Vermont,Derby Center,relation,199078,9,Wards/Districts,Q8354927,,,,
+US,VT,Vermont,Derby Line,relation,199079,9,Wards/Districts,Q4207769,,,,
+US,VT,Vermont,North Troy,relation,199081,9,Wards/Districts,Q7057036,,,,
+US,VT,Vermont,Orleans,relation,199082,9,Wards/Districts,Q958285,,,,Village of Orleans
+US,VT,Vermont,Poultney Village,relation,199084,9,Wards/Districts,Q11700187,,Poultney,,Village of Poultney
+US,VT,Vermont,Jericho,relation,199091,9,Wards/Districts,Q6182143,,,,
+US,VT,Vermont,Wells River,relation,199092,9,Wards/Districts,Q691805,,Wells River Village,,Village of Wells River
+US,VT,Vermont,Newbury Village,relation,199093,9,Wards/Districts,Q7017217,,Newbury,,Village of Newbury
+US,VT,Vermont,Johnson,relation,199098,9,Wards/Districts,Q9012503,,,,Village of Johnson
+US,VT,Vermont,Hyde Park Village,relation,199100,9,Wards/Districts,Q9005587,,Hyde Park,,Village of Hyde Park
+US,VT,Vermont,Cambridge Village,relation,199101,9,Wards/Districts,Q5025347,,Cambridge,,Village of Cambridge
+US,VT,Vermont,Swanton Village,relation,199107,9,Wards/Districts,Q3506443,,,,Village of Swanton
+US,VT,Vermont,Enosburg Falls,relation,199109,9,Wards/Districts,Q3054523,,,,Village of Enosburgh Falls
+US,VT,Vermont,North Bennington,relation,199110,9,Wards/Districts,Q7054162,,,,
+US,VT,Vermont,Morrisville,relation,8893973,9,Wards/Districts,Q285464,,,,Village of Morrisville
+US,VT,Vermont,Jeffersonville,relation,8893974,9,Wards/Districts,Q6175733,,,,Village of Jeffersonville
+US,VT,Vermont,Saxtons River,relation,9068502,9,Wards/Districts,Q7428887,,,,Village of Saxtons River
+US,VT,Vermont,Westminster,relation,9068503,9,Wards/Districts,Q9095819,,,,Village of Westminster
+US,VT,Vermont,Jacksonville,relation,9068507,9,Wards/Districts,Q6117906,,,,Jacksonville
+US,VT,Vermont,Bellows Falls,relation,9068508,9,Wards/Districts,Q816044,,,,Bellows Falls
+US,VT,Vermont,Ludlow Village,relation,9082201,9,Wards/Districts,Q3459825,,Ludlow,,Village of Ludlow
+US,VT,Vermont,Woodstock Village,relation,9082202,9,Wards/Districts,Q8033409,,Woodstock,,Village of Woodstock
+US,VT,Vermont,West Burke,relation,9101557,9,Wards/Districts,Q7984614,,,,Village of West Burke

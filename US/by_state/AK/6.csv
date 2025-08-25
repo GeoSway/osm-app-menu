@@ -1,0 +1,24 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,AK,Alaska,North Coast Regional District,relation,2219688,6,Boroughs/Census Areas,Q277291,,,,
+US,AK,Alaska,Wrangell,relation,2605235,6,Boroughs/Census Areas,Q43983,,,,City and Borough of Wrangell
+US,AK,Alaska,Ketchikan Gateway Borough,relation,2605248,6,Boroughs/Census Areas,Q506064,,,,Ketchikan Gateway Borough
+US,AK,Alaska,Prince of Wales-Hyder,relation,2605249,6,Boroughs/Census Areas,Q18120072,,Prince of Wales-Hyder (CA),,Prince of Wales-Hyder Census Area
+US,AK,Alaska,Aleutians East Borough,relation,2605253,6,Boroughs/Census Areas,Q504371,,,,Aleutians East Borough
+US,AK,Alaska,Anchorage,relation,2605259,6,Boroughs/Census Areas,Q39450,,,,Municipality of Anchorage
+US,AK,Alaska,Bristol Bay Borough,relation,2605265,6,Boroughs/Census Areas,Q501130,,,,Bristol Bay Borough
+US,AK,Alaska,Denali Borough,relation,2605269,6,Boroughs/Census Areas,Q179950,,,,Denali Borough
+US,AK,Alaska,Fairbanks North Star Borough,relation,2605273,6,Boroughs/Census Areas,Q512901,,,,Fairbanks North Star Borough
+US,AK,Alaska,Haines Borough,relation,2605277,6,Boroughs/Census Areas,Q512981,,,,Haines Borough
+US,AK,Alaska,Juneau,relation,2605281,6,Boroughs/Census Areas,Q29445,,,,City and Borough of Juneau
+US,AK,Alaska,Kodiak Island Borough,relation,2605284,6,Boroughs/Census Areas,Q514093,,,,Kodiak Island Borough
+US,AK,Alaska,Lake and Peninsula Borough,relation,2605288,6,Boroughs/Census Areas,Q511679,,,,Lake and Peninsula Borough
+US,AK,Alaska,Matanuska-Susitna Borough,relation,2605292,6,Boroughs/Census Areas,Q512925,,,,Matanuska-Susitna Borough
+US,AK,Alaska,North Slope Borough,relation,2605296,6,Boroughs/Census Areas,Q511806,,,,North Slope Borough
+US,AK,Alaska,Northwest Arctic Borough,relation,2605297,6,Boroughs/Census Areas,Q511723,,,,Northwest Arctic Borough
+US,AK,Alaska,Petersburg Borough,relation,2605308,6,Boroughs/Census Areas,Q25408755,,,,
+US,AK,Alaska,Sitka,relation,2605309,6,Boroughs/Census Areas,Q79804,,,,City and Borough of Sitka
+US,AK,Alaska,Skagway,relation,2605310,6,Boroughs/Census Areas,Q615975,,,,Municipality and Borough of Skagway
+US,AK,Alaska,Yakutat,relation,2605317,6,Boroughs/Census Areas,Q487681,,,,City and Borough of Yakutat
+US,AK,Alaska,Kenai Peninsula Borough,relation,2605325,6,Boroughs/Census Areas,Q512713,,,,Kenai Peninsula Borough
+US,AK,Alaska,Unorganized Borough,relation,7939736,6,Boroughs/Census Areas,Q1474662,,,,
+US,AK,Alaska,Inuvialuit Settlement Region,relation,8309397,6,Boroughs/Census Areas,Q762864,,,,

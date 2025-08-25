@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "QC",
+    "state_name": "Québec",
+    "name": "Québec",
+    "osm_type": "relation",
+    "osm_id": 61549,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q176",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "QC",
+    "official_name": null
+  }
+]

@@ -1,0 +1,7 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+CA,NU,ᓄᓇᕗᑦ Nunavut,ᐃᖃᓗᐃᑦ,way,680609420,6,Counties/Regional Districts/Divisions,,,,,
+CA,NU,ᓄᓇᕗᑦ Nunavut,ᖃᐅᒻᒫᕐᕖᑦ ᐅᑭᐅᖅᑕᖅᑐᒥ ᒥᕐᖑᐃᓯᕐᕕᖓ,way,684694845,6,Counties/Regional Districts/Divisions,,,,,
+CA,NU,ᓄᓇᕗᑦ Nunavut,Iqaluit ᐃᖃᓗᐃᑦ,relation,9445566,6,Counties/Regional Districts/Divisions,Q2030,,,,
+CA,NU,ᓄᓇᕗᑦ Nunavut,Sirmilik National Park,relation,9467054,6,Counties/Regional Districts/Divisions,Q795332,,Sirmilik National Park of Canada,,
+CA,NU,ᓄᓇᕗᑦ Nunavut,Mallikjuaq Territorial Park,relation,9472575,6,Counties/Regional Districts/Divisions,,,,,
+CA,NU,ᓄᓇᕗᑦ Nunavut,Qaummaarviit Territorial Park,relation,9500060,6,Counties/Regional Districts/Divisions,,,,,

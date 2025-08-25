@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "PR",
+    "state_name": "Puerto Rico",
+    "name": null,
+    "osm_type": "way",
+    "osm_id": 320907657,
+    "admin_level": "7",
+    "level_name": "Townships/Boroughs/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

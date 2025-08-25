@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "VT",
+    "state_name": "Vermont",
+    "name": "Vermont",
+    "osm_type": "relation",
+    "osm_id": 60759,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q16551",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "VT",
+    "official_name": null
+  }
+]

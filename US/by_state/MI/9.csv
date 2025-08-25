@@ -1,0 +1,12 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,MI,Michigan,Beverly Hills,relation,134534,9,Wards/Districts,Q851790,,,,
+US,MI,Michigan,Bingham Farms,relation,134535,9,Wards/Districts,Q600593,,,,
+US,MI,Michigan,Franklin,relation,134542,9,Wards/Districts,Q2192222,,,,
+US,MI,Michigan,Wolverine Lake,relation,134575,9,Wards/Districts,Q1882516,,,,
+US,MI,Michigan,Holly,relation,135049,9,Wards/Districts,Q3306145,,,,
+US,MI,Michigan,Lake Orion,relation,135050,9,Wards/Districts,Q3094979,,,,
+US,MI,Michigan,Leonard,relation,135052,9,Wards/Districts,Q2700443,,,,
+US,MI,Michigan,Milford,relation,135053,9,Wards/Districts,Q2400322,,,,
+US,MI,Michigan,Ortonville,relation,135055,9,Wards/Districts,Q1878583,,,,
+US,MI,Michigan,Oxford,relation,135056,9,Wards/Districts,Q2212049,,,,
+US,MI,Michigan,San Souci,relation,12804902,9,Wards/Districts,Q7418939,,,,

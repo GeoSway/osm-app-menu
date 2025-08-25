@@ -1,0 +1,2 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,AS,American Samoa,American Samoa,relation,2177187,4,States/DC/Territories,Q16641,,,AS,

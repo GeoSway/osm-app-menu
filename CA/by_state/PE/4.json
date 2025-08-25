@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "PE",
+    "state_name": "Prince Edward Island",
+    "name": "Prince Edward Island",
+    "osm_type": "relation",
+    "osm_id": 391115,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q1978",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "PE",
+    "official_name": null
+  }
+]

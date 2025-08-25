@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "ME",
+    "state_name": "Maine",
+    "name": "Maine",
+    "osm_type": "relation",
+    "osm_id": 63512,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q724",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "ME",
+    "official_name": null
+  }
+]

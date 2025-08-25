@@ -1,0 +1,3 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,HI,Hawaii,Hawaii Kai,relation,10045916,9,Wards/Districts,,,,,
+US,HI,Hawaii,Kuliouou-Kalani Iki,relation,10142801,9,Wards/Districts,,,,,

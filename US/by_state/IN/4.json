@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "IN",
+    "state_name": "Indiana",
+    "name": "Indiana",
+    "osm_type": "relation",
+    "osm_id": 161816,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1415",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "IN",
+    "official_name": null
+  }
+]

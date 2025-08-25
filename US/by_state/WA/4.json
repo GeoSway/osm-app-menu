@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "WA",
+    "state_name": "Washington",
+    "name": "Washington",
+    "osm_type": "relation",
+    "osm_id": 165479,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1223",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "WA",
+    "official_name": null
+  }
+]

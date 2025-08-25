@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "VA",
+    "state_name": "Virginia",
+    "name": "Virginia",
+    "osm_type": "relation",
+    "osm_id": 224042,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1370",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "VA",
+    "official_name": null
+  }
+]

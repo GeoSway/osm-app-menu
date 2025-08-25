@@ -1,0 +1,2 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,TX,Texas,Texas,relation,114690,4,States/DC/Territories,Q1439,,,TX,

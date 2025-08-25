@@ -1,0 +1,62 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "Socorro Historic Plaza",
+    "osm_type": "relation",
+    "osm_id": 8589627,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "San Miguel Church District",
+    "osm_type": "relation",
+    "osm_id": 8589634,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "Manzanares District",
+    "osm_type": "relation",
+    "osm_id": 8589639,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "NM",
+    "state_name": "New Mexico",
+    "name": "Church-McCutcheon District",
+    "osm_type": "relation",
+    "osm_id": 8589640,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

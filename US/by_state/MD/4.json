@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "MD",
+    "state_name": "Maryland",
+    "name": "Maryland",
+    "osm_type": "relation",
+    "osm_id": 162112,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1391",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "MD",
+    "official_name": null
+  }
+]

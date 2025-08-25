@@ -1,0 +1,5 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,NM,New Mexico,Eastern Navajo Agency / Tʼiistsʼóóz Ńdeeshgizh Bił Hahoodzo biyiʼdi,relation,13694685,7,Townships/Boroughs/Districts,,,,,
+US,NM,New Mexico,Shiprock Agency / Naatʼáanii Nééz Bił Hahoodzo biyiʼdi,relation,13695127,7,Townships/Boroughs/Districts,,,,,
+US,NM,New Mexico,Fort Defiance Agency / Tséhootsooí Bił Hahoodzo biyiʼdi,relation,13695508,7,Townships/Boroughs/Districts,,,,,
+US,NM,New Mexico,Chinle Agency,relation,13695517,7,Townships/Boroughs/Districts,,,,,

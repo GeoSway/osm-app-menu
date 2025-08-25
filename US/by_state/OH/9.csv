@@ -1,0 +1,5 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,OH,Ohio,Aberdeen,way,263159993,9,Wards/Districts,,,,,
+US,OH,Ohio,Punderson State Park,way,1416827936,9,Wards/Districts,,,,,
+US,OH,Ohio,Punderson State Park,way,1416827937,9,Wards/Districts,,,,,
+US,OH,Ohio,Stockyards,relation,7284790,9,Wards/Districts,,,,,

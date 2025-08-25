@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "NE",
+    "state_name": "Nebraska",
+    "name": "Nebraska",
+    "osm_type": "relation",
+    "osm_id": 161648,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1553",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "NE",
+    "official_name": null
+  }
+]

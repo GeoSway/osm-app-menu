@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "SK",
+    "state_name": "Saskatchewan",
+    "name": "St. Brieux",
+    "osm_type": "relation",
+    "osm_id": 11990948,
+    "admin_level": "7",
+    "level_name": "Subdivisions/Municipal Districts/Regional Municipalities",
+    "wikidata": "Q1917109",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

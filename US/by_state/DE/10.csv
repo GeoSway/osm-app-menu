@@ -1,0 +1,10 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,DE,Delaware,Rutledge,way,126308768,10,Neighborhoods/Hamlets,,,,,
+US,DE,Delaware,Kings Croft,way,136727006,10,Neighborhoods/Hamlets,,,,,
+US,DE,Delaware,Moores Acres,way,268413988,10,Neighborhoods/Hamlets,,,,,
+US,DE,Delaware,Tolham Estates,way,268560175,10,Neighborhoods/Hamlets,,,,,
+US,DE,Delaware,Auburn Meadows,way,1105945759,10,Neighborhoods/Hamlets,,,,,
+US,DE,Delaware,Hatteras Hills,way,1174878166,10,Neighborhoods/Hamlets,,,,,
+US,DE,Delaware,Estates of Verona Woods,way,1175796437,10,Neighborhoods/Hamlets,,,,,
+US,DE,Delaware,Kings Croft,relation,1842607,10,Neighborhoods/Hamlets,,,,,
+US,DE,Delaware,Sea Colony,relation,17910574,10,Neighborhoods/Hamlets,,,,,

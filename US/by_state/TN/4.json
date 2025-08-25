@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "TN",
+    "state_name": "Tennessee",
+    "name": "Tennessee",
+    "osm_type": "relation",
+    "osm_id": 161838,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1509",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "TN",
+    "official_name": null
+  }
+]

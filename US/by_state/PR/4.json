@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "PR",
+    "state_name": "Puerto Rico",
+    "name": "Puerto Rico",
+    "osm_type": "relation",
+    "osm_id": 4422604,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1183",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "PR",
+    "official_name": null
+  }
+]

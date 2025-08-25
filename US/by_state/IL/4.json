@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "IL",
+    "state_name": "Illinois",
+    "name": "Illinois",
+    "osm_type": "relation",
+    "osm_id": 122586,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1204",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "IL",
+    "official_name": null
+  }
+]

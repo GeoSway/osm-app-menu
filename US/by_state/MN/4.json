@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "MN",
+    "state_name": "Minnesota",
+    "name": "Minnesota",
+    "osm_type": "relation",
+    "osm_id": 165471,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1527",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "MN",
+    "official_name": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "PE",
+    "state_name": "Prince Edward Island",
+    "name": "Gordons Island",
+    "osm_type": "relation",
+    "osm_id": 12015791,
+    "admin_level": "10",
+    "level_name": "Neighbourhoods/Hamlets/Localities",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "CA",
+    "state_abbr": "PE",
+    "state_name": "Prince Edward Island",
+    "name": "Cherry Island",
+    "osm_type": "relation",
+    "osm_id": 12015792,
+    "admin_level": "10",
+    "level_name": "Neighbourhoods/Hamlets/Localities",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

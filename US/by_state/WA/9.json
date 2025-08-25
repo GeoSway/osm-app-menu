@@ -1,0 +1,62 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "WA",
+    "state_name": "Washington",
+    "name": "North Hill",
+    "osm_type": "relation",
+    "osm_id": 7499595,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "WA",
+    "state_name": "Washington",
+    "name": "Midway",
+    "osm_type": "relation",
+    "osm_id": 7499608,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "WA",
+    "state_name": "Washington",
+    "name": "Pacific Ridge",
+    "osm_type": "relation",
+    "osm_id": 7511152,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "WA",
+    "state_name": "Washington",
+    "name": "Chinatown International District",
+    "osm_type": "relation",
+    "osm_id": 17914850,
+    "admin_level": "9",
+    "level_name": "Wards/Districts",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

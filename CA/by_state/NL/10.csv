@@ -1,0 +1,9 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+CA,NL,Newfoundland and Labrador,Bide Arm,relation,2850341,10,Neighbourhoods/Hamlets/Localities,,,,,
+CA,NL,Newfoundland and Labrador,Roddickton,relation,2850342,10,Neighbourhoods/Hamlets/Localities,,,,,
+CA,NL,Newfoundland and Labrador,Hoylestown,relation,10765945,10,Neighbourhoods/Hamlets/Localities,,,,,
+CA,NL,Newfoundland and Labrador,Glenridge Crescent,relation,10782112,10,Neighbourhoods/Hamlets/Localities,,,,,
+CA,NL,Newfoundland and Labrador,St. Patrick's Park,relation,10782357,10,Neighbourhoods/Hamlets/Localities,,,,,
+CA,NL,Newfoundland and Labrador,Churchill Park neighbourhood,relation,10794334,10,Neighbourhoods/Hamlets/Localities,,,,,
+CA,NL,Newfoundland and Labrador,L'il Bride,relation,10809356,10,Neighbourhoods/Hamlets/Localities,,,,,
+CA,NL,Newfoundland and Labrador,The Blocks,relation,10809386,10,Neighbourhoods/Hamlets/Localities,,,,,

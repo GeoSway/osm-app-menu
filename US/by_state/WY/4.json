@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "WY",
+    "state_name": "Wyoming",
+    "name": "Wyoming",
+    "osm_type": "relation",
+    "osm_id": 161991,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1214",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "WY",
+    "official_name": null
+  }
+]

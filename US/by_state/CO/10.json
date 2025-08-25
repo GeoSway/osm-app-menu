@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "CO",
+    "state_name": "Colorado",
+    "name": "Interlocken",
+    "osm_type": "relation",
+    "osm_id": 16398914,
+    "admin_level": "10",
+    "level_name": "Neighborhoods/Hamlets",
+    "wikidata": null,
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

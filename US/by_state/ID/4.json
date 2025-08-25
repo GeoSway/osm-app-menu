@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "ID",
+    "state_name": "Idaho",
+    "name": "Idaho",
+    "osm_type": "relation",
+    "osm_id": 162116,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1221",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "ID",
+    "official_name": null
+  }
+]

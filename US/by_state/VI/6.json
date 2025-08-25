@@ -1,0 +1,32 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "VI",
+    "state_name": "United States Virgin Islands",
+    "name": "Saint Croix District",
+    "osm_type": "relation",
+    "osm_id": 285441,
+    "admin_level": "6",
+    "level_name": "Counties/County-equivalents",
+    "wikidata": "Q20852568",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  },
+  {
+    "country": "US",
+    "state_abbr": "VI",
+    "state_name": "United States Virgin Islands",
+    "name": "Saint Thomas - Saint John District",
+    "osm_type": "relation",
+    "osm_id": 8500768,
+    "admin_level": "6",
+    "level_name": "Counties/County-equivalents",
+    "wikidata": "Q20851010",
+    "fips": null,
+    "alt_name": null,
+    "short_name": null,
+    "official_name": null
+  }
+]

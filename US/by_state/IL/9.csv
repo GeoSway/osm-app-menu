@@ -1,0 +1,8 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,IL,Illinois,1st Ward,way,563173757,9,Wards/Districts,,,,,
+US,IL,Illinois,1st Ward,way,773056265,9,Wards/Districts,,,,,
+US,IL,Illinois,Golf,relation,123424,9,Wards/Districts,Q2054459,,,,
+US,IL,Illinois,2nd Ward,relation,9538480,9,Wards/Districts,,,,,
+US,IL,Illinois,1st Ward,relation,9538481,9,Wards/Districts,,,,,
+US,IL,Illinois,4th Ward,relation,9538482,9,Wards/Districts,,,,,
+US,IL,Illinois,3rd Ward,relation,9538483,9,Wards/Districts,,,,,

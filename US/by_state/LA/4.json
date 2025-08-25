@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "LA",
+    "state_name": "Louisiana",
+    "name": "Louisiana",
+    "osm_type": "relation",
+    "osm_id": 224922,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1588",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "LA",
+    "official_name": null
+  }
+]

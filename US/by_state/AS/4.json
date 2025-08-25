@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "AS",
+    "state_name": "American Samoa",
+    "name": "American Samoa",
+    "osm_type": "relation",
+    "osm_id": 2177187,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q16641",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "AS",
+    "official_name": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "BC",
+    "state_name": "British Columbia",
+    "name": "British Columbia",
+    "osm_type": "relation",
+    "osm_id": 390867,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q1973",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "BC",
+    "official_name": null
+  }
+]

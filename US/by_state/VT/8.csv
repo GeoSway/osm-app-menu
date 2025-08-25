@@ -1,0 +1,822 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,VT,Vermont,Barre City Limits,way,39208466,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,Barre City Limits,way,39208508,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,Barre City Limits,way,39208510,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,39208631,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,39208807,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,39208809,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,39209882,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,51250853,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,56214354,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,56214483,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,58472666,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,58472667,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149637161,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149637162,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149637165,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149641700,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149641710,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149641712,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149641716,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149641719,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680762,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680772,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680774,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680776,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680778,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680779,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680784,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680785,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680786,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680789,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680790,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680794,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680796,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680797,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680799,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680800,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680802,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680803,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680804,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680806,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680809,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680814,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149680828,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149695554,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149695555,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149695557,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149695559,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149695560,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149695561,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149695562,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697568,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697574,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697575,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697576,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697577,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697578,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697579,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697580,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,149697581,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150435845,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468663,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468665,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468666,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468667,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468668,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468669,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468670,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468671,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150468672,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150583570,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150583571,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150583572,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150583573,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150583575,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612711,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612719,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612720,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612721,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612722,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612725,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612726,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612727,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612729,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612732,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612733,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612734,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612741,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612745,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612746,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612748,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612752,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612755,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612760,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612762,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612764,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612769,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612771,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612773,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612774,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612776,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612778,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612780,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612781,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612787,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612788,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,150612792,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,174387008,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,174681586,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175193084,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175193087,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175309099,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175309102,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175319967,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175319969,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175324219,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175324225,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175325598,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175325599,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175327730,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175334257,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175352631,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175353192,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175353194,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175353198,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175353200,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175353429,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175353432,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175354782,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175354786,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175355380,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,175355574,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229240758,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229394690,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229394691,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229394695,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229394696,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229394698,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397323,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397325,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397326,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397327,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397328,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397329,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397330,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397331,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397332,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397334,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397338,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229397339,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229398039,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229398040,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229398042,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470025,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470027,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470028,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470029,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470030,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470031,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470032,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470033,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470034,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470035,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470036,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470037,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470039,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470040,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470043,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229470044,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481229,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481232,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481233,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481234,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481235,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481236,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481237,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481239,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481240,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481241,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481243,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481244,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481245,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481246,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481247,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481249,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481250,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481251,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481252,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481253,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481255,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481256,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481257,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481259,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481262,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481265,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481267,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229481277,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229482153,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229482157,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229482158,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229482160,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229482162,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229482163,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229485878,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229485880,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229485881,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229485884,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229621022,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229621023,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229621027,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,229621031,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,230772790,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,230772791,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,297428670,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,323327175,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,467317911,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561029,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561034,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561035,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561036,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561041,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561042,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561043,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561044,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561045,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561058,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640561061,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640954821,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640954823,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640954824,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640957323,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640957324,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640958910,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640961953,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640961954,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640961955,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640963045,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640963046,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640964457,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968520,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968521,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968522,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968523,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968524,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968526,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968527,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968528,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968529,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640968530,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640971570,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640971571,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986796,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986797,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986798,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986799,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986800,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986801,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986802,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986803,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986805,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986806,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986808,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986809,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986810,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986811,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986814,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986815,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986816,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986817,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986818,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,640986819,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052073,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052074,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052075,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052076,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052077,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052078,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052079,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052080,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052081,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052082,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052083,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052084,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052085,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052086,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052087,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052088,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052089,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052090,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052091,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052092,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052093,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052094,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052095,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052096,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052097,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052098,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052099,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052100,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052101,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052102,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052103,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052104,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052105,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052106,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052107,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052108,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052109,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052110,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052111,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052112,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052113,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052114,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052115,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052116,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052117,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052118,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052119,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052120,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052121,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052123,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641052124,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641410535,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645186,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645187,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645188,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645189,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645190,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645191,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645192,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645193,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645194,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645195,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645196,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645197,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645198,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645199,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645202,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645203,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645204,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645205,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645207,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645208,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645209,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645211,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645212,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645213,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641645214,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641707001,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641707002,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,Barre City Limits,way,641707012,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,Barre City Limits,way,641707013,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641707014,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641707017,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641707020,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641778999,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779001,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779002,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779003,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779004,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779005,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779007,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779008,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779009,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779010,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779011,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779012,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779013,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779014,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779015,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779016,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779018,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779019,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779021,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,641779022,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372612,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372620,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372623,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372626,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372630,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372632,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372636,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372638,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372640,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372642,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372643,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372644,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372645,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372646,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372647,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372648,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372649,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372650,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372651,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372652,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372653,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372654,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372655,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372656,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372657,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372658,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372659,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372660,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372661,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372662,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372663,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372665,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372666,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372667,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372668,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372669,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372670,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372671,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372672,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372673,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372674,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372675,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372676,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372677,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372679,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642372686,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745776,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745778,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745780,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745781,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745782,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745783,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745785,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745786,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745787,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745788,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745789,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745790,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,642745791,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,651580074,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,651580075,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,652967491,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,652967492,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,652967495,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,652967503,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,652967504,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540472,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540473,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540474,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540475,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540476,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540477,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540478,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540481,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540482,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540483,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540484,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540485,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540486,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540487,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540488,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540489,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540490,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540491,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540493,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540494,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540495,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540496,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540498,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540499,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540500,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540501,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540502,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540503,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654540504,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654593661,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654593662,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654593664,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654593666,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654593667,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654593668,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654593669,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616671,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616672,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616674,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616675,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616676,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616677,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616678,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616679,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616680,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616681,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616682,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616684,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616685,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616686,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616687,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616688,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616689,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616690,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616691,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,654616692,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,824644213,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,978522080,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1071773200,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1192129137,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1323951178,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1327450865,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1327450866,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1327761203,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1327934355,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1327934356,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1327962413,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1327962414,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333570945,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333570946,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333570948,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333618606,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333618607,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333620169,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333620170,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333662763,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1333662764,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1334605940,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1334605941,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1334608852,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1334966763,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1334966764,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1334982562,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1334982563,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1334982565,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335130767,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335130768,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335130769,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335130770,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335180849,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335180850,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335183957,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335185334,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335185335,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335198890,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335206251,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335206252,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335271220,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335271221,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335781133,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335781134,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335836475,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335838206,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335838207,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335838209,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335838210,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335845309,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335845311,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335845312,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335852814,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335877440,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1335877441,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1336263420,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1336263421,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1336285063,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1336290581,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1336290582,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1336518575,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1336518576,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1389345943,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1389345944,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1411043918,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,,way,1411356127,8,Cities/Towns/Villages/Municipalities,,,,,
+US,VT,Vermont,Barre,relation,199040,8,Cities/Towns/Villages/Municipalities,Q26071,,Barre City,,City of Barre
+US,VT,Vermont,Winooski,relation,199051,8,Cities/Towns/Villages/Municipalities,Q993232,,,,
+US,VT,Vermont,Essex Junction,relation,199053,8,Cities/Towns/Villages/Municipalities,Q648356,,,,City of Essex Junction
+US,VT,Vermont,South Burlington,relation,199070,8,Cities/Towns/Villages/Municipalities,Q26065,,,,City of South Burlington
+US,VT,Vermont,Burlington,relation,199071,8,Cities/Towns/Villages/Municipalities,Q31058,,,,
+US,VT,Vermont,Newport City,relation,199080,8,Cities/Towns/Villages/Municipalities,Q1012011,,,,City of Newport
+US,VT,Vermont,Rutland City,relation,199083,8,Cities/Towns/Villages/Municipalities,Q25893,,Rutland,,City of Rutland
+US,VT,Vermont,Montpelier,relation,199088,8,Cities/Towns/Villages/Municipalities,Q26426,,,,City of Montpelier
+US,VT,Vermont,Vergennes,relation,199094,8,Cities/Towns/Villages/Municipalities,Q1004225,,,,City of Vergennes
+US,VT,Vermont,Saint Albans City,relation,199108,8,Cities/Towns/Villages/Municipalities,Q1787559,,Saint Albans,St. Albans City,City of Saint Albans
+US,VT,Vermont,Brattleboro,relation,2017153,8,Cities/Towns/Villages/Municipalities,Q899813,,,,Town of Brattleboro
+US,VT,Vermont,Vernon,relation,2017154,8,Cities/Towns/Villages/Municipalities,Q2305724,,,,Town of Vernon
+US,VT,Vermont,Guilford,relation,2017226,8,Cities/Towns/Villages/Municipalities,Q1303191,,,,Town of Guilford
+US,VT,Vermont,Halifax,relation,2017227,8,Cities/Towns/Villages/Municipalities,Q1571057,,,,Town of Halifax
+US,VT,Vermont,Whitingham,relation,2017228,8,Cities/Towns/Villages/Municipalities,Q3450876,,,,Town of Whitingham
+US,VT,Vermont,Dover,relation,2017758,8,Cities/Towns/Villages/Municipalities,Q1252918,,,,Town of Dover
+US,VT,Vermont,Jamaica,relation,2017759,8,Cities/Towns/Villages/Municipalities,Q3450853,,,,Town of Jamaica
+US,VT,Vermont,Londonderry,relation,2017760,8,Cities/Towns/Villages/Municipalities,Q3709175,,,,Town of Londonderry
+US,VT,Vermont,Marlboro,relation,2017761,8,Cities/Towns/Villages/Municipalities,Q1902003,,,,Town of Marlboro
+US,VT,Vermont,Newfane,relation,2017762,8,Cities/Towns/Villages/Municipalities,Q127187,,,,Town of Newfane
+US,VT,Vermont,Somerset,relation,2017763,8,Cities/Towns/Villages/Municipalities,Q3475688,,,,
+US,VT,Vermont,Stratton,relation,2017764,8,Cities/Towns/Villages/Municipalities,Q3475749,,,,
+US,VT,Vermont,Townshend,relation,2017765,8,Cities/Towns/Villages/Municipalities,Q516557,,,,Town of Townshend
+US,VT,Vermont,Wardsboro,relation,2017766,8,Cities/Towns/Villages/Municipalities,Q3448347,,,,Town of Wardsboro
+US,VT,Vermont,Wilmington,relation,2017767,8,Cities/Towns/Villages/Municipalities,Q370101,,,,Town of Wilmington
+US,VT,Vermont,Athens,relation,2017801,8,Cities/Towns/Villages/Municipalities,Q755427,,,,Town of Athens
+US,VT,Vermont,Grafton,relation,2017802,8,Cities/Towns/Villages/Municipalities,Q1541896,,,,Town of Grafton
+US,VT,Vermont,Windham,relation,2017803,8,Cities/Towns/Villages/Municipalities,Q3475819,,,,Town of Windham
+US,VT,Vermont,Brookline,relation,2017819,8,Cities/Towns/Villages/Municipalities,Q929233,,,,Town of Brookline
+US,VT,Vermont,Dummerston,relation,2017820,8,Cities/Towns/Villages/Municipalities,Q1265111,,,,Town of Dummerston
+US,VT,Vermont,Putney,relation,2017821,8,Cities/Towns/Villages/Municipalities,Q1439416,,,,Town of Putney
+US,VT,Vermont,Rockingham,relation,2017822,8,Cities/Towns/Villages/Municipalities,Q1621936,,,,Town of Rockingham
+US,VT,Vermont,Westminster,relation,2017823,8,Cities/Towns/Villages/Municipalities,Q2121414,,,,Town of Westminster
+US,VT,Vermont,Springfield,relation,2027202,8,Cities/Towns/Villages/Municipalities,Q40212,,,,Town of Springfield
+US,VT,Vermont,Baltimore,relation,2027461,8,Cities/Towns/Villages/Municipalities,Q3475794,,,,Town of Baltimore
+US,VT,Vermont,Cavendish,relation,2027462,8,Cities/Towns/Villages/Municipalities,Q2605450,,,,Town of Cavendish
+US,VT,Vermont,Chester,relation,2027463,8,Cities/Towns/Villages/Municipalities,Q594920,,,,Town of Chester
+US,VT,Vermont,Weathersfield,relation,2027464,8,Cities/Towns/Villages/Municipalities,Q2121536,,,,Town of Weathersfield
+US,VT,Vermont,Andover,relation,2030035,8,Cities/Towns/Villages/Municipalities,Q3450729,,,,Town of Andover
+US,VT,Vermont,Ludlow,relation,2030036,8,Cities/Towns/Villages/Municipalities,Q4555213,,,,Town of Ludlow
+US,VT,Vermont,Weston,relation,2030037,8,Cities/Towns/Villages/Municipalities,Q515736,,,,Town of Weston
+US,VT,Vermont,Barnard,relation,2030451,8,Cities/Towns/Villages/Municipalities,Q3447648,,,,Town of Barnard
+US,VT,Vermont,Bethel,relation,2030452,8,Cities/Towns/Villages/Municipalities,Q3447829,,,,Town of Bethel
+US,VT,Vermont,Bridgewater,relation,2030453,8,Cities/Towns/Villages/Municipalities,Q3447795,,,,Town of Bridgewater
+US,VT,Vermont,Hartford,relation,2030454,8,Cities/Towns/Villages/Municipalities,Q1587168,,,,Town of Hartford
+US,VT,Vermont,Hartland,relation,2030455,8,Cities/Towns/Villages/Municipalities,Q1587245,,,,Town of Hartland
+US,VT,Vermont,Norwich,relation,2030456,8,Cities/Towns/Villages/Municipalities,Q1510465,,,,Town of Norwich
+US,VT,Vermont,Plymouth,relation,2030457,8,Cities/Towns/Villages/Municipalities,Q1787251,,,,Town of Plymouth
+US,VT,Vermont,Pomfret,relation,2030458,8,Cities/Towns/Villages/Municipalities,Q3475877,,,,Town of Pomfret
+US,VT,Vermont,Reading,relation,2030459,8,Cities/Towns/Villages/Municipalities,Q3448267,,,,Town of Reading
+US,VT,Vermont,Rochester,relation,2030460,8,Cities/Towns/Villages/Municipalities,Q3447851,,,,Town of Rochester
+US,VT,Vermont,Royalton,relation,2030461,8,Cities/Towns/Villages/Municipalities,Q2881960,,,,Town of Royalton
+US,VT,Vermont,Sharon,relation,2030462,8,Cities/Towns/Villages/Municipalities,Q584609,,,,Town of Sharon
+US,VT,Vermont,Stockbridge,relation,2030463,8,Cities/Towns/Villages/Municipalities,Q3475769,,,,Town of Stockbridge
+US,VT,Vermont,West Windsor,relation,2030464,8,Cities/Towns/Villages/Municipalities,Q2121542,,,,Town of West Windsor
+US,VT,Vermont,Windsor,relation,2030465,8,Cities/Towns/Villages/Municipalities,Q1939361,,,,Town of Windsor
+US,VT,Vermont,Woodstock,relation,2030466,8,Cities/Towns/Villages/Municipalities,Q1012397,,,,Town of Woodstock
+US,VT,Vermont,Saint George,relation,2328383,8,Cities/Towns/Villages/Municipalities,Q1967687,,,,
+US,VT,Vermont,Orwell,relation,2331000,8,Cities/Towns/Villages/Municipalities,Q1894250,,,,Town of Orwell
+US,VT,Vermont,Shoreham,relation,2333789,8,Cities/Towns/Villages/Municipalities,Q1773335,,,,Town of Shoreham
+US,VT,Vermont,Benson,relation,2333891,8,Cities/Towns/Villages/Municipalities,Q2972244,,,,Town of Benson
+US,VT,Vermont,West Haven,relation,2341029,8,Cities/Towns/Villages/Municipalities,Q3475668,,,,Town of West Haven
+US,VT,Vermont,Fair Haven,relation,2342161,8,Cities/Towns/Villages/Municipalities,Q515582,,,,Town of Fair Haven
+US,VT,Vermont,Poultney,relation,2342259,8,Cities/Towns/Villages/Municipalities,Q428418,,,,Town of Poultney
+US,VT,Vermont,Wells,relation,2342276,8,Cities/Towns/Villages/Municipalities,Q3450994,,,,Town of Wells
+US,VT,Vermont,Pawlet,relation,2342292,8,Cities/Towns/Villages/Municipalities,Q3447840,,,,Town of Pawlet
+US,VT,Vermont,Rupert,relation,2342303,8,Cities/Towns/Villages/Municipalities,Q1941446,,,,
+US,VT,Vermont,Sandgate,relation,2342357,8,Cities/Towns/Villages/Municipalities,Q1941770,,,,
+US,VT,Vermont,Arlington,relation,2342518,8,Cities/Towns/Villages/Municipalities,Q675558,,,,
+US,VT,Vermont,Shaftsbury,relation,2342526,8,Cities/Towns/Villages/Municipalities,Q945602,,,,
+US,VT,Vermont,Bennington,relation,2342528,8,Cities/Towns/Villages/Municipalities,Q817921,,,,
+US,VT,Vermont,Pownal,relation,2342566,8,Cities/Towns/Villages/Municipalities,Q1940266,,,,
+US,VT,Vermont,Stamford,relation,2342580,8,Cities/Towns/Villages/Municipalities,Q1942888,,,,
+US,VT,Vermont,Woodford,relation,2342582,8,Cities/Towns/Villages/Municipalities,Q1943692,,,,
+US,VT,Vermont,Swanton,relation,3073724,8,Cities/Towns/Villages/Municipalities,Q2047233,,,,Town of Swanton
+US,VT,Vermont,Alburgh,relation,3075816,8,Cities/Towns/Villages/Municipalities,Q125722,,,,
+US,VT,Vermont,Grand Isle,relation,3075817,8,Cities/Towns/Villages/Municipalities,Q935257,,,,
+US,VT,Vermont,Isle La Motte,relation,3075818,8,Cities/Towns/Villages/Municipalities,Q1674261,,,,
+US,VT,Vermont,North Hero,relation,3075819,8,Cities/Towns/Villages/Municipalities,Q913819,,,,
+US,VT,Vermont,South Hero,relation,3075820,8,Cities/Towns/Villages/Municipalities,Q1608619,,,,
+US,VT,Vermont,Averill,relation,3075867,8,Cities/Towns/Villages/Municipalities,Q1973943,,,,
+US,VT,Vermont,Avery's Gore,relation,3075868,8,Cities/Towns/Villages/Municipalities,Q1974105,,Averys Gore,,
+US,VT,Vermont,Canaan,relation,3075869,8,Cities/Towns/Villages/Municipalities,Q1976018,,,,
+US,VT,Vermont,Norton,relation,3075870,8,Cities/Towns/Villages/Municipalities,Q587817,,,,
+US,VT,Vermont,Warner's Grant,relation,3075871,8,Cities/Towns/Villages/Municipalities,Q1988575,,Warners Grant;Warners Gore,,
+US,VT,Vermont,Warren's Gore,relation,3075872,8,Cities/Towns/Villages/Municipalities,Q1988684,,Warrens Gore,,
+US,VT,Vermont,Lemington,relation,3075877,8,Cities/Towns/Villages/Municipalities,Q1985696,,,,
+US,VT,Vermont,Brighton,relation,3076751,8,Cities/Towns/Villages/Municipalities,Q1975372,,,,
+US,VT,Vermont,Concord,relation,3076752,8,Cities/Towns/Villages/Municipalities,Q1124066,,,,Town of Concord
+US,VT,Vermont,East Haven,relation,3076753,8,Cities/Towns/Villages/Municipalities,Q1977565,,,,Town of East Haven
+US,VT,Vermont,Granby,relation,3076754,8,Cities/Towns/Villages/Municipalities,Q3475803,,,,Town of Granby
+US,VT,Vermont,Guildhall,relation,3076755,8,Cities/Towns/Villages/Municipalities,Q1978874,,,,Town of Guildhall
+US,VT,Vermont,Lewis,relation,3076756,8,Cities/Towns/Villages/Municipalities,Q1986821,,,,
+US,VT,Vermont,Lunenburg,relation,3076757,8,Cities/Towns/Villages/Municipalities,Q1987253,,,,Town of Lunenburg
+US,VT,Vermont,Victory,relation,3076758,8,Cities/Towns/Villages/Municipalities,Q1988355,,,,Town of Victory
+US,VT,Vermont,Brunswick,relation,3077035,8,Cities/Towns/Villages/Municipalities,Q239128,,,,
+US,VT,Vermont,Burke,relation,3077036,8,Cities/Towns/Villages/Municipalities,Q1016371,,,,Town of Burke
+US,VT,Vermont,Danville,relation,3077037,8,Cities/Towns/Villages/Municipalities,Q1165177,,,,Town of Danville
+US,VT,Vermont,Ferdinand,relation,3077038,8,Cities/Towns/Villages/Municipalities,Q1978632,,,,
+US,VT,Vermont,Kirby,relation,3077039,8,Cities/Towns/Villages/Municipalities,Q1948170,,,,Town of Kirby
+US,VT,Vermont,Lyndon,relation,3077040,8,Cities/Towns/Villages/Municipalities,Q1388877,,,,Town of Lyndon
+US,VT,Vermont,Maidstone,relation,3077041,8,Cities/Towns/Villages/Municipalities,Q1987599,,,,
+US,VT,Vermont,Newark,relation,3077042,8,Cities/Towns/Villages/Municipalities,Q1943656,,,,Town of Newark
+US,VT,Vermont,Saint Johnsbury,relation,3077043,8,Cities/Towns/Villages/Municipalities,Q1014607,,,St. Johnsbury,Town of Saint Johnsbury
+US,VT,Vermont,Sheffield,relation,3077044,8,Cities/Towns/Villages/Municipalities,Q1950928,,,,Town of Sheffield
+US,VT,Vermont,Stannard,relation,3077045,8,Cities/Towns/Villages/Municipalities,Q1493781,,,,Town of Stannard
+US,VT,Vermont,Sutton,relation,3077046,8,Cities/Towns/Villages/Municipalities,Q1951793,,,,Town of Sutton
+US,VT,Vermont,Walden,relation,3077047,8,Cities/Towns/Villages/Municipalities,Q1952608,,,,Town of Walden
+US,VT,Vermont,Wheelock,relation,3077048,8,Cities/Towns/Villages/Municipalities,Q1822271,,,,Town of Wheelock
+US,VT,Vermont,Cabot,relation,3077080,8,Cities/Towns/Villages/Municipalities,Q2932446,,,,Town of Cabot
+US,VT,Vermont,Hardwick,relation,3077081,8,Cities/Towns/Villages/Municipalities,Q1398082,,,,Town of Hardwick
+US,VT,Vermont,Marshfield,relation,3077082,8,Cities/Towns/Villages/Municipalities,Q3461515,,,,Town of Marshfield
+US,VT,Vermont,Highgate,relation,3077109,8,Cities/Towns/Villages/Municipalities,Q538976,,,,Town of Highgate
+US,VT,Vermont,Saint Albans Town,relation,3077110,8,Cities/Towns/Villages/Municipalities,Q968060,,Saint Albans,St. Albans Town,Town of Saint Albans
+US,VT,Vermont,Derby,relation,3078421,8,Cities/Towns/Villages/Municipalities,Q1199967,,,,
+US,VT,Vermont,Holland,relation,3078422,8,Cities/Towns/Villages/Municipalities,Q2971418,,,,
+US,VT,Vermont,Westmore,relation,3094786,8,Cities/Towns/Villages/Municipalities,Q2305692,,,,Town of Westmore
+US,VT,Vermont,Woodbury,relation,6894689,8,Cities/Towns/Villages/Municipalities,Q3475788,,,,Town of Woodbury
+US,VT,Vermont,Troy,relation,8889794,8,Cities/Towns/Villages/Municipalities,Q2744193,,,,Town of Troy
+US,VT,Vermont,Newport Town,relation,8889813,8,Cities/Towns/Villages/Municipalities,Q677144,,Newport Center,,Town of Newport
+US,VT,Vermont,Jay,relation,8889840,8,Cities/Towns/Villages/Municipalities,Q2971740,,,,Town of Jay
+US,VT,Vermont,Richford,relation,8889891,8,Cities/Towns/Villages/Municipalities,Q2151175,,,,Town of Richford
+US,VT,Vermont,Berkshire,relation,8889913,8,Cities/Towns/Villages/Municipalities,Q820960,,,,Town of Berkshire
+US,VT,Vermont,Franklin,relation,8889921,8,Cities/Towns/Villages/Municipalities,Q1445178,,,,Town of Franklin
+US,VT,Vermont,Fairfield,relation,8889972,8,Cities/Towns/Villages/Municipalities,Q1393235,,,,Town of Fairfield
+US,VT,Vermont,Bakersfield,relation,8889973,8,Cities/Towns/Villages/Municipalities,Q804403,,,,Town of Bakersfield
+US,VT,Vermont,Montgomery,relation,8889974,8,Cities/Towns/Villages/Municipalities,Q1946270,,,,Town of Montgomery
+US,VT,Vermont,Enosburgh,relation,8889975,8,Cities/Towns/Villages/Municipalities,Q1343620,,,,Town of Enosburgh
+US,VT,Vermont,Sheldon,relation,8889976,8,Cities/Towns/Villages/Municipalities,Q1973448,,,,Town of Sheldon
+US,VT,Vermont,Fletcher,relation,8890033,8,Cities/Towns/Villages/Municipalities,Q1266094,,,,Town of Fletcher
+US,VT,Vermont,Georgia,relation,8890034,8,Cities/Towns/Villages/Municipalities,Q1343132,,,,Town of Georgia
+US,VT,Vermont,Fairfax,relation,8890035,8,Cities/Towns/Villages/Municipalities,Q1393213,,,,Town of Fairfax
+US,VT,Vermont,Elmore,relation,8890109,8,Cities/Towns/Villages/Municipalities,Q2050719,,,,Town of Elmore
+US,VT,Vermont,Morristown,relation,8890110,8,Cities/Towns/Villages/Municipalities,Q1948575,,,,Town of Morristown
+US,VT,Vermont,Hyde Park,relation,8890111,8,Cities/Towns/Villages/Municipalities,Q2051042,,,,Town of Hyde Park
+US,VT,Vermont,Johnson,relation,8890112,8,Cities/Towns/Villages/Municipalities,Q2057226,,,,Town of Johnson
+US,VT,Vermont,Eden,relation,8890113,8,Cities/Towns/Villages/Municipalities,Q510896,,,,Town of Eden
+US,VT,Vermont,Belvidere,relation,8890114,8,Cities/Towns/Villages/Municipalities,Q2049372,,,,Town of Belvidere
+US,VT,Vermont,Waterville,relation,8890115,8,Cities/Towns/Villages/Municipalities,Q2058158,,,,Town of Waterville
+US,VT,Vermont,Cambridge,relation,8890116,8,Cities/Towns/Villages/Municipalities,Q1028276,,,,Town of Cambridge
+US,VT,Vermont,Stowe,relation,8890137,8,Cities/Towns/Villages/Municipalities,Q550498,,,,Town of Stowe
+US,VT,Vermont,Whiting,relation,8890575,8,Cities/Towns/Villages/Municipalities,Q1898618,,,,Town of Whiting
+US,VT,Vermont,Ripton,relation,8890576,8,Cities/Towns/Villages/Municipalities,Q1894816,,,,Town of Ripton
+US,VT,Vermont,Granville,relation,8890577,8,Cities/Towns/Villages/Municipalities,Q1876087,,,,Town of Granville
+US,VT,Vermont,Hancock,relation,8890578,8,Cities/Towns/Villages/Municipalities,Q1574301,,,,Town of Hancock
+US,VT,Vermont,Goshen,relation,8890579,8,Cities/Towns/Villages/Municipalities,Q1875742,,,,Town of Goshen
+US,VT,Vermont,Leicester,relation,8890580,8,Cities/Towns/Villages/Municipalities,Q1877569,,,,Town of Leicester
+US,VT,Vermont,Salisbury,relation,8890581,8,Cities/Towns/Villages/Municipalities,Q1896512,,,,Town of Salisbury
+US,VT,Vermont,Cornwall,relation,8890582,8,Cities/Towns/Villages/Municipalities,Q1874151,,,,Town of Cornwall
+US,VT,Vermont,Middlebury,relation,8890583,8,Cities/Towns/Villages/Municipalities,Q1012392,,,,Town of Middlebury
+US,VT,Vermont,Weybridge,relation,8890584,8,Cities/Towns/Villages/Municipalities,Q1550726,,,,Town of Weybridge
+US,VT,Vermont,Waltham,relation,8890585,8,Cities/Towns/Villages/Municipalities,Q1898137,,,,Town of Waltham
+US,VT,Vermont,New Haven,relation,8890586,8,Cities/Towns/Villages/Municipalities,Q1893816,,,,Town of New Haven
+US,VT,Vermont,Bristol,relation,8890587,8,Cities/Towns/Villages/Municipalities,Q1871330,,,,Town of Bristol
+US,VT,Vermont,Lincoln,relation,8890588,8,Cities/Towns/Villages/Municipalities,Q1892234,,,,Town of Lincoln
+US,VT,Vermont,Starksboro,relation,8890589,8,Cities/Towns/Villages/Municipalities,Q1897250,,,,Town of Starksboro
+US,VT,Vermont,Monkton,relation,8890590,8,Cities/Towns/Villages/Municipalities,Q1893148,,,,Town of Monkton
+US,VT,Vermont,Ferrisburgh,relation,8890591,8,Cities/Towns/Villages/Municipalities,Q1874592,,,,Town of Ferrisburgh
+US,VT,Vermont,Panton,relation,8890592,8,Cities/Towns/Villages/Municipalities,Q1894544,,,,Town of Panton
+US,VT,Vermont,Addison,relation,8890593,8,Cities/Towns/Villages/Municipalities,Q353095,,,,Town of Addison
+US,VT,Vermont,Bridport,relation,8890594,8,Cities/Towns/Villages/Municipalities,Q1870856,,,,Town of Bridport
+US,VT,Vermont,Shelburne,relation,8897010,8,Cities/Towns/Villages/Municipalities,Q1018289,,,,
+US,VT,Vermont,Charlotte,relation,8897011,8,Cities/Towns/Villages/Municipalities,Q1957159,,,,
+US,VT,Vermont,Hinesburg,relation,8897012,8,Cities/Towns/Villages/Municipalities,Q1619395,,,,
+US,VT,Vermont,Williston,relation,8897013,8,Cities/Towns/Villages/Municipalities,Q1819030,,,,
+US,VT,Vermont,Buels Gore,relation,8897014,8,Cities/Towns/Villages/Municipalities,Q1955538,,,,
+US,VT,Vermont,Huntington,relation,8897015,8,Cities/Towns/Villages/Municipalities,Q580341,,,,
+US,VT,Vermont,Richmond,relation,8897016,8,Cities/Towns/Villages/Municipalities,Q1965047,,,,
+US,VT,Vermont,Bolton,relation,8897017,8,Cities/Towns/Villages/Municipalities,Q1955332,,,,
+US,VT,Vermont,Jericho,relation,8897018,8,Cities/Towns/Villages/Municipalities,Q1016601,,,,
+US,VT,Vermont,Underhill,relation,8897019,8,Cities/Towns/Villages/Municipalities,Q1968018,,,,
+US,VT,Vermont,Westford,relation,8897020,8,Cities/Towns/Villages/Municipalities,Q1968338,,,,
+US,VT,Vermont,Milton,relation,8897021,8,Cities/Towns/Villages/Municipalities,Q1789757,,,,
+US,VT,Vermont,Colchester,relation,8897022,8,Cities/Towns/Villages/Municipalities,Q978718,,,,Town of Colchester
+US,VT,Vermont,Essex,relation,8897023,8,Cities/Towns/Villages/Municipalities,Q1004241,,,,Town of Essex
+US,VT,Vermont,Waitsfield,relation,8897602,8,Cities/Towns/Villages/Municipalities,Q3447805,,,,Town of Waitsfield
+US,VT,Vermont,Duxbury,relation,8898125,8,Cities/Towns/Villages/Municipalities,Q3450983,,,,Town of Duxbury
+US,VT,Vermont,Middlesex,relation,8898126,8,Cities/Towns/Villages/Municipalities,Q3450947,,,,Town of Middlesex
+US,VT,Vermont,Moretown,relation,8898127,8,Cities/Towns/Villages/Municipalities,Q3475608,,,,Town of Moretown
+US,VT,Vermont,Fayston,relation,8898128,8,Cities/Towns/Villages/Municipalities,Q3447682,,,,Town of Fayston
+US,VT,Vermont,Warren,relation,8898129,8,Cities/Towns/Villages/Municipalities,Q3447658,,,,Town of Warren
+US,VT,Vermont,Roxbury,relation,8898130,8,Cities/Towns/Villages/Municipalities,Q3448179,,,,Town of Roxbury
+US,VT,Vermont,Northfield,relation,8898131,8,Cities/Towns/Villages/Municipalities,Q1406285,,,,Town of Northfield
+US,VT,Vermont,Berlin,relation,8898132,8,Cities/Towns/Villages/Municipalities,Q821245,,,,Town of Berlin
+US,VT,Vermont,Barre Town,relation,8898133,8,Cities/Towns/Villages/Municipalities,Q808841,,Barre,,Town of Barre
+US,VT,Vermont,Plainfield,relation,8898134,8,Cities/Towns/Villages/Municipalities,Q254788,,,,Town of Plainfield
+US,VT,Vermont,East Montpelier,relation,8898135,8,Cities/Towns/Villages/Municipalities,Q3450958,,,,Town of East Montpelier
+US,VT,Vermont,Calais,relation,8898136,8,Cities/Towns/Villages/Municipalities,Q3476693,,,,Town of Calais
+US,VT,Vermont,Worcester,relation,8898137,8,Cities/Towns/Villages/Municipalities,Q3447671,,,,Town of Worcester
+US,VT,Vermont,Waterbury,relation,8898138,8,Cities/Towns/Villages/Municipalities,Q1374855,,,,Town of Waterbury
+US,VT,Vermont,Chittenden,relation,8903548,8,Cities/Towns/Villages/Municipalities,Q2972399,,,,Town of Chittenden
+US,VT,Vermont,Pittsfield,relation,8903549,8,Cities/Towns/Villages/Municipalities,Q3448335,,,,Town of Pittsfield
+US,VT,Vermont,Killington,relation,8903550,8,Cities/Towns/Villages/Municipalities,Q3475658,,,,Town of Killington
+US,VT,Vermont,Hubbardton,relation,8903551,8,Cities/Towns/Villages/Municipalities,Q2972727,,,,Town of Hubbardton
+US,VT,Vermont,Castleton,relation,8903552,8,Cities/Towns/Villages/Municipalities,Q1049714,,,,Town of Castleton
+US,VT,Vermont,Pittsford,relation,8903553,8,Cities/Towns/Villages/Municipalities,Q3450885,,,,Town of Pittsford
+US,VT,Vermont,Proctor,relation,8903554,8,Cities/Towns/Villages/Municipalities,Q585846,,,,Town of Proctor
+US,VT,Vermont,West Rutland,relation,8903555,8,Cities/Towns/Villages/Municipalities,Q2747123,,,,Town of West Rutland
+US,VT,Vermont,Rutland Town,relation,8903556,8,Cities/Towns/Villages/Municipalities,Q1008836,,Rutland,,Town of Rutland
+US,VT,Vermont,Mendon,relation,8903557,8,Cities/Towns/Villages/Municipalities,Q265798,,,,Town of Mendon
+US,VT,Vermont,Shrewsbury,relation,8903558,8,Cities/Towns/Villages/Municipalities,Q3447716,,,,Town of Shrewsbury
+US,VT,Vermont,Clarendon,relation,8903559,8,Cities/Towns/Villages/Municipalities,Q2972468,,,,Town of Clarendon
+US,VT,Vermont,Ira,relation,8903560,8,Cities/Towns/Villages/Municipalities,Q3450934,,,,Town of Ira
+US,VT,Vermont,Middletown Springs,relation,8903561,8,Cities/Towns/Villages/Municipalities,Q3447705,,,,Town of Middletown Springs
+US,VT,Vermont,Tinmouth,relation,8903562,8,Cities/Towns/Villages/Municipalities,Q3447816,,,,Town of Tinmouth
+US,VT,Vermont,Wallingford,relation,8903563,8,Cities/Towns/Villages/Municipalities,Q3447784,,,,Town of Wallingford
+US,VT,Vermont,Mount Holly,relation,8903564,8,Cities/Towns/Villages/Municipalities,Q3451033,,,,Town of Mount Holly
+US,VT,Vermont,Mount Tabor,relation,8903565,8,Cities/Towns/Villages/Municipalities,Q628146,,,,Town of Mount Tabor
+US,VT,Vermont,Danby,relation,8903566,8,Cities/Towns/Villages/Municipalities,Q2972574,,,,Town of Danby
+US,VT,Vermont,Sudbury,relation,8903567,8,Cities/Towns/Villages/Municipalities,Q3046583,,,,Town of Sudbury
+US,VT,Vermont,Brandon,relation,8903568,8,Cities/Towns/Villages/Municipalities,Q2972302,,,,Town of Brandon
+US,VT,Vermont,Dorset,relation,8906727,8,Cities/Towns/Villages/Municipalities,Q1903749,,,,
+US,VT,Vermont,Peru,relation,8906728,8,Cities/Towns/Villages/Municipalities,Q1939667,,,,
+US,VT,Vermont,Landgrove,relation,8906729,8,Cities/Towns/Villages/Municipalities,Q1904173,,,,Town of Landgrove
+US,VT,Vermont,Winhall,relation,8906730,8,Cities/Towns/Villages/Municipalities,Q1943225,,,,
+US,VT,Vermont,Manchester,relation,8906731,8,Cities/Towns/Villages/Municipalities,Q1905654,,,,
+US,VT,Vermont,Sunderland,relation,8906732,8,Cities/Towns/Villages/Municipalities,Q517708,,,,
+US,VT,Vermont,Glastenbury,relation,8906733,8,Cities/Towns/Villages/Municipalities,Q968879,,,,
+US,VT,Vermont,Readsboro,relation,8906734,8,Cities/Towns/Villages/Municipalities,Q1940658,,,,
+US,VT,Vermont,Searsburg,relation,8906735,8,Cities/Towns/Villages/Municipalities,Q1942150,,,,
+US,VT,Vermont,Washington,relation,9100904,8,Cities/Towns/Villages/Municipalities,Q2349496,,,,Town of Washington
+US,VT,Vermont,Corinth,relation,9100905,8,Cities/Towns/Villages/Municipalities,Q2069517,,,,Town of Corinth
+US,VT,Vermont,Orange,relation,9100906,8,Cities/Towns/Villages/Municipalities,Q2305582,,,,Town of Orange
+US,VT,Vermont,Topsham,relation,9100907,8,Cities/Towns/Villages/Municipalities,Q2348463,,,,Town of Topsham
+US,VT,Vermont,Newbury,relation,9100908,8,Cities/Towns/Villages/Municipalities,Q2305017,,,,Town of Newbury
+US,VT,Vermont,Bradford,relation,9100909,8,Cities/Towns/Villages/Municipalities,Q2065378,,,,Town of Bradford
+US,VT,Vermont,Fairlee,relation,9100910,8,Cities/Towns/Villages/Municipalities,Q2069687,,,,Town of Fairlee
+US,VT,Vermont,West Fairlee,relation,9100911,8,Cities/Towns/Villages/Municipalities,Q2349802,,,,Town of West Fairlee
+US,VT,Vermont,Vershire,relation,9100912,8,Cities/Towns/Villages/Municipalities,Q2349256,,,,Town of Vershire
+US,VT,Vermont,Chelsea,relation,9100913,8,Cities/Towns/Villages/Municipalities,Q1025389,,,,Town of Chelsea
+US,VT,Vermont,Brookfield,relation,9100914,8,Cities/Towns/Villages/Municipalities,Q2068923,,,,Town of Brookfield
+US,VT,Vermont,Braintree,relation,9100915,8,Cities/Towns/Villages/Municipalities,Q2068656,,,,Town of Braintree
+US,VT,Vermont,Randolph,relation,9100916,8,Cities/Towns/Villages/Municipalities,Q1441076,,,,Town of Randolph
+US,VT,Vermont,Tunbridge,relation,9100917,8,Cities/Towns/Villages/Municipalities,Q2348930,,,,Town of Tunbridge
+US,VT,Vermont,Strafford,relation,9100918,8,Cities/Towns/Villages/Municipalities,Q2305933,,,,Town of Strafford
+US,VT,Vermont,Thetford,relation,9100919,8,Cities/Towns/Villages/Municipalities,Q2348131,,,,Town of Thetford
+US,VT,Vermont,Waterford,relation,9101559,8,Cities/Towns/Villages/Municipalities,Q1953098,,,,Town of Waterford
+US,VT,Vermont,Barnet,relation,9101560,8,Cities/Towns/Villages/Municipalities,Q808466,,,,Town of Barnet
+US,VT,Vermont,Peacham,relation,9101561,8,Cities/Towns/Villages/Municipalities,Q1949894,,,,Town of Peacham
+US,VT,Vermont,Groton,relation,9101562,8,Cities/Towns/Villages/Municipalities,Q1947759,,,,Town of Groton
+US,VT,Vermont,Ryegate,relation,9101563,8,Cities/Towns/Villages/Municipalities,Q1941995,,,,Town of Ryegate
+US,VT,Vermont,Brownington,relation,9101818,8,Cities/Towns/Villages/Municipalities,Q2970457,,,,Town of Brownington
+US,VT,Vermont,Charleston,relation,9101819,8,Cities/Towns/Villages/Municipalities,Q2970668,,,,
+US,VT,Vermont,Morgan,relation,9101820,8,Cities/Towns/Villages/Municipalities,Q2971886,,,,
+US,VT,Vermont,Coventry,relation,9101821,8,Cities/Towns/Villages/Municipalities,Q2970785,,,,Town of Coventry
+US,VT,Vermont,Irasburg,relation,9101822,8,Cities/Towns/Villages/Municipalities,Q2971562,,,,Town of Irasburg
+US,VT,Vermont,Barton,relation,9101823,8,Cities/Towns/Villages/Municipalities,Q1868852,,,,Town of Barton
+US,VT,Vermont,Glover,relation,9101824,8,Cities/Towns/Villages/Municipalities,Q2971135,,,,Town of Glover
+US,VT,Vermont,Greensboro,relation,9101825,8,Cities/Towns/Villages/Municipalities,Q2971268,,,,Town of Greensboro
+US,VT,Vermont,Craftsbury,relation,9101826,8,Cities/Towns/Villages/Municipalities,Q2970916,,,,Town of Craftsbury
+US,VT,Vermont,Albany,relation,9101827,8,Cities/Towns/Villages/Municipalities,Q2255535,,,,Town of Albany
+US,VT,Vermont,Lowell,relation,9101828,8,Cities/Towns/Villages/Municipalities,Q960284,,,,Town of Lowell
+US,VT,Vermont,Westfield,relation,9101829,8,Cities/Towns/Villages/Municipalities,Q2972094,,,,Town of Westfield
+US,VT,Vermont,Bloomfield,relation,9105194,8,Cities/Towns/Villages/Municipalities,Q1974810,,,,
+US,VT,Vermont,Wolcott,relation,13074923,8,Cities/Towns/Villages/Municipalities,Q2057928,,,,Town of Wolcott
+US,VT,Vermont,Williamstown,relation,13081782,8,Cities/Towns/Villages/Municipalities,Q2350079,,,,Town of Williamstown
+US,VT,Vermont,Alburgh,relation,18286645,8,Cities/Towns/Villages/Municipalities,Q285016,,,,
+US,VT,Vermont,Marshfield,relation,18295831,8,Cities/Towns/Villages/Municipalities,Q6773908,,,,

@@ -1,0 +1,12 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,CT,Connecticut,Groton Long Point,relation,4207855,9,Wards/Districts,Q755636,,,,
+US,CT,Connecticut,City of Groton,relation,4836508,9,Wards/Districts,Q626038,,,,
+US,CT,Connecticut,Stonington,relation,4849234,9,Wards/Districts,Q7619458,,,,
+US,CT,Connecticut,Borough of Woodmont,relation,11046488,9,Wards/Districts,Q753310,,,,
+US,CT,Connecticut,Litchfield,relation,11065524,9,Wards/Districts,Q754815,,,,
+US,CT,Connecticut,Jewett City,relation,11065866,9,Wards/Districts,Q753995,,,,
+US,CT,Connecticut,Danielson,relation,11065871,9,Wards/Districts,Q2430894,,West Killingly,,
+US,CT,Connecticut,Newtown,relation,11085824,9,Wards/Districts,Q981265,,,,
+US,CT,Connecticut,Bantam,relation,11085825,9,Wards/Districts,Q754138,,,,
+US,CT,Connecticut,Versailles,relation,12935161,9,Wards/Districts,Q122764540,,Eagleville,,
+US,CT,Connecticut,Baltic,relation,12935560,9,Wards/Districts,Q4852681,,,,

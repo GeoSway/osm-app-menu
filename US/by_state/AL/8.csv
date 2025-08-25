@@ -1,0 +1,518 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,AL,Alabama,Florence,way,33039620,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,41001872,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,41008560,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,56196534,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,77731846,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,77870064,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,83085724,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,129773521,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,129773548,8,Cities/Towns/Villages/Municipalities,Q79439,,,,
+US,AL,Alabama,,way,129773557,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,137202834,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,160959478,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,184063056,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,184063060,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,184063089,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,304580952,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,340447614,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,477330749,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,477330751,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,484429195,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,484429200,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,484439837,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,484440551,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,484470315,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,731013769,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,Florence,way,849083590,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849397975,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398038,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398039,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398042,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398044,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398046,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398047,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398048,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398065,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398066,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,Athens,way,849398144,8,Cities/Towns/Villages/Municipalities,Q79439,,,,
+US,AL,Alabama,,way,849398145,8,Cities/Towns/Villages/Municipalities,Q79439,,,,
+US,AL,Alabama,,way,849398147,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398216,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398218,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398224,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398225,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,849398226,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,1348310878,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,1364248737,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,1364248738,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,,way,1364248740,8,Cities/Towns/Villages/Municipalities,,,,,
+US,AL,Alabama,Sand Rock,relation,110114,8,Cities/Towns/Villages/Municipalities,Q66116,,,,Town of Sand Rock
+US,AL,Alabama,Centre,relation,110116,8,Cities/Towns/Villages/Municipalities,Q79650,,,,City of Centre
+US,AL,Alabama,Cedar Bluff,relation,110118,8,Cities/Towns/Villages/Municipalities,Q66331,,,,Town of Cedar Bluff
+US,AL,Alabama,Piedmont,relation,110120,8,Cities/Towns/Villages/Municipalities,Q79213,,,,City of Piedmont
+US,AL,Alabama,Heflin,relation,110122,8,Cities/Towns/Villages/Municipalities,Q79671,,,,City of Heflin
+US,AL,Alabama,Eva,relation,110123,8,Cities/Towns/Villages/Municipalities,Q67461,,,,Town of Eva
+US,AL,Alabama,Falkville,relation,110125,8,Cities/Towns/Villages/Municipalities,Q66979,,,,Town of Falkville
+US,AL,Alabama,Hartselle,relation,110127,8,Cities/Towns/Villages/Municipalities,Q79242,,,,City of Hartselle
+US,AL,Alabama,Priceville,relation,110130,8,Cities/Towns/Villages/Municipalities,Q67288,,,,Town of Priceville
+US,AL,Alabama,Somerville,relation,110131,8,Cities/Towns/Villages/Municipalities,Q67979,,,,Town of Somerville
+US,AL,Alabama,Trinity,relation,110133,8,Cities/Towns/Villages/Municipalities,Q66160,,,,Town of Trinity
+US,AL,Alabama,Argo,relation,110137,8,Cities/Towns/Villages/Municipalities,Q67419,,,,City of Argo
+US,AL,Alabama,Trussville,relation,110141,8,Cities/Towns/Villages/Municipalities,Q79691,,,,City of Trussville
+US,AL,Alabama,Ashville,relation,110142,8,Cities/Towns/Villages/Municipalities,Q79396,,,,City of Ashville
+US,AL,Alabama,Margaret,relation,110143,8,Cities/Towns/Villages/Municipalities,Q65784,,,,City of Margaret
+US,AL,Alabama,Moody,relation,110144,8,Cities/Towns/Villages/Municipalities,Q67033,,,,City of Moody
+US,AL,Alabama,Odenville,relation,110145,8,Cities/Towns/Villages/Municipalities,Q68263,,,,City of Odenville
+US,AL,Alabama,Pell City,relation,110147,8,Cities/Towns/Villages/Municipalities,Q79584,,,,City of Pell City
+US,AL,Alabama,Springville,relation,110149,8,Cities/Towns/Villages/Municipalities,Q80023,,,,City of Springville
+US,AL,Alabama,Steele,relation,110150,8,Cities/Towns/Villages/Municipalities,Q67349,,,,Town of Steele
+US,AL,Alabama,Adamsville,relation,110154,8,Cities/Towns/Villages/Municipalities,Q79989,,,,City of Adamsville
+US,AL,Alabama,Bessemer,relation,110156,8,Cities/Towns/Villages/Municipalities,Q79973,,,,City of Bessemer
+US,AL,Alabama,Fultondale,relation,110161,8,Cities/Towns/Villages/Municipalities,Q79219,,,,City of Fultondale
+US,AL,Alabama,Gardendale,relation,110165,8,Cities/Towns/Villages/Municipalities,Q79679,,,,City of Gardendale
+US,AL,Alabama,Graysville,relation,110167,8,Cities/Towns/Villages/Municipalities,Q80020,,,,City of Graysville
+US,AL,Alabama,Helena,relation,110169,8,Cities/Towns/Villages/Municipalities,Q79499,,,,City of Helena
+US,AL,Alabama,Homewood,relation,110170,8,Cities/Towns/Villages/Municipalities,Q79700,,,,City of Homewood
+US,AL,Alabama,Hueytown,relation,110179,8,Cities/Towns/Villages/Municipalities,Q79257,,,,City of Hueytown
+US,AL,Alabama,Irondale,relation,110185,8,Cities/Towns/Villages/Municipalities,Q79454,,,,City of Irondale
+US,AL,Alabama,Kimberly,relation,110188,8,Cities/Towns/Villages/Municipalities,Q65999,,,,City of Kimberly
+US,AL,Alabama,Lipscomb,relation,110189,8,Cities/Towns/Villages/Municipalities,Q79428,,,,City of Lipscomb
+US,AL,Alabama,Maytown,relation,110190,8,Cities/Towns/Villages/Municipalities,Q66951,,,,Town of Maytown
+US,AL,Alabama,Midfield,relation,110191,8,Cities/Towns/Villages/Municipalities,Q79243,,,,City of Midfield
+US,AL,Alabama,Mountain Brook,relation,110192,8,Cities/Towns/Villages/Municipalities,Q79814,,,,City of Mountain Brook
+US,AL,Alabama,Mulga,relation,110193,8,Cities/Towns/Villages/Municipalities,Q66032,,,,Town of Mulga
+US,AL,Alabama,Pleasant Grove,relation,110194,8,Cities/Towns/Villages/Municipalities,Q79542,,,,City of Pleasant Grove
+US,AL,Alabama,Sylvan Springs,relation,110195,8,Cities/Towns/Villages/Municipalities,Q67560,,,,Town of Sylvan Springs
+US,AL,Alabama,Tarrant,relation,110196,8,Cities/Towns/Villages/Municipalities,Q79640,,,,City of Tarrant
+US,AL,Alabama,Trafford,relation,110197,8,Cities/Towns/Villages/Municipalities,Q67173,,,,Town of Trafford
+US,AL,Alabama,Vestavia Hills,relation,110203,8,Cities/Towns/Villages/Municipalities,Q79695,,,,City of Vestavia Hills
+US,AL,Alabama,Warrior,relation,110205,8,Cities/Towns/Villages/Municipalities,Q79521,,,,City of Warrior
+US,AL,Alabama,Center Point,relation,110208,8,Cities/Towns/Villages/Municipalities,Q80092,,,,City of Center Point
+US,AL,Alabama,Clay,relation,110211,8,Cities/Towns/Villages/Municipalities,Q79472,,,,City of Clay
+US,AL,Alabama,Pinson,relation,110214,8,Cities/Towns/Villages/Municipalities,Q79303,,,,City of Pinson
+US,AL,Alabama,Daphne,relation,110216,8,Cities/Towns/Villages/Municipalities,Q79461,,,,City of Daphne
+US,AL,Alabama,Elberta,relation,110219,8,Cities/Towns/Villages/Municipalities,Q68218,,,,Town of Elberta
+US,AL,Alabama,Fairhope,relation,110221,8,Cities/Towns/Villages/Municipalities,Q79502,,,,City of Fairhope
+US,AL,Alabama,Foley,relation,110225,8,Cities/Towns/Villages/Municipalities,Q79265,,,,City of Foley
+US,AL,Alabama,Gulf Shores,relation,110229,8,Cities/Towns/Villages/Municipalities,Q79669,,,,City of Gulf Shores
+US,AL,Alabama,Loxley,relation,110232,8,Cities/Towns/Villages/Municipalities,Q67581,,,,Town of Loxley
+US,AL,Alabama,Orange Beach,relation,110238,8,Cities/Towns/Villages/Municipalities,Q79603,,,,City of Orange Beach
+US,AL,Alabama,Robertsdale,relation,110239,8,Cities/Towns/Villages/Municipalities,Q79264,,,,City of Robertsdale
+US,AL,Alabama,Spanish Fort,relation,110242,8,Cities/Towns/Villages/Municipalities,Q79945,,,,City of Spanish Fort
+US,AL,Alabama,Bayou La Batre,relation,110244,8,Cities/Towns/Villages/Municipalities,Q79711,,,,City of Bayou La Batre
+US,AL,Alabama,Citronelle,relation,110246,8,Cities/Towns/Villages/Municipalities,Q79480,,,,City of Citronelle
+US,AL,Alabama,Saraland,relation,110249,8,Cities/Towns/Villages/Municipalities,Q79259,,,,City of Saraland
+US,AL,Alabama,Satsuma,relation,110251,8,Cities/Towns/Villages/Municipalities,Q79552,,,,City of Satsuma
+US,AL,Alabama,Monroeville,relation,110252,8,Cities/Towns/Villages/Municipalities,Q79496,,,,City of Monroeville
+US,AL,Alabama,Muscle Shoals,relation,110253,8,Cities/Towns/Villages/Municipalities,Q79245,,,,City of Muscle Shoals
+US,AL,Alabama,Sheffield,relation,110254,8,Cities/Towns/Villages/Municipalities,Q79568,,,,City of Sheffield
+US,AL,Alabama,Phenix City,relation,110263,8,Cities/Towns/Villages/Municipalities,Q79252,,,,City of Phenix City
+US,AL,Alabama,Thorsby,relation,110264,8,Cities/Towns/Villages/Municipalities,Q1259054,,,,Town of Thorsby
+US,AL,Alabama,Jemison,relation,110266,8,Cities/Towns/Villages/Municipalities,Q67771,,,,City of Jemison
+US,AL,Alabama,Clanton,relation,110267,8,Cities/Towns/Villages/Municipalities,Q79364,,,,City of Clanton
+US,AL,Alabama,Calera,relation,110271,8,Cities/Towns/Villages/Municipalities,Q79942,,,,City of Calera
+US,AL,Alabama,Greenville,relation,110272,8,Cities/Towns/Villages/Municipalities,Q79362,,,,City of Greenville
+US,AL,Alabama,Red Bay,relation,110274,8,Cities/Towns/Villages/Municipalities,Q80035,,,,City of Red Bay
+US,AL,Alabama,Alabaster,relation,110278,8,Cities/Towns/Villages/Municipalities,Q79936,,,,City of Alabaster
+US,AL,Alabama,Chelsea,relation,110285,8,Cities/Towns/Villages/Municipalities,Q67410,,,,City of Chelsea
+US,AL,Alabama,Columbiana,relation,110287,8,Cities/Towns/Villages/Municipalities,Q79539,,,,City of Columbiana
+US,AL,Alabama,Harpersville,relation,110299,8,Cities/Towns/Villages/Municipalities,Q67550,,,,Town of Harpersville
+US,AL,Alabama,Indian Springs Village,relation,110305,8,Cities/Towns/Villages/Municipalities,Q65689,,,,City of Indian Springs Village
+US,AL,Alabama,Montevallo,relation,110311,8,Cities/Towns/Villages/Municipalities,Q79549,,,,City of Montevallo
+US,AL,Alabama,Pelham,relation,110316,8,Cities/Towns/Villages/Municipalities,Q79479,,,,City of Pelham
+US,AL,Alabama,Westover,relation,110318,8,Cities/Towns/Villages/Municipalities,Q79585,,,,Town of Westover
+US,AL,Alabama,Wilsonville,relation,110320,8,Cities/Towns/Villages/Municipalities,Q65848,,,,Town of Wilsonville
+US,AL,Alabama,Lineville,relation,110322,8,Cities/Towns/Villages/Municipalities,Q79209,,,,City of Lineville
+US,AL,Alabama,Atmore,relation,110324,8,Cities/Towns/Villages/Municipalities,Q79683,,,,City of Atmore
+US,AL,Alabama,Brewton,relation,110325,8,Cities/Towns/Villages/Municipalities,Q79620,,,,City of Brewton
+US,AL,Alabama,Shorter,relation,110345,8,Cities/Towns/Villages/Municipalities,Q67960,,,,Town of Shorter
+US,AL,Alabama,Tuskegee,relation,110348,8,Cities/Towns/Villages/Municipalities,Q79718,,,,City of Tuskegee
+US,AL,Alabama,Haleyville,relation,110353,8,Cities/Towns/Villages/Municipalities,Q79255,,,,City of Haleyville
+US,AL,Alabama,Addison,relation,110355,8,Cities/Towns/Villages/Municipalities,Q66483,,,,Town of Addison
+US,AL,Alabama,Arley,relation,110357,8,Cities/Towns/Villages/Municipalities,Q66730,,,,Town of Arley
+US,AL,Alabama,Double Springs,relation,110360,8,Cities/Towns/Villages/Municipalities,Q68173,,,,Town of Double Springs
+US,AL,Alabama,Lynn,relation,110361,8,Cities/Towns/Villages/Municipalities,Q67206,,,,Town of Lynn
+US,AL,Alabama,Nauvoo,relation,110363,8,Cities/Towns/Villages/Municipalities,Q68338,,,,Town of Nauvoo
+US,AL,Alabama,Dothan,relation,110367,8,Cities/Towns/Villages/Municipalities,Q79519,,,,City of Dothan
+US,AL,Alabama,Headland,relation,110370,8,Cities/Towns/Villages/Municipalities,Q79858,,,,City of Headland
+US,AL,Alabama,Rehobeth,relation,110384,8,Cities/Towns/Villages/Municipalities,Q67090,,,,Town of Rehobeth
+US,AL,Alabama,Webb,relation,110385,8,Cities/Towns/Villages/Municipalities,Q67381,,,,Town of Webb
+US,AL,Alabama,Arab,relation,110391,8,Cities/Towns/Villages/Municipalities,Q79405,,,,City of Arab
+US,AL,Alabama,Colony,relation,110395,8,Cities/Towns/Villages/Municipalities,Q66106,,,,Town of Colony
+US,AL,Alabama,Cullman,relation,110402,8,Cities/Towns/Villages/Municipalities,Q79484,,,,City of Cullman
+US,AL,Alabama,South Vinemont,relation,110405,8,Cities/Towns/Villages/Municipalities,Q66708,,,,Town of South Vinemont
+US,AL,Alabama,West Point,relation,110408,8,Cities/Towns/Villages/Municipalities,Q67870,,,,Town of West Point
+US,AL,Alabama,Albertville,relation,110415,8,Cities/Towns/Villages/Municipalities,Q79675,,,,City of Albertville
+US,AL,Alabama,Douglas,relation,110424,8,Cities/Towns/Villages/Municipalities,Q66753,,,,Town of Douglas
+US,AL,Alabama,Grant,relation,110429,8,Cities/Towns/Villages/Municipalities,Q65773,,,,Town of Grant
+US,AL,Alabama,Guntersville,relation,110444,8,Cities/Towns/Villages/Municipalities,Q79556,,,,City of Guntersville
+US,AL,Alabama,Sardis City,relation,110445,8,Cities/Towns/Villages/Municipalities,Q65616,,,,Town of Sardis City
+US,AL,Alabama,Prattville,relation,110453,8,Cities/Towns/Villages/Municipalities,Q79509,,,,City of Prattville
+US,AL,Alabama,Millbrook,relation,110470,8,Cities/Towns/Villages/Municipalities,Q79673,,,,City of Millbrook
+US,AL,Alabama,Weaver,relation,110481,8,Cities/Towns/Villages/Municipalities,Q79555,,,,City of Weaver
+US,AL,Alabama,Oxford,relation,110495,8,Cities/Towns/Villages/Municipalities,Q79358,,,,City of Oxford
+US,AL,Alabama,Ohatchee,relation,110500,8,Cities/Towns/Villages/Municipalities,Q67998,,,,Town of Ohatchee
+US,AL,Alabama,Jacksonville,relation,110505,8,Cities/Towns/Villages/Municipalities,Q79412,,,,City of Jacksonville
+US,AL,Alabama,Hobson City,relation,110506,8,Cities/Towns/Villages/Municipalities,Q66875,,,,Town of Hobson City
+US,AL,Alabama,Anniston,relation,110519,8,Cities/Towns/Villages/Municipalities,Q79474,,,,City of Anniston
+US,AL,Alabama,Roanoke,relation,110523,8,Cities/Towns/Villages/Municipalities,Q79278,,,,City of Roanoke
+US,AL,Alabama,Childersburg,relation,110539,8,Cities/Towns/Villages/Municipalities,Q80000,,,,City of Childersburg
+US,AL,Alabama,Sylacauga,relation,110557,8,Cities/Towns/Villages/Municipalities,Q79477,,,,City of Sylacauga
+US,AL,Alabama,Talladega,relation,110558,8,Cities/Towns/Villages/Municipalities,Q79975,,,,City of Talledega
+US,AL,Alabama,Munford,relation,110560,8,Cities/Towns/Villages/Municipalities,Q65814,,,,Town of Munford
+US,AL,Alabama,Ider,relation,110563,8,Cities/Towns/Villages/Municipalities,Q68426,,,,Town of Ider
+US,AL,Alabama,Lakeview,relation,110564,8,Cities/Towns/Villages/Municipalities,Q1259043,,,,Town of Lakeview
+US,AL,Alabama,Shiloh,relation,110567,8,Cities/Towns/Villages/Municipalities,Q68075,,,,Town of Shiloh
+US,AL,Alabama,Sylvania,relation,110569,8,Cities/Towns/Villages/Municipalities,Q65723,,,,Town of Sylvania
+US,AL,Alabama,Courtland,relation,110570,8,Cities/Towns/Villages/Municipalities,Q67892,,,,Town of Courtland
+US,AL,Alabama,Dora,relation,110615,8,Cities/Towns/Villages/Municipalities,Q79234,,,,City of Dora
+US,AL,Alabama,Carbon Hill,relation,110623,8,Cities/Towns/Villages/Municipalities,Q79570,,,,City of Carbon Hill
+US,AL,Alabama,Sumiton,relation,110624,8,Cities/Towns/Villages/Municipalities,Q79251,,,,City of Sumiton
+US,AL,Alabama,Saint Florian,relation,110630,8,Cities/Towns/Villages/Municipalities,Q66141,,,,Town of Saint Florian
+US,AL,Alabama,Lexington,relation,110633,8,Cities/Towns/Villages/Municipalities,Q67784,,,,Town of Lexington
+US,AL,Alabama,Triana,relation,110636,8,Cities/Towns/Villages/Municipalities,Q65950,,,,Town of Triana
+US,AL,Alabama,Owens Cross Roads,relation,110640,8,Cities/Towns/Villages/Municipalities,Q65700,,,,Town of Owens Cross Roads
+US,AL,Alabama,Madison,relation,110646,8,Cities/Towns/Villages/Municipalities,Q79987,,,,City of Madison
+US,AL,Alabama,Huntsville,relation,110673,8,Cities/Towns/Villages/Municipalities,Q79860,,,,City of Huntsville
+US,AL,Alabama,Gordonville,relation,110678,8,Cities/Towns/Villages/Municipalities,Q68349,,,,Town of Gordonville
+US,AL,Alabama,Union,relation,110680,8,Cities/Towns/Villages/Municipalities,Q67077,,,,Town of Union
+US,AL,Alabama,Berry,relation,110682,8,Cities/Towns/Villages/Municipalities,Q65961,,,,Town of Berry
+US,AL,Alabama,Glen Allen,relation,110683,8,Cities/Towns/Villages/Municipalities,Q67099,,,,Town of Glen Allen
+US,AL,Alabama,Winfield,relation,110687,8,Cities/Towns/Villages/Municipalities,Q79349,,,,City of Winfield
+US,AL,Alabama,Twin,relation,110688,8,Cities/Towns/Villages/Municipalities,Q1291203,,,,Town of Twin
+US,AL,Alabama,Hamilton,relation,110690,8,Cities/Towns/Villages/Municipalities,Q79462,,,,City of Hamilton
+US,AL,Alabama,Hackleburg,relation,110693,8,Cities/Towns/Villages/Municipalities,Q65870,,,,Town of Hackleburg
+US,AL,Alabama,Guin,relation,110694,8,Cities/Towns/Villages/Municipalities,Q79684,,,,City of Guin
+US,AL,Alabama,Bear Creek,relation,110695,8,Cities/Towns/Villages/Municipalities,Q66397,,,,Town of Bear Creek
+US,AL,Alabama,Ozark,relation,110697,8,Cities/Towns/Villages/Municipalities,Q79212,,,,City of Ozark
+US,AL,Alabama,Newton,relation,110698,8,Cities/Towns/Villages/Municipalities,Q68345,,,,Town of Newton
+US,AL,Alabama,Level Plains,relation,110700,8,Cities/Towns/Villages/Municipalities,Q68454,,,,Town of Level Plains
+US,AL,Alabama,Daleville,relation,110701,8,Cities/Towns/Villages/Municipalities,Q79413,,,,City of Daleville
+US,AL,Alabama,Ariton,relation,110703,8,Cities/Towns/Villages/Municipalities,Q66022,,,,Town of Ariton
+US,AL,Alabama,Enterprise,relation,110705,8,Cities/Towns/Villages/Municipalities,Q79260,,,,City of Enterprise
+US,AL,Alabama,Scottsboro,relation,110709,8,Cities/Towns/Villages/Municipalities,Q79577,,,,City of Scottsboro
+US,AL,Alabama,Dutton,relation,110711,8,Cities/Towns/Villages/Municipalities,Q66247,,,,Town of Dutton
+US,AL,Alabama,Susan Moore,relation,110715,8,Cities/Towns/Villages/Municipalities,Q68354,,,,Town of Susan Moore
+US,AL,Alabama,Rosa,relation,110718,8,Cities/Towns/Villages/Municipalities,Q67056,,,,Town of Rosa
+US,AL,Alabama,Oneonta,relation,110720,8,Cities/Towns/Villages/Municipalities,Q79359,,,,City of Oneonta
+US,AL,Alabama,Nectar,relation,110721,8,Cities/Towns/Villages/Municipalities,Q67298,,,,Town of Nectar
+US,AL,Alabama,Locust Fork,relation,110726,8,Cities/Towns/Villages/Municipalities,Q75162,,,,Town of Locust Fork
+US,AL,Alabama,Altoona,relation,110728,8,Cities/Towns/Villages/Municipalities,Q444149,,,,Town of Altoona
+US,AL,Alabama,County Line,relation,110729,8,Cities/Towns/Villages/Municipalities,Q66128,,,,Town of County Line
+US,AL,Alabama,Smiths Station,relation,110731,8,Cities/Towns/Villages/Municipalities,Q80029,,,,City of Smiths Station
+US,AL,Alabama,Opelika,relation,110734,8,Cities/Towns/Villages/Municipalities,Q80073,,,,City of Opelika
+US,AL,Alabama,Auburn,relation,110738,8,Cities/Towns/Villages/Municipalities,Q79728,,,,City of Auburn
+US,AL,Alabama,Centreville,relation,110739,8,Cities/Towns/Villages/Municipalities,Q79253,,,,City of Centreville
+US,AL,Alabama,Wetumpka,relation,110741,8,Cities/Towns/Villages/Municipalities,Q79433,,,,City of Wetumpka
+US,AL,Alabama,Elmore,relation,110744,8,Cities/Towns/Villages/Municipalities,Q66310,,,,Town of Elmore
+US,AL,Alabama,Eclectic,relation,110745,8,Cities/Towns/Villages/Municipalities,Q67141,,,,Town of Eclectic
+US,AL,Alabama,Deatsville,relation,110746,8,Cities/Towns/Villages/Municipalities,Q67244,,,,Town of Deatsville
+US,AL,Alabama,Coosada,relation,110747,8,Cities/Towns/Villages/Municipalities,Q67940,,,,Town of Coosada
+US,AL,Alabama,Tallassee,relation,110750,8,Cities/Towns/Villages/Municipalities,Q79215,,,,City of Tallassee
+US,AL,Alabama,Reece City,relation,110753,8,Cities/Towns/Villages/Municipalities,Q66179,,,,Town of Reece City
+US,AL,Alabama,Rainbow City,relation,110758,8,Cities/Towns/Villages/Municipalities,Q79710,,,,City of Rainbow City
+US,AL,Alabama,Hokes Bluff,relation,110763,8,Cities/Towns/Villages/Municipalities,Q79707,,,,City of Hokes Bluff
+US,AL,Alabama,Gadsden,relation,110772,8,Cities/Towns/Villages/Municipalities,Q79389,,,,City of Gadsden
+US,AL,Alabama,Attalla,relation,110777,8,Cities/Towns/Villages/Municipalities,Q79268,,,,City of Attalla
+US,AL,Alabama,Southside,relation,110781,8,Cities/Towns/Villages/Municipalities,Q79250,,,,City of Southside
+US,AL,Alabama,Glencoe,relation,110786,8,Cities/Towns/Villages/Municipalities,Q79635,,,,City of Glencoe
+US,AL,Alabama,Woodstock,relation,110788,8,Cities/Towns/Villages/Municipalities,Q987509,,,,Town of Woodstock
+US,AL,Alabama,Vance,relation,110791,8,Cities/Towns/Villages/Municipalities,Q985481,,,,Town of Vance
+US,AL,Alabama,Northport,relation,110829,8,Cities/Towns/Villages/Municipalities,Q79870,,,,City of Northport
+US,AL,Alabama,Coker,relation,110830,8,Cities/Towns/Villages/Municipalities,Q985680,,,,Town of Coker
+US,AL,Alabama,Coaling,relation,110831,8,Cities/Towns/Villages/Municipalities,Q1259007,,,,Town of Coaling
+US,AL,Alabama,Brookwood,relation,110835,8,Cities/Towns/Villages/Municipalities,Q985677,,,,Town of Brookwood
+US,AL,Alabama,Montgomery,relation,110842,8,Cities/Towns/Villages/Municipalities,Q29364,,,,City of Montgomery
+US,AL,Alabama,Pike Road,relation,110843,8,Cities/Towns/Villages/Municipalities,Q67398,,,,Town of Pike Road
+US,AL,Alabama,Lanett,relation,110846,8,Cities/Towns/Villages/Municipalities,Q79263,,,,City of Lanett
+US,AL,Alabama,Valley,relation,110849,8,Cities/Towns/Villages/Municipalities,Q79239,,,,City of Valley
+US,AL,Alabama,Alexander City,relation,110863,8,Cities/Towns/Villages/Municipalities,Q79663,,,,City of Alexander City
+US,AL,Alabama,Malvern,relation,110868,8,Cities/Towns/Villages/Municipalities,Q66630,,,,Town of Malvern
+US,AL,Alabama,Moundville,relation,110873,8,Cities/Towns/Villages/Municipalities,Q984454,,,,Town of Moundville
+US,AL,Alabama,Andalusia,relation,110877,8,Cities/Towns/Villages/Municipalities,Q489765,,,,City of Andalusia
+US,AL,Alabama,Troy,relation,110972,8,Cities/Towns/Villages/Municipalities,Q79862,,,,City of Troy
+US,AL,Alabama,Mooresville,relation,110974,8,Cities/Towns/Villages/Municipalities,Q65804,,,,Town of Mooresville
+US,AL,Alabama,Athens,relation,110976,8,Cities/Towns/Villages/Municipalities,Q79439,,,,City of Athens
+US,AL,Alabama,Decatur,relation,110985,8,Cities/Towns/Villages/Municipalities,Q79750,,,,City of Decatur
+US,AL,Alabama,Lake Purdy,relation,111002,8,Cities/Towns/Villages/Municipalities,Q12958108,,,,
+US,AL,Alabama,Valley Grande,relation,111024,8,Cities/Towns/Villages/Municipalities,Q79399,,,,City of Valley Grande
+US,AL,Alabama,Lincoln,relation,111026,8,Cities/Towns/Villages/Municipalities,Q79588,,,,City of Lincoln
+US,AL,Alabama,Jasper,relation,111028,8,Cities/Towns/Villages/Municipalities,Q79766,,,,City of Jasper
+US,AL,Alabama,Tuscaloosa,relation,111029,8,Cities/Towns/Villages/Municipalities,Q79580,,,,City of Tuscaloosa
+US,AL,Alabama,Birmingham,relation,111031,8,Cities/Towns/Villages/Municipalities,Q79867,,,,City of Birmingham
+US,AL,Alabama,Boaz,relation,111032,8,Cities/Towns/Villages/Municipalities,Q79855,,,,City of Boaz
+US,AL,Alabama,Florence,relation,111033,8,Cities/Towns/Villages/Municipalities,Q79743,,,,City of Florence
+US,AL,Alabama,Century,relation,117501,8,Cities/Towns/Villages/Municipalities,Q932750,,,,
+US,AL,Alabama,Eufaula,relation,119455,8,Cities/Towns/Villages/Municipalities,Q79648,,,,City of Eufaula
+US,AL,Alabama,Orme,relation,197340,8,Cities/Towns/Villages/Municipalities,Q3289503,,,,
+US,AL,Alabama,Ardmore,relation,197419,8,Cities/Towns/Villages/Municipalities,Q2576715,,,,
+US,AL,Alabama,Minor Hill,relation,197423,8,Cities/Towns/Villages/Municipalities,Q1888093,,,,
+US,AL,Alabama,Mobile,relation,254046,8,Cities/Towns/Villages/Municipalities,Q79875,,,,City of Mobile
+US,AL,Alabama,Florala,relation,1212772,8,Cities/Towns/Villages/Municipalities,Q79826,,,,City of Florala
+US,AL,Alabama,Creola,relation,2135292,8,Cities/Towns/Villages/Municipalities,Q79266,,,,City of Creola
+US,AL,Alabama,Selma,relation,2152348,8,Cities/Towns/Villages/Municipalities,Q79941,,,,City of Selma
+US,AL,Alabama,Tuscumbia,relation,2982776,8,Cities/Towns/Villages/Municipalities,Q79606,,,,City of Tuscumbia
+US,AL,Alabama,Highland Lake,relation,3208519,8,Cities/Towns/Villages/Municipalities,Q66804,,,,Town of Highland Lake
+US,AL,Alabama,Jacksons' Gap,relation,3639265,8,Cities/Towns/Villages/Municipalities,Q67541,,,,Town of Jacksons' Gap
+US,AL,Alabama,Prichard,relation,5675894,8,Cities/Towns/Villages/Municipalities,Q79609,,,,City of Prichard
+US,AL,Alabama,Chickasaw,relation,5675897,8,Cities/Towns/Villages/Municipalities,Q80065,,,,City of Chickasaw
+US,AL,Alabama,Abbeville,relation,5881465,8,Cities/Towns/Villages/Municipalities,Q79806,,,,City of Abbeville
+US,AL,Alabama,Dozier,relation,6264057,8,Cities/Towns/Villages/Municipalities,Q66285,,,,Town of Dozier
+US,AL,Alabama,Flomaton,relation,6274499,8,Cities/Towns/Villages/Municipalities,Q66848,,,,Town of Flomaton
+US,AL,Alabama,Lockhart,relation,6524472,8,Cities/Towns/Villages/Municipalities,Q67615,,,,Town of Lockhart
+US,AL,Alabama,Fort Payne,relation,6968503,8,Cities/Towns/Villages/Municipalities,Q79653,,,,City of Fort Payne
+US,AL,Alabama,Pine Ridge,relation,6968504,8,Cities/Towns/Villages/Municipalities,Q67640,,,,Town of Pine Ridge
+US,AL,Alabama,Powell,relation,6968505,8,Cities/Towns/Villages/Municipalities,Q66676,,,,Town of Powell
+US,AL,Alabama,Rainsville,relation,6968506,8,Cities/Towns/Villages/Municipalities,Q79346,,,,City of Rainsville
+US,AL,Alabama,Fyffe,relation,6968507,8,Cities/Towns/Villages/Municipalities,Q67253,,,,Town of Fyffe
+US,AL,Alabama,Cowarts,relation,7103873,8,Cities/Towns/Villages/Municipalities,Q67046,,,,Town of Cowarts
+US,AL,Alabama,New Brockton,relation,7300430,8,Cities/Towns/Villages/Municipalities,Q66541,,,,Town of New Brockton
+US,AL,Alabama,York,relation,7300591,8,Cities/Towns/Villages/Municipalities,Q80025,,,,City of York
+US,AL,Alabama,Cuba,relation,7300592,8,Cities/Towns/Villages/Municipalities,Q68333,,,,Town of Cuba
+US,AL,Alabama,Bay Minette,relation,7435903,8,Cities/Towns/Villages/Municipalities,Q79775,,,,City of Bay Minette
+US,AL,Alabama,Mount Vernon,relation,7435931,8,Cities/Towns/Villages/Municipalities,Q67284,,,,Town of Mount Vernon
+US,AL,Alabama,East Brewton,relation,7436249,8,Cities/Towns/Villages/Municipalities,Q79595,,,,City of East Brewton
+US,AL,Alabama,Geneva,relation,7438645,8,Cities/Towns/Villages/Municipalities,Q80045,,,,City of Geneva
+US,AL,Alabama,Elba,relation,7440901,8,Cities/Towns/Villages/Municipalities,Q79487,,,,City of Elba
+US,AL,Alabama,Babbie,relation,7441182,8,Cities/Towns/Villages/Municipalities,Q66058,,,,Town of Babbie
+US,AL,Alabama,Onycha,relation,7441183,8,Cities/Towns/Villages/Municipalities,Q68028,,,,Town of Onycha
+US,AL,Alabama,Horn Hill,relation,7441184,8,Cities/Towns/Villages/Municipalities,Q68369,,,,Town of Horn Hill
+US,AL,Alabama,Opp,relation,7441185,8,Cities/Towns/Villages/Municipalities,Q79713,,,,City of Opp
+US,AL,Alabama,Evergreen,relation,7442087,8,Cities/Towns/Villages/Municipalities,Q79624,,,,City of Evergreen
+US,AL,Alabama,Chatom,relation,7443809,8,Cities/Towns/Villages/Municipalities,Q67150,,,,Town of Chatom
+US,AL,Alabama,Jackson,relation,7443844,8,Cities/Towns/Villages/Municipalities,Q79425,,,,City of Jackson
+US,AL,Alabama,Grove Hill,relation,7443861,8,Cities/Towns/Villages/Municipalities,Q67572,,,,Town of Grove Hill
+US,AL,Alabama,Butler,relation,7443870,8,Cities/Towns/Villages/Municipalities,Q75183,,,,Town of Butler
+US,AL,Alabama,Thomasville,relation,7443877,8,Cities/Towns/Villages/Municipalities,Q79885,,,,City of Thomasville
+US,AL,Alabama,Camden,relation,7444670,8,Cities/Towns/Villages/Municipalities,Q79387,,,,City of Camden
+US,AL,Alabama,Georgiana,relation,7452215,8,Cities/Towns/Villages/Municipalities,Q68396,,,,Town of Georgiana
+US,AL,Alabama,Rutledge,relation,7453372,8,Cities/Towns/Villages/Municipalities,Q67118,,,,Town of Rutledge
+US,AL,Alabama,Luverne,relation,7453373,8,Cities/Towns/Villages/Municipalities,Q79851,,,,City of Luverne
+US,AL,Alabama,Brundidge,relation,7456000,8,Cities/Towns/Villages/Municipalities,Q79262,,,,City of Brundidge
+US,AL,Alabama,Clayton,relation,7456008,8,Cities/Towns/Villages/Municipalities,Q66815,,,,Town of Clayton
+US,AL,Alabama,Geraldine,relation,7456343,8,Cities/Towns/Villages/Municipalities,Q67722,,,,Town of Geraldine
+US,AL,Alabama,Union Springs,relation,7456439,8,Cities/Towns/Villages/Municipalities,Q79771,,,,City of Union Springs
+US,AL,Alabama,LaFayette,relation,7458662,8,Cities/Towns/Villages/Municipalities,Q79492,,,,City of LaFayette
+US,AL,Alabama,Ashland,relation,7458749,8,Cities/Towns/Villages/Municipalities,Q67796,,,,Town of Ashland
+US,AL,Alabama,Dadeville,relation,7458822,8,Cities/Towns/Villages/Municipalities,Q79248,,,,City of Dadeville
+US,AL,Alabama,Greensboro,relation,7459331,8,Cities/Towns/Villages/Municipalities,Q79254,,,,City of Greensboro
+US,AL,Alabama,Demopolis,relation,7459376,8,Cities/Towns/Villages/Municipalities,Q79391,,,,City of Demopolis
+US,AL,Alabama,Linden,relation,7460239,8,Cities/Towns/Villages/Municipalities,Q79247,,,,City of Linden
+US,AL,Alabama,Gainesville,relation,7460312,8,Cities/Towns/Villages/Municipalities,Q67505,,,,Town of Gainesville
+US,AL,Alabama,Carrollton,relation,7460475,8,Cities/Towns/Villages/Municipalities,Q67822,,,,Town of Carrollton
+US,AL,Alabama,Vernon,relation,7460566,8,Cities/Towns/Villages/Municipalities,Q79443,,,,City of Vernon
+US,AL,Alabama,Fayette,relation,7461247,8,Cities/Towns/Villages/Municipalities,Q79370,,,,City of Fayette
+US,AL,Alabama,Phil Campbell,relation,7463690,8,Cities/Towns/Villages/Municipalities,Q68115,,,,Town of Phil Campbell
+US,AL,Alabama,Russellville,relation,7463746,8,Cities/Towns/Villages/Municipalities,Q79929,,,,City of Russellville
+US,AL,Alabama,Lester,relation,7464519,8,Cities/Towns/Villages/Municipalities,Q67946,,,,Town of Lester
+US,AL,Alabama,Moulton,relation,7464744,8,Cities/Towns/Villages/Municipalities,Q79240,,,,City of Moulton
+US,AL,Alabama,Henagar,relation,8243781,8,Cities/Towns/Villages/Municipalities,Q1259031,,,,City of Henagar
+US,AL,Alabama,Eutaw,relation,8280659,8,Cities/Towns/Villages/Municipalities,Q79214,,,,Town of Eutaw
+US,AL,Alabama,Rockford,relation,8309574,8,Cities/Towns/Villages/Municipalities,Q68041,,,,Town of Rockford
+US,AL,Alabama,Blountsville,relation,8309580,8,Cities/Towns/Villages/Municipalities,Q67264,,,,Town of Blountsville
+US,AL,Alabama,Carolina,relation,8309588,8,Cities/Towns/Villages/Municipalities,Q67586,,,,Town of Carolina
+US,AL,Alabama,Cherokee,relation,8309601,8,Cities/Towns/Villages/Municipalities,Q68299,,,,Town of Cherokee
+US,AL,Alabama,Eldridge,relation,8309608,8,Cities/Towns/Villages/Municipalities,Q68374,,,,Town of Eldridge
+US,AL,Alabama,Hoover,relation,8913572,8,Cities/Towns/Villages/Municipalities,Q79950,,,,City of Hoover
+US,AL,Alabama,Crossville,relation,10661604,8,Cities/Towns/Villages/Municipalities,Q67163,,,,Town of Crossville
+US,AL,Alabama,Brent,relation,11893865,8,Cities/Towns/Villages/Municipalities,Q79770,,,,City of Brent
+US,AL,Alabama,Gu-Win,relation,11893893,8,Cities/Towns/Villages/Municipalities,Q67319,,,,Town of Gu-Win
+US,AL,Alabama,Mosses,relation,11893910,8,Cities/Towns/Villages/Municipalities,Q67472,,,,Town of Mosses
+US,AL,Alabama,Holly Pond,relation,13507610,8,Cities/Towns/Villages/Municipalities,Q66767,,,,Town of Holly Pond
+US,AL,Alabama,Five Points,relation,13618477,8,Cities/Towns/Villages/Municipalities,Q66091,,,,Town of Five Points
+US,AL,Alabama,Sulligent,relation,13686007,8,Cities/Towns/Villages/Municipalities,Q79664,,,,City of Sulligent
+US,AL,Alabama,Aliceville,relation,13686022,8,Cities/Towns/Villages/Municipalities,Q79666,,,,City of Aliceville
+US,AL,Alabama,Livingston,relation,13686049,8,Cities/Towns/Villages/Municipalities,Q79589,,,,City of Livingston
+US,AL,Alabama,Samson,relation,13706415,8,Cities/Towns/Villages/Municipalities,Q79319,,,,City of Samson
+US,AL,Alabama,Hartford,relation,13706421,8,Cities/Towns/Villages/Municipalities,Q79238,,,,City of Hartford
+US,AL,Alabama,Coffee Springs,relation,13706422,8,Cities/Towns/Villages/Municipalities,Q65905,,,,Town of Coffee Springs
+US,AL,Alabama,Slocomb,relation,13706452,8,Cities/Towns/Villages/Municipalities,Q79456,,,,City of Slocomb
+US,AL,Alabama,Clio,relation,13706456,8,Cities/Towns/Villages/Municipalities,Q79704,,,,City of Clio
+US,AL,Alabama,Marion,relation,13706458,8,Cities/Towns/Villages/Municipalities,Q79706,,,,City of Marion
+US,AL,Alabama,Cordova,relation,13708080,8,Cities/Towns/Villages/Municipalities,Q79249,,,,City of Cordova
+US,AL,Alabama,Parrish,relation,13708202,8,Cities/Towns/Villages/Municipalities,Q65919,,,,Town of Parrish
+US,AL,Alabama,Hanceville,relation,13708537,8,Cities/Towns/Villages/Municipalities,Q79571,,,,City of Hanceville
+US,AL,Alabama,Garden City,relation,13708557,8,Cities/Towns/Villages/Municipalities,Q75211,,,,Town of Garden City
+US,AL,Alabama,Hurtsboro,relation,13766498,8,Cities/Towns/Villages/Municipalities,Q65546,,,,Town of Hurtsboro
+US,AL,Alabama,Louisville,relation,13766686,8,Cities/Towns/Villages/Municipalities,Q67924,,,,Town of Louisville
+US,AL,Alabama,New Site,relation,13770896,8,Cities/Towns/Villages/Municipalities,Q67514,,,,Town of New Site
+US,AL,Alabama,Kinston,relation,13775555,8,Cities/Towns/Villages/Municipalities,Q68435,,,,Town of Kinston
+US,AL,Alabama,Cottonwood,relation,13776145,8,Cities/Towns/Villages/Municipalities,Q68127,,,,Town of Cottonwood
+US,AL,Alabama,Midland City,relation,13777816,8,Cities/Towns/Villages/Municipalities,Q67065,,,,Town of Midland City
+US,AL,Alabama,Pinckard,relation,13777854,8,Cities/Towns/Villages/Municipalities,Q66609,,,,Town of Pinckard
+US,AL,Alabama,Columbia,relation,13777963,8,Cities/Towns/Villages/Municipalities,Q68444,,,,Town of Columbia
+US,AL,Alabama,Gordon,relation,13778049,8,Cities/Towns/Villages/Municipalities,Q65974,,,,Town of Gordon
+US,AL,Alabama,Avon,relation,13779898,8,Cities/Towns/Villages/Municipalities,Q66690,,,,Town of Avon
+US,AL,Alabama,Ashford,relation,13779899,8,Cities/Towns/Villages/Municipalities,Q66528,,,,City of Ashford
+US,AL,Alabama,Haleburg,relation,13783159,8,Cities/Towns/Villages/Municipalities,Q65763,,,,Town of Haleburg
+US,AL,Alabama,Blue Springs,relation,13791622,8,Cities/Towns/Villages/Municipalities,Q68271,,,,Town of Blue Springs
+US,AL,Alabama,Kinsey,relation,13793790,8,Cities/Towns/Villages/Municipalities,Q66385,,,,Town of Kinsey
+US,AL,Alabama,Newville,relation,13794089,8,Cities/Towns/Villages/Municipalities,Q67928,,,,Town of Newville
+US,AL,Alabama,Ragland,relation,13795060,8,Cities/Towns/Villages/Municipalities,Q68206,,,,Town of Ragland
+US,AL,Alabama,Autaugaville,relation,13795095,8,Cities/Towns/Villages/Municipalities,Q67852,,,,Town of Autaugaville
+US,AL,Alabama,Billingsley,relation,13795122,8,Cities/Towns/Villages/Municipalities,Q67811,,,,Town of Billingsley
+US,AL,Alabama,Sweet Water,relation,13795145,8,Cities/Towns/Villages/Municipalities,Q66621,,,,Town of Sweet Water
+US,AL,Alabama,Fulton,relation,13795147,8,Cities/Towns/Villages/Municipalities,Q67595,,,,Town of Fulton
+US,AL,Alabama,Frisco City,relation,13798448,8,Cities/Towns/Villages/Municipalities,Q65893,,,,Town of Frisco City
+US,AL,Alabama,River Falls,relation,13800650,8,Cities/Towns/Villages/Municipalities,Q66321,,,,Town of River Falls
+US,AL,Alabama,Heath,relation,13800689,8,Cities/Towns/Villages/Municipalities,Q68318,,,,Town of Heath
+US,AL,Alabama,Gantt,relation,13800727,8,Cities/Towns/Villages/Municipalities,Q66663,,,,Town of Gantt
+US,AL,Alabama,Brantley,relation,13800769,8,Cities/Towns/Villages/Municipalities,Q66351,,,,Town of Brantley
+US,AL,Alabama,Goshen,relation,13800987,8,Cities/Towns/Villages/Municipalities,Q66459,,,,Town of Goshen
+US,AL,Alabama,Glenwood,relation,13806022,8,Cities/Towns/Villages/Municipalities,Q66896,,,,Town of Glenwood
+US,AL,Alabama,Fort Deposit,relation,13809436,8,Cities/Towns/Villages/Municipalities,Q68153,,,,Town of Fort Deposit
+US,AL,Alabama,Lowndesboro,relation,13809485,8,Cities/Towns/Villages/Municipalities,Q65653,,,,Town of Lowndesboro
+US,AL,Alabama,Excel,relation,13810939,8,Cities/Towns/Villages/Municipalities,Q68289,,,,Town of Excel
+US,AL,Alabama,Castleberry,relation,13812357,8,Cities/Towns/Villages/Municipalities,Q66297,,,,Town of Castleberry
+US,AL,Alabama,Bridgeport,relation,13812366,8,Cities/Towns/Villages/Municipalities,Q79654,,,,City of Bridgeport
+US,AL,Alabama,Stevenson,relation,13812409,8,Cities/Towns/Villages/Municipalities,Q79563,,,,City of Stevenson
+US,AL,Alabama,Hollywood,relation,13812414,8,Cities/Towns/Villages/Municipalities,Q66045,,,,Town of Hollywood
+US,AL,Alabama,Camp Hill,relation,13812495,8,Cities/Towns/Villages/Municipalities,Q66450,,,,Town of Camp Hill
+US,AL,Alabama,Goodwater,relation,13812574,8,Cities/Towns/Villages/Municipalities,Q79617,,,,City of Goodwater
+US,AL,Alabama,Oak Grove,relation,13812598,8,Cities/Towns/Villages/Municipalities,Q65835,,,,Town of Oak Grove
+US,AL,Alabama,Maplesville,relation,13812614,8,Cities/Towns/Villages/Municipalities,Q68323,,,,Town of Maplesville
+US,AL,Alabama,Uniontown,relation,13813331,8,Cities/Towns/Villages/Municipalities,Q79421,,,,Town of Uniontown
+US,AL,Alabama,Thomaston,relation,13813360,8,Cities/Towns/Villages/Municipalities,Q66905,,,,Town of Thomaston
+US,AL,Alabama,Providence,relation,13813394,8,Cities/Towns/Villages/Municipalities,Q65824,,,,Town of Providence
+US,AL,Alabama,Pennington,relation,13813411,8,Cities/Towns/Villages/Municipalities,Q66010,,,,Town of Pennington
+US,AL,Alabama,Epes,relation,13813439,8,Cities/Towns/Villages/Municipalities,Q66560,,,,Town of Epes
+US,AL,Alabama,Boligee,relation,13813450,8,Cities/Towns/Villages/Municipalities,Q68009,,,,Town of Boligee
+US,AL,Alabama,Forkland,relation,13813478,8,Cities/Towns/Villages/Municipalities,Q66362,,,,Town of Forkland
+US,AL,Alabama,Akron,relation,13813488,8,Cities/Towns/Villages/Municipalities,Q66210,,,,Town of Akron
+US,AL,Alabama,Lisman,relation,13813506,8,Cities/Towns/Villages/Municipalities,Q67671,,,,Town of Lisman
+US,AL,Alabama,Geiger,relation,13815130,8,Cities/Towns/Villages/Municipalities,Q68403,,,,Town of Geiger
+US,AL,Alabama,Pickensville,relation,13815148,8,Cities/Towns/Villages/Municipalities,Q65641,,,,Town of Pickensville
+US,AL,Alabama,Millport,relation,13815167,8,Cities/Towns/Villages/Municipalities,Q67440,,,,Town of Millport
+US,AL,Alabama,Kennedy,relation,13815179,8,Cities/Towns/Villages/Municipalities,Q67761,,,,Town of Kennedy
+US,AL,Alabama,Vina,relation,13815221,8,Cities/Towns/Villages/Municipalities,Q67235,,,,Town of Vina
+US,AL,Alabama,Wedowee,relation,13817039,8,Cities/Towns/Villages/Municipalities,Q66926,,,,Town of Wedowee
+US,AL,Alabama,Woodland,relation,13817055,8,Cities/Towns/Villages/Municipalities,Q66886,,,,Town of Woodland
+US,AL,Alabama,Ranburne,relation,13817068,8,Cities/Towns/Villages/Municipalities,Q66536,,,,Town of Ranburne
+US,AL,Alabama,Fruithurst,relation,13817120,8,Cities/Towns/Villages/Municipalities,Q79225,,,,Town of Fruithurst
+US,AL,Alabama,Edwardsville,relation,13817164,8,Cities/Towns/Villages/Municipalities,Q67195,,,,Town of Edwardsville
+US,AL,Alabama,Gaylesville,relation,13817186,8,Cities/Towns/Villages/Municipalities,Q68252,,,,Town of Gaylesville
+US,AL,Alabama,Collinsville,relation,13817227,8,Cities/Towns/Villages/Municipalities,Q67328,,,,Town of Collinsville
+US,AL,Alabama,Hammondville,relation,13817253,8,Cities/Towns/Villages/Municipalities,Q66640,,,,Town of Hammondville
+US,AL,Alabama,Valley Head,relation,13817254,8,Cities/Towns/Villages/Municipalities,Q66599,,,,Town of Valley Head
+US,AL,Alabama,Mentone,relation,13817255,8,Cities/Towns/Villages/Municipalities,Q67974,,,,Town of Mentone
+US,AL,Alabama,Repton,relation,13827843,8,Cities/Towns/Villages/Municipalities,Q66946,,,,Town of Repton
+US,AL,Alabama,Libertyville,relation,13832834,8,Cities/Towns/Villages/Municipalities,Q67856,,,,Town of Libertyville
+US,AL,Alabama,Clayhatchee,relation,13857206,8,Cities/Towns/Villages/Municipalities,Q65447,,,,Town of Clayhatchee
+US,AL,Alabama,Black,relation,13916455,8,Cities/Towns/Villages/Municipalities,Q66825,,,,Town of Black
+US,AL,Alabama,Pine Apple,relation,13929004,8,Cities/Towns/Villages/Municipalities,Q65571,,,,Town of Pine Apple
+US,AL,Alabama,Hayneville,relation,13931158,8,Cities/Towns/Villages/Municipalities,Q68092,,,,Town of Hayneville
+US,AL,Alabama,Benton,relation,13931357,8,Cities/Towns/Villages/Municipalities,Q67269,,,,Town of Benton
+US,AL,Alabama,McIntosh,relation,14066922,8,Cities/Towns/Villages/Municipalities,Q65608,,,,Town of McIntosh
+US,AL,Alabama,Taylor,relation,14531007,8,Cities/Towns/Villages/Municipalities,Q68361,,,,City of Taylor
+US,AL,Alabama,Gattman,relation,14988959,8,Cities/Towns/Villages/Municipalities,Q2187337,,,,
+US,AL,Alabama,Grimes,relation,16138482,8,Cities/Towns/Villages/Municipalities,Q65593,,,,Town of Grimes
+US,AL,Alabama,Napier Field,relation,16138483,8,Cities/Towns/Villages/Municipalities,Q66374,,,,Town of Napier Field
+US,AL,Alabama,Vincent,relation,16201564,8,Cities/Towns/Villages/Municipalities,Q67521,,,,Town of Vincent
+US,AL,Alabama,Riverside,relation,16201565,8,Cities/Towns/Villages/Municipalities,Q67185,,,,City of Riverside
+US,AL,Alabama,Red Level,relation,16201566,8,Cities/Towns/Villages/Municipalities,Q67905,,,,Town of Red Level
+US,AL,Alabama,Hytop,relation,16201567,8,Cities/Towns/Villages/Municipalities,Q66495,,,,Town of Hytop
+US,AL,Alabama,Leeds,relation,16327209,8,Cities/Towns/Villages/Municipalities,Q79869,,,,City of Leeds
+US,AL,Alabama,Leesburg,relation,16327596,8,Cities/Towns/Villages/Municipalities,Q66420,,,,Town of Leesburg
+US,AL,Alabama,Allgood,relation,16447397,8,Cities/Towns/Villages/Municipalities,Q68430,,,,Town of Allgood
+US,AL,Alabama,New Hope,relation,16447398,8,Cities/Towns/Villages/Municipalities,Q79900,,,,City of New Hope
+US,AL,Alabama,West Blocton,relation,16473562,8,Cities/Towns/Villages/Municipalities,Q66521,,,,Town of West Blocton
+US,AL,Alabama,Morris,relation,16473643,8,Cities/Towns/Villages/Municipalities,Q66440,,,,Town of Morris
+US,AL,Alabama,Faunsdale,relation,16824733,8,Cities/Towns/Villages/Municipalities,Q66503,,,,Town of Faunsdale
+US,AL,Alabama,Littleville,relation,16826314,8,Cities/Towns/Villages/Municipalities,Q66574,,,,Town of Littleville
+US,AL,Alabama,West Jefferson,relation,16826846,8,Cities/Towns/Villages/Municipalities,Q65735,,,,Town of West Jefferson
+US,AL,Alabama,Fairfield,relation,16827059,8,Cities/Towns/Villages/Municipalities,Q79722,,,,City of Fairfield
+US,AL,Alabama,Midway,relation,16827123,8,Cities/Towns/Villages/Municipalities,Q68378,,,,Town of Midway
+US,AL,Alabama,Berlin,relation,16827235,8,Cities/Towns/Villages/Municipalities,Q4892339,,,,Town of Berlin
+US,AL,Alabama,Brilliant,relation,16827383,8,Cities/Towns/Villages/Municipalities,Q68058,,,,Town of Brilliant
+US,AL,Alabama,Kellyton,relation,16827697,8,Cities/Towns/Villages/Municipalities,Q66856,,,,Town of Kellyton
+US,AL,Alabama,Gilbertown,relation,16827962,8,Cities/Towns/Villages/Municipalities,Q68021,,,,Town of Gilbertown
+US,AL,Alabama,Silas,relation,16828165,8,Cities/Towns/Villages/Municipalities,Q68418,,,,Town of Silas
+US,AL,Alabama,Toxey,relation,16828175,8,Cities/Towns/Villages/Municipalities,Q66915,,,,Town of Toxey
+US,AL,Alabama,Franklin,relation,16829662,8,Cities/Towns/Villages/Municipalities,Q66739,,,,Town of Franklin
+US,AL,Alabama,Notasulga,relation,16829690,8,Cities/Towns/Villages/Municipalities,Q68131,,,,Town of Notasulga
+US,AL,Alabama,Bon Air,relation,16834514,8,Cities/Towns/Villages/Municipalities,Q67661,,,,Town of Bon Air
+US,AL,Alabama,Kansas,relation,16835561,8,Cities/Towns/Villages/Municipalities,Q68088,,,,Town of Kansas
+US,AL,Alabama,Oakman,relation,16835586,8,Cities/Towns/Villages/Municipalities,Q68328,,,,Town of Oakman
+US,AL,Alabama,Orrville,relation,16837363,8,Cities/Towns/Villages/Municipalities,Q65985,,,,Town of Orrville
+US,AL,Alabama,Gordo,relation,16837765,8,Cities/Towns/Villages/Municipalities,Q67487,,,,Town of Gordo
+US,AL,Alabama,Detroit,relation,16849747,8,Cities/Towns/Villages/Municipalities,Q68232,,,,Town of Detroit
+US,AL,Alabama,Magnolia Springs,relation,16849766,8,Cities/Towns/Villages/Municipalities,Q68422,,,,Town of Magnolia Springs
+US,AL,Alabama,Woodville,relation,16849807,8,Cities/Towns/Villages/Municipalities,Q67108,,,,Town of Woodville
+US,AL,Alabama,Pisgah,relation,16849812,8,Cities/Towns/Villages/Municipalities,Q68182,,,,Town of Pisgah
+US,AL,Alabama,Emelle,relation,16850013,8,Cities/Towns/Villages/Municipalities,Q66719,,,,Town of Emelle
+US,AL,Alabama,Brookside,relation,16851091,8,Cities/Towns/Villages/Municipalities,Q66072,,,,Town of Brookside
+US,AL,Alabama,North Johns,relation,16855199,8,Cities/Towns/Villages/Municipalities,Q66233,,,,Town of North Johns
+US,AL,Alabama,Hillsboro,relation,16856389,8,Cities/Towns/Villages/Municipalities,Q67342,,,,Town of Hillsboro
+US,AL,Alabama,Riverview,relation,16857358,8,Cities/Towns/Villages/Municipalities,Q68388,,,,Town of Riverview
+US,AL,Alabama,Myrtlewood,relation,16857647,8,Cities/Towns/Villages/Municipalities,Q65745,,,,Town of Myrtlewood
+US,AL,Alabama,Perdido Beach,relation,16863963,8,Cities/Towns/Villages/Municipalities,Q1274345,,,,Town of Perdido Beach
+US,AL,Alabama,Bakerhill,relation,16864047,8,Cities/Towns/Villages/Municipalities,Q79605,,,,Town of Bakerhill
+US,AL,Alabama,Wilton,relation,16864570,8,Cities/Towns/Villages/Municipalities,Q65636,,,,Town of Wilton
+US,AL,Alabama,Elkmont,relation,16864796,8,Cities/Towns/Villages/Municipalities,Q67000,,,,Town of Elkmont
+US,AL,Alabama,Langston,relation,16865194,8,Cities/Towns/Villages/Municipalities,Q67732,,,,Town of Langston
+US,AL,Alabama,Pleasant Groves,relation,16865233,8,Cities/Towns/Villages/Municipalities,Q66699,,,,Town of Pleasant Groves
+US,AL,Alabama,Section,relation,16865342,8,Cities/Towns/Villages/Municipalities,Q67828,,,,Town of Section
+US,AL,Alabama,Memphis,relation,16865789,8,Cities/Towns/Villages/Municipalities,Q67363,,,,Town of Memphis
+US,AL,Alabama,Reform,relation,16865993,8,Cities/Towns/Villages/Municipalities,Q79522,,,,Town of Reform
+US,AL,Alabama,McMullen,relation,16866114,8,Cities/Towns/Villages/Municipalities,Q66792,,,,Town of McMullen
+US,AL,Alabama,Talladega Springs,relation,16866122,8,Cities/Towns/Villages/Municipalities,Q67429,,,,Town of Talladega Springs
+US,AL,Alabama,Newbern,relation,16867095,8,Cities/Towns/Villages/Municipalities,Q66780,,,,Town of Newbern
+US,AL,Alabama,Skyline,relation,16867269,8,Cities/Towns/Villages/Municipalities,Q65558,,,,Town of Skyline
+US,AL,Alabama,Vredenburgh,relation,16871077,8,Cities/Towns/Villages/Municipalities,Q65712,,,,Town of Vredenburgh
+US,AL,Alabama,Waverly,relation,16871154,8,Cities/Towns/Villages/Municipalities,Q68101,,,,Town of Waverly
+US,AL,Alabama,Semmes,relation,16871276,8,Cities/Towns/Villages/Municipalities,Q79476,,,,City of Semmes
+US,AL,Alabama,Loachapoka,relation,16871421,8,Cities/Towns/Villages/Municipalities,Q67716,,,,Town of Loachapoka
+US,AL,Alabama,Leighton,relation,16871554,8,Cities/Towns/Villages/Municipalities,Q66513,,,,Town of Leighton
+US,AL,Alabama,Sanford,relation,16889427,8,Cities/Towns/Villages/Municipalities,Q66866,,,,Town of Sanford
+US,AL,Alabama,Ardmore,relation,16889477,8,Cities/Towns/Villages/Municipalities,Q67910,,,,Town of Ardmore
+US,AL,Alabama,Natural Bridge,relation,16889556,8,Cities/Towns/Villages/Municipalities,Q66555,,,,Town of Natural Bridge
+US,AL,Alabama,Town Creek,relation,16890069,8,Cities/Towns/Villages/Municipalities,Q66198,,,,Town of Town Creek
+US,AL,Alabama,Union Grove,relation,16890827,8,Cities/Towns/Villages/Municipalities,Q65755,,,,Town of Union Grove
+US,AL,Alabama,Cleveland,relation,16890867,8,Cities/Towns/Villages/Municipalities,Q65881,,,,Town of Cleveland
+US,AL,Alabama,Hayden,relation,16890940,8,Cities/Towns/Villages/Municipalities,Q66651,,,,Town of Hayden
+US,AL,Alabama,Millry,relation,16891551,8,Cities/Towns/Villages/Municipalities,Q66587,,,,Town of Millry
+US,AL,Alabama,Snead,relation,16891560,8,Cities/Towns/Villages/Municipalities,Q66429,,,,Town of Snead
+US,AL,Alabama,Brighton,relation,16891603,8,Cities/Towns/Villages/Municipalities,Q80047,,,,City of Brighton
+US,AL,Alabama,Cardiff,relation,16891617,8,Cities/Towns/Villages/Municipalities,Q67605,,,,Town of Cardiff
+US,AL,Alabama,Belk,relation,16892440,8,Cities/Towns/Villages/Municipalities,Q66150,,,,Town of Belk
+US,AL,Alabama,Madrid,relation,16892938,8,Cities/Towns/Villages/Municipalities,Q66470,,,,Town of Madrid
+US,AL,Alabama,Dauphin Island,relation,16894283,8,Cities/Towns/Villages/Municipalities,Q932623,,,,Town of Dauphin Island
+US,AL,Alabama,Ridgeville,relation,16900620,8,Cities/Towns/Villages/Municipalities,Q67218,,,,Town of Ridgeville
+US,AL,Alabama,Walnut Grove,relation,16901022,8,Cities/Towns/Villages/Municipalities,Q65928,,,,Town of Walnut Grove
+US,AL,Alabama,Banks,relation,16906722,8,Cities/Towns/Villages/Municipalities,Q66187,,,,Town of Banks
+US,AL,Alabama,White Hall,relation,16906729,8,Cities/Towns/Villages/Municipalities,Q67309,,,,Town of White Hall
+US,AL,Alabama,Hodges,relation,16907696,8,Cities/Towns/Villages/Municipalities,Q67021,,,,Town of Hodges
+US,AL,Alabama,Waldo,relation,16908575,8,Cities/Towns/Villages/Municipalities,Q65859,,,,Town of Waldo
+US,AL,Alabama,Wadley,relation,16919457,8,Cities/Towns/Villages/Municipalities,Q66340,,,,Town of Wadley
+US,AL,Alabama,Sipsey,relation,16919551,8,Cities/Towns/Villages/Municipalities,Q68142,,,,Town of Sipsey
+US,AL,Alabama,Oak Hill,relation,16919585,8,Cities/Towns/Villages/Municipalities,Q65480,,,,Town of Oak Hill
+US,AL,Alabama,Pine Hill,relation,16919636,8,Cities/Towns/Villages/Municipalities,Q65677,,,,Town of Pine Hill
+US,AL,Alabama,Anderson,relation,16920021,8,Cities/Towns/Villages/Municipalities,Q67955,,,,Town of Anderson
+US,AL,Alabama,Killen,relation,16920079,8,Cities/Towns/Villages/Municipalities,Q66273,,,,Town of Killen
+US,AL,Alabama,Waterloo,relation,16920103,8,Cities/Towns/Villages/Municipalities,Q68241,,,,Town of Waterloo
+US,AL,Alabama,Rogersville,relation,16920178,8,Cities/Towns/Villages/Municipalities,Q67228,,,,Town of Rogersville
+US,AL,Alabama,Baileyton,relation,16941513,8,Cities/Towns/Villages/Municipalities,Q67886,,,,Town of Baileyton
+US,AL,Alabama,Dodge City,relation,16941597,8,Cities/Towns/Villages/Municipalities,Q67630,,,,Town of Dodge City
+US,AL,Alabama,Ethelsville,relation,16941635,8,Cities/Towns/Villages/Municipalities,Q66990,,,,Town of Ethelsville
+US,AL,Alabama,Cusseta,relation,16941759,8,Cities/Towns/Villages/Municipalities,Q79469,,,,Town of Cusseta
+US,AL,Alabama,Fairview,relation,16942087,8,Cities/Towns/Villages/Municipalities,Q66258,,,,Town of Fairview
+US,AL,Alabama,Good Hope,relation,16942138,8,Cities/Towns/Villages/Municipalities,Q66409,,,,City of Good Hope
+US,AL,Alabama,McKenzie,relation,16942350,8,Cities/Towns/Villages/Municipalities,Q68194,,,,Town of McKenzie
+US,AL,Alabama,Beatrice,relation,16944463,8,Cities/Towns/Villages/Municipalities,Q66224,,,,Town of Beatrice
+US,AL,Alabama,Daviston,relation,16944796,8,Cities/Towns/Villages/Municipalities,Q68412,,,,Town of Daviston
+US,AL,Alabama,Lake View,relation,16944908,8,Cities/Towns/Villages/Municipalities,Q932735,,,,Town of Lake View
+US,AL,Alabama,Goldville,relation,16944970,8,Cities/Towns/Villages/Municipalities,Q67532,,,,Town of Goldville
+US,AL,Alabama,Petrey,relation,16945534,8,Cities/Towns/Villages/Municipalities,Q65794,,,,Town of Petrey
+US,AL,Alabama,Pollard,relation,16945552,8,Cities/Towns/Villages/Municipalities,Q67687,,,,Town of Pollard
+US,AL,Alabama,Paint Rock,relation,16945933,8,Cities/Towns/Villages/Municipalities,Q66967,,,,Town of Paint Rock
+US,AL,Alabama,Beaverton,relation,16946074,8,Cities/Towns/Villages/Municipalities,Q66170,,,,Town of Beaverton
+US,AL,Alabama,Dayton,relation,16947240,8,Cities/Towns/Villages/Municipalities,Q67012,,,,Town of Dayton
+US,AL,Alabama,Yellow Bluff,relation,16947813,8,Cities/Towns/Villages/Municipalities,Q65625,,,,Town of Yellow Bluff
+US,AL,Alabama,Needham,relation,16998479,8,Cities/Towns/Villages/Municipalities,Q65940,,,,Town of Needham
+US,AL,Alabama,Coffeeville,relation,16998806,8,Cities/Towns/Villages/Municipalities,Q66835,,,,Town of Coffeeville
+US,AL,Alabama,North Courtland,relation,16999132,8,Cities/Towns/Villages/Municipalities,Q65667,,,,Town of North Courtland
+US,AL,Alabama,Silverhill,relation,16999245,8,Cities/Towns/Villages/Municipalities,Q67127,,,,Town of Silverhill
+US,AL,Alabama,Summerdale,relation,16999261,8,Cities/Towns/Villages/Municipalities,Q66937,,,,Town of Summerdale
+US,AL,Alabama,Gurley,relation,16999547,8,Cities/Towns/Villages/Municipalities,Q67451,,,,Town of Gurley
+US,AL,Alabama,Cherokee Ridge,relation,17974706,8,Cities/Towns/Villages/Municipalities,,,,,

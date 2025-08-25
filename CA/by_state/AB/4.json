@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "AB",
+    "state_name": "Alberta",
+    "name": "Alberta",
+    "osm_type": "relation",
+    "osm_id": 391186,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q1951",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "AB",
+    "official_name": null
+  }
+]

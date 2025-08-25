@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "MI",
+    "state_name": "Michigan",
+    "name": "Michigan",
+    "osm_type": "relation",
+    "osm_id": 165789,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q1166",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "MI",
+    "official_name": null
+  }
+]

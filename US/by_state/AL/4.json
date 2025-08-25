@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "AL",
+    "state_name": "Alabama",
+    "name": "Alabama",
+    "osm_type": "relation",
+    "osm_id": 161950,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q173",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "AL",
+    "official_name": null
+  }
+]

@@ -1,0 +1,5 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,WA,Washington,North Hill,relation,7499595,9,Wards/Districts,,,,,
+US,WA,Washington,Midway,relation,7499608,9,Wards/Districts,,,,,
+US,WA,Washington,Pacific Ridge,relation,7511152,9,Wards/Districts,,,,,
+US,WA,Washington,Chinatown International District,relation,17914850,9,Wards/Districts,,,,,

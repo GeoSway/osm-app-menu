@@ -1,0 +1,4 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,KS,Kansas,Potwin Place,way,205005478,10,Neighborhoods/Hamlets,,,,,
+US,KS,Kansas,Northview,way,1078246263,10,Neighborhoods/Hamlets,,,,,
+US,KS,Kansas,East Campus,way,1131773154,10,Neighborhoods/Hamlets,,,,,

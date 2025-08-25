@@ -1,0 +1,7 @@
+country,state_abbr,state_name,name,osm_type,osm_id,admin_level,level_name,wikidata,fips,alt_name,short_name,official_name
+US,WV,West Virginia,Grant District,relation,15840863,7,Townships/Boroughs/Districts,,,,,
+US,WV,West Virginia,Clay District,relation,15840864,7,Townships/Boroughs/Districts,,,,,
+US,WV,West Virginia,Butler District,relation,15840865,7,Townships/Boroughs/Districts,,,,,
+US,WV,West Virginia,Weirton District,relation,15848584,7,Townships/Boroughs/Districts,,,,,
+US,WV,West Virginia,Follansbee District,relation,15848585,7,Townships/Boroughs/Districts,,,,,
+US,WV,West Virginia,Wellsburg District,relation,15848587,7,Townships/Boroughs/Districts,,,,,

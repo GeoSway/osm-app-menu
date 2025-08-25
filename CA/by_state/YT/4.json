@@ -1,0 +1,17 @@
+[
+  {
+    "country": "CA",
+    "state_abbr": "YT",
+    "state_name": "Yukon",
+    "name": "Yukon",
+    "osm_type": "relation",
+    "osm_id": 391455,
+    "admin_level": "4",
+    "level_name": "Provinces/Territories",
+    "wikidata": "Q2009",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "YT",
+    "official_name": null
+  }
+]

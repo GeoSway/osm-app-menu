@@ -1,0 +1,17 @@
+[
+  {
+    "country": "US",
+    "state_abbr": "GU",
+    "state_name": "Guam",
+    "name": "Guam",
+    "osm_type": "relation",
+    "osm_id": 306001,
+    "admin_level": "4",
+    "level_name": "States/DC/Territories",
+    "wikidata": "Q16635",
+    "fips": null,
+    "alt_name": null,
+    "short_name": "GU",
+    "official_name": null
+  }
+]
